@@ -89,19 +89,23 @@ Below are a set of indicators that provide additional context about defendant ch
 
 <br>
 
-<iframe title="PPI 4.3 Violent Recidivism" aria-label="Interactive area chart" id="datawrapper-chart-efCar" src="https://datawrapper.dwcdn.net/efCar/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Violent Recidivism" aria-label="Interactive area chart" id="datawrapper-chart-Y9q6e" src="https://datawrapper.dwcdn.net/Y9q6e/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 <br>
+
+<br>
+
+<iframe title="Escalation in Criminal Behavior" aria-label="Interactive line chart" id="datawrapper-chart-hUiM4" src="https://datawrapper.dwcdn.net/hUiM4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
-<iframe title="PPI 4.5 Escalation in Offending" aria-label="Interactive line chart" id="datawrapper-chart-cCkjs" src="https://datawrapper.dwcdn.net/cCkjs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+<br>
 
 ## **Notes:**
 
