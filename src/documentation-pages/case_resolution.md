@@ -12,7 +12,7 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 <br>
 
-<iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-aAMBL" src="https://datawrapper.dwcdn.net/aAMBL/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="338"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-t6oHZ" src="https://datawrapper.dwcdn.net/t6oHZ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -21,8 +21,8 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 <br>
 
-<iframe title="Felony Cases Resolved, by Resolution Type" aria-label="Stacked Column Chart" id="datawrapper-chart-OcejH" src="https://datawrapper.dwcdn.net/OcejH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script><br>
+<iframe title="Felony Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-XB270" src="https://datawrapper.dwcdn.net/XB270/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
 
 <br>
 
@@ -30,7 +30,7 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 <br>
 
-<iframe title="Misdemeanor Cases Resolved, by Resolution Type" aria-label="Stacked Column Chart" id="datawrapper-chart-HuNcC" src="https://datawrapper.dwcdn.net/HuNcC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-t3Jci" src="https://datawrapper.dwcdn.net/t3Jci/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
