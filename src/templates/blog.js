@@ -20,7 +20,7 @@ const Blog = ({ data, pageContext }) => {
         <div className="grid-container">
           <h1 className="text-normal text-white margin-0">Data Stories</h1>
           <span className="text-base-lighter display-block padding-top-1 text-light">
-            Deep dives into the First Judicial District Attorney's office.
+            Deep dives into the Eighteenth Judicial District Attorney's office.
           </span>
         </div>
       </div>
