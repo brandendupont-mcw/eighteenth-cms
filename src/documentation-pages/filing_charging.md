@@ -14,7 +14,8 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 
 <br>
 
-<iframe title="Cases Filed" aria-label="Table" id="datawrapper-chart-9gn81" src="https://datawrapper.dwcdn.net/9gn81/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}(); </script> <br>
+<iframe title="Cases Filed" aria-label="Table" id="datawrapper-chart-mU8ry" src="https://datawrapper.dwcdn.net/mU8ry/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
 
 <br>
 
@@ -22,7 +23,8 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 
 <br>
 
-<iframe title="Number of Cases Filed, by Year" aria-label="Interactive line chart" id="datawrapper-chart-O3cnm" src="https://datawrapper.dwcdn.net/O3cnm/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}(); </script>  <br>
+<iframe title="Number of Cases Filed, by Year " aria-label="Interactive line chart" id="datawrapper-chart-76b0m" src="https://datawrapper.dwcdn.net/76b0m/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>  <br>
 
 <br>
 
@@ -30,7 +32,8 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 
 <br>
 
-<iframe title="Number of Cases Filed, by Charge Level" aria-label="Interactive line chart" id="datawrapper-chart-896vL" src="https://datawrapper.dwcdn.net/896vL/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}(); </script> <br>
+<iframe title="Number of Cases Filed, by Charge Level" aria-label="Interactive line chart" id="datawrapper-chart-vvmob" src="https://datawrapper.dwcdn.net/vvmob/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
 
 <br>
 
@@ -38,7 +41,7 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 
 <br>
 
-<iframe title="Number of Cases Filed, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-Lumtt" src="https://datawrapper.dwcdn.net/Lumtt/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-B3Vf7" src="https://datawrapper.dwcdn.net/B3Vf7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
@@ -49,7 +52,8 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 
 <br>
 
-<iframe title="Number of Cases Filed, by Charge Type" aria-label="Column Chart" id="datawrapper-chart-RJG3K" src="https://datawrapper.dwcdn.net/RJG3K/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}(); </script> <br>
+<iframe title="Number of Cases Filed, by Charge Type" aria-label="Column Chart" id="datawrapper-chart-FeiaO" src="https://datawrapper.dwcdn.net/FeiaO/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
 
 <br>
 
@@ -63,12 +67,23 @@ Below are a set of indicators that provide additional context about cases filed.
 
 <br>
 
-<iframe title="PPI 2.3 Prioritizing Cases with the Greatest Public Safety Returns" aria-label="Interactive line chart" id="datawrapper-chart-oonrF" src="https://datawrapper.dwcdn.net/oonrF/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Prioritizing Cases with the Greatest Public Safety Returns" aria-label="Interactive line chart" id="datawrapper-chart-ZFdOH" src="https://datawrapper.dwcdn.net/ZFdOH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
+<br>
+
+<iframe title="Violent Crimes Filed" aria-label="Interactive line chart" id="datawrapper-chart-TmHBM" src="https://datawrapper.dwcdn.net/TmHBM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
 **\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+
+<br>
+
+<br>
 
 ### Notes 
 
