@@ -14,7 +14,7 @@ const Tagline = () => (
       </div>
       <div className="tablet:grid-col-8 usa-prose">
         <p>
-        The 1st Judicial District Office is committed to providing the public with greater insight and transparency into what happens in our county courtrooms.
+        The Eighteenth Judicial District Office is committed to providing the public with greater insight and transparency into what happens in our county courtrooms.
         </p>
         <p>
         Giving the community access to information about case referrals, outcomes, and performance indicators will bring greater accountability to the DA's Office and improve the fairness and effectiveness of the criminal justice system.
