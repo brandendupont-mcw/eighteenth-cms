@@ -142,6 +142,33 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
+
+
+## Below are alternate graphs for pretrial detention, limited to non-traffic cases.
+
+<iframe title="Reducing Reliance on Pretrial Detention for Non-Traffic Cases" aria-label="Interactive line chart" id="datawrapper-chart-oJoEJ" src="https://datawrapper.dwcdn.net/oJoEJ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+
+<br>
+
+<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants " aria-label="Bullet Bars" id="datawrapper-chart-rhUJ6" src="https://datawrapper.dwcdn.net/rhUJ6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="388"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+
+<br>
+
+<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-immfo" src="https://datawrapper.dwcdn.net/immfo/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="388"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+
+
 ### Notes:
 
 * This data reflects only those cases where a sentence was ultimately imposed. Cases that resulted in diversion, an outright dismissal, or some other resolution, are not reflected here. 
