@@ -81,6 +81,6 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: Would be interesting to further examine this indicator in relation to our declination rate for sexual assault referrals. ]*
 
 <br>
