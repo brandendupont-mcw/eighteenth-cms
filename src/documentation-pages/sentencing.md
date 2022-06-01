@@ -15,7 +15,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-UMik4" src="https://datawrapper.dwcdn.net/UMik4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**\[Add any reflections on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -26,7 +26,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**\[Add any reflections on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -35,7 +35,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**\[Add any reflections on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -44,7 +44,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**\[Add any reflections on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -161,7 +161,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
@@ -171,4 +171,4 @@ Below are a set of indicators that provide additional context about sentencing. 
 ### Notes:
 
 * This data reflects only those cases where a sentence was ultimately imposed. Cases that resulted in diversion, an outright dismissal, or some other resolution, are not reflected here. 
-* This data represents initial sentences only, sometimes a case may have a subsequent sentence in cases where there are grounds for a motion to reconsider. Those are not represented here.
+* This data represents initial sentences only, sometimes a case may have a subsequent sentence in cases because of a revocation of probation or due to a request to modify the sentence. Those subsequent sentences are not represented here.
