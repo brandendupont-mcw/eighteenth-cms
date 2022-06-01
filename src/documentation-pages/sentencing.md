@@ -69,7 +69,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: We will continue to monitor while taking into account the criminal history of each defendant and the types of charges.***]**
 
 <br>
 
