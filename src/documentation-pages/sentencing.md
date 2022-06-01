@@ -87,7 +87,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG reflection: We will continue to monitor this indicator and further examine how decisions are being made considering the offense and criminal history. We will discuss what leverage points can help reduce harm caused by system drivers of disparities***.]**
 
 <br>
 
