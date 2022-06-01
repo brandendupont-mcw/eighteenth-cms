@@ -32,18 +32,34 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about felony referrals. These indicators help the DA's Office ensure they maximize government resources by making strategic decisions about which cases to accept for prosecution.<br>
+Below are a set of indicators that provide additional context about felony referrals. These indicators help the DA's Office ensure they maximize government resources by making strategic decisions about which cases to accept for prosecution. <br>
 
 <br>
+
+<iframe title="Case Filling Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-Gyk89" src="https://datawrapper.dwcdn.net/Gyk89/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="377"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities for the above PPI]**
+
+<br>
+
+<iframe title="Case Filling Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-PcYRd" src="https://datawrapper.dwcdn.net/PcYRd/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="377"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities for the above PPI]**
 
 <br>
 
 <iframe title="Ability to Identify Dismissible Cases at Filing" aria-label="Interactive line chart" id="datawrapper-chart-ZPBFD" src="https://datawrapper.dwcdn.net/ZPBFD/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities for the above PPI]**
-
 <br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities for the above PPI]**
 
 <br>
 
