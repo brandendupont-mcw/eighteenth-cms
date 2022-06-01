@@ -132,7 +132,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI; WG Reflection** Need to investigate what is happening here / is it something we can control? s it similar for crimes of violence? Examine further what types of crimes are driving these differences. Is it driven by previous criminal history?  Is it by location - arapahoe vs. douglas county? Is the DA asking for the same thing on similar types of cases? (challenge b/c no field) Is there a consideration re: financial resources when asking for bond? ; Threat to community and likelihood of showing back up as the two major considerations ; Seems like get to a better outcome later on re: incarceration #s]
 
 <br>
 
