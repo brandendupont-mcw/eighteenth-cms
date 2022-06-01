@@ -25,7 +25,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**\[Add any reflections on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -34,7 +34,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection:  We have some hesitation about the reliability of our victim race/ethnicity data due to how this is being logged in our case management system.***]**
 
 <br>
 
