@@ -102,7 +102,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases. Furthermore, cases diverted will lengthen the average time to dismissal as defendants must complete programming successfully before dismissal. We will continue to monitor this indicator.***]**
 
 <br>
 
