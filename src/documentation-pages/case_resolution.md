@@ -48,7 +48,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: The office charges based on what the evidence can prove, however we often engage in appropriate negotiation that results in a reduction in the charge. We will continue to monitor our charging decisions and negotiation practices***.]**
 
 <br>
 
