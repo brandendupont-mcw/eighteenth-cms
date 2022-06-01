@@ -57,7 +57,10 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI; WG Reflections:** *We will continue to monitor. Some decisions are outside of the prosecutors control, including a large number of misdemeanors that require mandatory jail time.*
+
+1. *Interested in diving into this further. What % of cases (drug offense and shoplift) are individuals who just want the case to be over.* 
+2. *DUI cases have mandatory jail (no prosecutorial discretion)***]**
 
 <br>
 
