@@ -66,7 +66,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: Data collection for individuals identified as hispanic has improved since 2018***.]**
 
 <br>
 
