@@ -112,7 +112,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 <iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-5paDy" src="https://datawrapper.dwcdn.net/5paDy/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
@@ -123,7 +123,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: This does not include individuals who weren’t convicted because it is based on the initial sentence including ‘time-served’. We want this to change - out of 6 people we are locking someone up. Out of the 1000s of cases we are doing. Seems high. Includes all the summons, not just people actually see in court every day (FAC cases, 101 cases); think the actual # is higher in terms of who we actually assess]*
 
 <br>
 
@@ -132,7 +132,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
