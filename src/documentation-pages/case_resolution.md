@@ -59,7 +59,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to achieve racial/ethnic equity in plea outcomes to ensure that the vast majority of cases receive fair treatment.***]**
 
 <br>
 
@@ -68,7 +68,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: Data collection for individuals identified as hispanic has improved since 2018**\*.]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to achieve racial/ethnic equity in plea outcomes to ensure that the vast majority of cases receive fair treatment.* **WG Reflection:** Data collection for individuals identified as hispanic has improved since 2018**\*.]**
 
 <br>
 
