@@ -86,7 +86,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx***]**
 
 <br>
 
@@ -95,7 +95,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx***]**
 
 <br>
 
