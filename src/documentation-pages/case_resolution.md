@@ -77,7 +77,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities;** *WG Reflection: Several factors outside of the prosecutor’s control impact the length of a case, including: access to a public defender and a particular county’s court hours.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. To further decrease the time to resolution, our office plans to xxxx.***;** ***WG Reflection:** Several factors outside of the prosecutor’s control impact the length of a case, including: access to a public defender and a particular county’s court hours.**\*]**
 
 <br>
 
