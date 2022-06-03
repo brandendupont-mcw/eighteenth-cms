@@ -113,7 +113,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection:  During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. “In general, we would like to decrease the number of hearings to avoid prolonged case processing. As a next step our office plans to xxxx.* ***WG Reflection:**  During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases.**\*]**
 
 <br>
 
