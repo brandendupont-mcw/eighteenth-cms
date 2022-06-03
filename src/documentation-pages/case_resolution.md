@@ -48,7 +48,9 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: The office charges based on what the evidence can prove, however we often engage in appropriate negotiation that results in a reduction in the charge. We will continue to monitor our charging decisions and negotiation practices***.]**
+**[Add any reflections on trends, current value, and/or planned activities, for e.g.** *We want this number to be low to ensure accurate initial charging decisions based on the facts of the case.* 
+
+\***WG Reflection:** The office charges based on what the evidence can prove, however we often engage in appropriate negotiation that results in a reduction in the charge. We will continue to monitor our charging decisions and negotiation practices**\*.]**
 
 <br>
 
@@ -66,7 +68,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: Data collection for individuals identified as hispanic has improved since 2018***.]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: Data collection for individuals identified as hispanic has improved since 2018**\*.]**
 
 <br>
 
@@ -75,7 +77,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities;** *WG Reflection: Several factors outside of the prosecutor’s control impact the length of a case, including: access to a public defender and a particular county’s court hours.***]**
+**[Add any reflections or comments on trends, current value, and/or planned activities;** *WG Reflection: Several factors outside of the prosecutor’s control impact the length of a case, including: access to a public defender and a particular county’s court hours.**\*]**
 
 <br>
 
@@ -102,7 +104,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases. Furthermore, cases diverted will lengthen the average time to dismissal as defendants must complete programming successfully before dismissal. We will continue to monitor this indicator.***]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases. Furthermore, cases diverted will lengthen the average time to dismissal as defendants must complete programming successfully before dismissal. We will continue to monitor this indicator.**\*]**
 
 <br>
 
@@ -111,7 +113,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection:  During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases.***]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection:  During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases.**\*]**
 
 <br>
 
