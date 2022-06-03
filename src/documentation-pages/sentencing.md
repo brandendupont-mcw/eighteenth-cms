@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Sentencing
 
-After an individual is found guilty of a crime, a judge imposes a sentence which may include a <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
+After an individual is found guilty of a crime, a judge imposes a sentence which may include <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
 
 **Why is this important?** It is important to ensure sentences minimize unnecessary punitiveness while appropriately addressing serious crime. In addition, we want to treat all individuals fairly and equitably.
 
@@ -60,7 +60,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 **[Add any reflections on trends, current value, and/or planned activities on the above PPI; WG Reflections:** *We will continue to monitor. Some decisions are outside of the prosecutors control, including a large number of misdemeanors that require mandatory jail time.*
 
 1. *Interested in diving into this further. What % of cases (drug offense and shoplift) are individuals who just want the case to be over.* 
-2. *DUI cases have mandatory jail (no prosecutorial discretion)***]**
+2. \*DUI cases have mandatory jail (no prosecutorial discretion)**\*]**
 
 <br>
 
@@ -69,7 +69,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: We will continue to monitor while taking into account the criminal history of each defendant and the types of charges.***]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: We will continue to monitor while taking into account the criminal history of each defendant and the types of charges.**\*]**
 
 <br>
 
@@ -78,7 +78,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: We will continue to monitor while taking into account the criminal history of each defendant and the types of charges.***]**
+**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: We will continue to monitor while taking into account the criminal history of each defendant and the types of charges.**\*]**
 
 <br>
 
@@ -87,7 +87,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG reflection: We will continue to monitor this indicator and further examine how decisions are being made considering the offense and criminal history. We will discuss what leverage points can help reduce harm caused by system drivers of disparities***.]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG reflection: We will continue to monitor this indicator and further examine how decisions are being made considering the offense and criminal history. We will discuss what leverage points can help reduce harm caused by system drivers of disparities**\*.]**
 
 <br>
 
