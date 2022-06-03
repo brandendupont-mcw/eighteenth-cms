@@ -44,7 +44,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g   We aim to prioritize community-based sentences and ensure individuals’ future success.***]**
 
 <br>
 
