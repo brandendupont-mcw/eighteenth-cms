@@ -68,9 +68,11 @@ Below are a set of indicators that provide additional context about cases filed.
 <br>
 
 <iframe title="Prioritizing Cases with the Greatest Public Safety Returns" aria-label="Interactive line chart" id="datawrapper-chart-ZFdOH" src="https://datawrapper.dwcdn.net/ZFdOH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+</script> 
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: This has remained fairly consistent across the years and we will continue to monitor***.]**
+<br>
+
+**[Add any comments on trends, current value, and/or planned activities,** for e.g. *Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications.**WG Reflection: This has remained fairly consistent across the years and we will continue to monitor**\*.]**
 
 <br>
 
