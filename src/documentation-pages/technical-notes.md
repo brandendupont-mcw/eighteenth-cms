@@ -32,6 +32,8 @@ sidenav: false
 
 <a name="probable"></a>**Probable cause:** Evidentiary reason for arrest or to obtain a warrant. A reasonable basis for believing that a crime has been committed.
 
+**Public Defender Qualification**: In Colorado, incarcerated defendants are automatically appointed a public defender for as long as they remain in custody. Out-of-custody defendants must apply and meet federal indigence requirements to qualify for a public defender.
+
 <a name="recidivism"></a>**Recidivism:**  For the purposes of our dashboard, defendants who recidivate are those who have a new criminal case (misdemeanor or felony) filed after case resolution. This might include a new law violation or a violation of a defendant’s term of probation.
 
 <a name="referred"></a>**Referred:** A case is referred when it is submitted to the District  Attorney’s Office for review. This includes investigations, arrests, warrants, notices to appear, citations, and other requests for prosecution.
