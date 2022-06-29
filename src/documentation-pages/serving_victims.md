@@ -29,7 +29,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-<iframe title="Case Dismissal Differences by Victim Race/Ethnicity" aria-label="Bullet Bars" id="datawrapper-chart-DjK6Y" src="https://datawrapper.dwcdn.net/DjK6Y/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Case Dismissal Differences by Victim Race/Ethnicity" aria-label="Bullet Bars" id="datawrapper-chart-DjK6Y" src="https://datawrapper.dwcdn.net/DjK6Y/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>  <br>
 
 <br>
@@ -47,7 +47,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-<iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-Sr8kp" src="https://datawrapper.dwcdn.net/Sr8kp/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-Sr8kp" src="https://datawrapper.dwcdn.net/Sr8kp/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -56,7 +56,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-<iframe title="Treating Property Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-GzvhF" src="https://datawrapper.dwcdn.net/GzvhF/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="384"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Treating Property Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-GzvhF" src="https://datawrapper.dwcdn.net/GzvhF/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
