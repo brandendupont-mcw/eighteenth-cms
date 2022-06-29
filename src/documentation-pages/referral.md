@@ -36,7 +36,7 @@ Below are a set of indicators that provide additional context about felony refer
 
 <br>
 
-<iframe title="Case Filling Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-Gyk89" src="https://datawrapper.dwcdn.net/Gyk89/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="377"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Case Filling Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-Gyk89" src="https://datawrapper.dwcdn.net/Gyk89/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -45,7 +45,7 @@ Below are a set of indicators that provide additional context about felony refer
 
 <br>
 
-<iframe title="Case Filling Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-PcYRd" src="https://datawrapper.dwcdn.net/PcYRd/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="377"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Case Filling Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-PcYRd" src="https://datawrapper.dwcdn.net/PcYRd/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -66,7 +66,7 @@ Below are a set of indicators that provide additional context about felony refer
 <iframe title="Avoiding Unnecessary Felony Charges at Filing" aria-label="Interactive line chart" id="datawrapper-chart-wRerk" src="https://datawrapper.dwcdn.net/wRerk/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**[Add any reflections on trends, current value, and/or planned activities.** *For e.g. :  In general, we want an increase in percent of cases initially filed as misdemeanors relative to the percent later plead to misdemeanors.***]**
+**[Add any reflections on trends, current value, and/or planned activities.** *For e.g. :  In general, we want an increase in percent of cases initially filed as misdemeanors relative to the percent later plead to misdemeanors.**\*]**
 
 **Notes:**
 
