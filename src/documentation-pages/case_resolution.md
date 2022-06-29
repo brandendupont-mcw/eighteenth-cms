@@ -54,16 +54,16 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-O2A4m" src="https://datawrapper.dwcdn.net/O2A4m/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="369"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-O2A4m" src="https://datawrapper.dwcdn.net/O2A4m/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script><br>
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to achieve racial/ethnic equity in plea outcomes to ensure that the vast majority of cases receive fair treatment.***]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to achieve racial/ethnic equity in plea outcomes to ensure that the vast majority of cases receive fair treatment.**\*]**
 
 <br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-2Pqf9" src="https://datawrapper.dwcdn.net/2Pqf9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="369"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-2Pqf9" src="https://datawrapper.dwcdn.net/2Pqf9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -77,7 +77,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. To further decrease the time to resolution, our office plans to xxxx.***;** ***WG Reflection:** Several factors outside of the prosecutor’s control impact the length of a case, including: access to a public defender and a particular county’s court hours.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. To further decrease the time to resolution, our office plans to xxxx.**\*;** **\*WG Reflection:** Several factors outside of the prosecutor’s control impact the length of a case, including: access to a public defender and a particular county’s court hours.**\*]**
 
 <br>
 
@@ -86,7 +86,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx***]**
+**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx**\*]**
 
 <br>
 
@@ -95,7 +95,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx***]**
+**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx**\*]**
 
 <br>
 
@@ -113,7 +113,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. “In general, we would like to decrease the number of hearings to avoid prolonged case processing. As a next step our office plans to xxxx.* ***WG Reflection:**  During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. “In general, we would like to decrease the number of hearings to avoid prolonged case processing. As a next step our office plans to xxxx.* **\*WG Reflection:**  During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases.**\*]**
 
 <br>
 
