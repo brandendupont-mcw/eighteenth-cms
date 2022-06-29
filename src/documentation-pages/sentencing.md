@@ -44,7 +44,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g   We aim to prioritize community-based sentences and ensure individuals’ future success.***]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g   We aim to prioritize community-based sentences and ensure individuals’ future success.**\*]**
 
 <br>
 
@@ -59,7 +59,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 **[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to increase the percentage of cases reserved for serious offenses....*
 
-***WG Reflection:** We will continue to monitor. Some decisions are outside of the prosecutors control, including a large number of misdemeanors that require mandatory jail time.*
+**\*WG Reflection:** We will continue to monitor. Some decisions are outside of the prosecutors control, including a large number of misdemeanors that require mandatory jail time.*
 
 1. *Interested in diving into this further. What % of cases (drug offense and shoplift) are individuals who just want the case to be over.* 
 2. \*DUI cases have mandatory jail (no prosecutorial discretion)**\*]**
@@ -84,7 +84,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-Kw4fY" src="https://datawrapper.dwcdn.net/Kw4fY/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="369"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-Kw4fY" src="https://datawrapper.dwcdn.net/Kw4fY/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -93,7 +93,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-LadaN" src="https://datawrapper.dwcdn.net/LadaN/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="369"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-LadaN" src="https://datawrapper.dwcdn.net/LadaN/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -102,7 +102,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Defendant Income - Defense Attorney Type" aria-label="Bullet Bars" id="datawrapper-chart-uAXfz" src="https://datawrapper.dwcdn.net/uAXfz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Income - Defense Attorney Type" aria-label="Bullet Bars" id="datawrapper-chart-uAXfz" src="https://datawrapper.dwcdn.net/uAXfz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -111,7 +111,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-5paDy" src="https://datawrapper.dwcdn.net/5paDy/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-5paDy" src="https://datawrapper.dwcdn.net/5paDy/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 **\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
@@ -129,7 +129,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-akL16" src="https://datawrapper.dwcdn.net/akL16/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-akL16" src="https://datawrapper.dwcdn.net/akL16/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -138,7 +138,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-gM8ud" src="https://datawrapper.dwcdn.net/gM8ud/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-gM8ud" src="https://datawrapper.dwcdn.net/gM8ud/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -158,7 +158,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants " aria-label="Bullet Bars" id="datawrapper-chart-rhUJ6" src="https://datawrapper.dwcdn.net/rhUJ6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="388"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants " aria-label="Bullet Bars" id="datawrapper-chart-rhUJ6" src="https://datawrapper.dwcdn.net/rhUJ6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -167,7 +167,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-immfo" src="https://datawrapper.dwcdn.net/immfo/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="388"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-immfo" src="https://datawrapper.dwcdn.net/immfo/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ### Notes:
