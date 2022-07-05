@@ -107,6 +107,8 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
+**Public Defender Qualification**: In Colorado, incarcerated defendants are automatically appointed a public defender for as long as they remain in custody. Out-of-custody defendants must apply and meet federal indigence requirements to qualify for a public defender. Therefore, there is the potential for public defenders to be representing individuals accused of more serious crimes.
+
 **\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
