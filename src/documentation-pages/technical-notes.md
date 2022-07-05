@@ -126,6 +126,17 @@ This definition of violent crime is used in the following indicators:
 
 <a name="vra"></a>**The Victim Rights Act (VRA):**  A VRA case is one that provides constitutional protections for victims of certain [crimes](https://drive.google.com/file/d/1b9oBvGqYmdXYx2tVnCI-H4JKkz5SFE1X/view?usp=sharing) to be “heard when relevant, informed and present at all critical stages of the criminal justice process”. (Article 11, Section 16a of the Colorado State Constitution.)
 
+### Legislative Landscape
+
+* **2017: HB17-1288** adjusted penalties for Driving Under the Influence (DUI) felonies, increasing the amount of jail as a condition of probation.
+* **2018: HB18-1029** lowered the length of mandatory parole time.
+* **2019: HB19-1148** capped the maximum incarceration sentence on a misdemeanor to 364 days.
+* **2020: HB19-1263** reclassified drug charges (felonies to misdemeanors) on March 1, 2020. 
+* **2020: SB20-100** repealed the death penalty on July 1, 2020.
+* **2022: SB21-271** reclassified charging and sentencing on March 1, 2022: misdemeanors and petty offenses classifications were reformed to reduce corresponding sentence lengths. Some misdemeanors, such as Driving While Ability Impaired (DWAI), were reclassified as felonies, whereas some felonies were dropped to misdemeanors.
+* **2022: HB22-1326** fentanyl accountability and prevention law makes any substance containing more than one gram of fentanyl a felony.
+* **2025: HB20-1026** creates the 23rd judicial district to go into effect in 2025. (Douglas, Elbert, and Lincoln).
+
 ### Demographics
 
 <a name="age"></a>**Age**: Defendant and victim age is calculated at the time of the case is filed. 
