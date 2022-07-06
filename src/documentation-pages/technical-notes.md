@@ -116,11 +116,11 @@ sidenav: false
 
 This definition of violent crime is used in the following indicators:
 
-* Violent Crimes Filed
-* Criminal History and Violent Recidivism
-* Violent Victimization in Low-Income Communities
-* Violent Victimization of Children
-* Violent Victimization of People of Color
+* <a href="/filing_charging#violent crimes filed">Violent Crimes Filed</a>
+* <a href="/defendant_characteristics#violent recidivism">Violent Recidivism</a>
+* <a href="/serving_victims#violent victimization poor">Violent Victimization in Low-Income Communities</a>
+* <a href="/serving_victims#violent victimization children">Violent Victimization of Children</a>
+* <a href="/serving_victims#violent victimization POC">Violent Victimization of People of Color</a>
 
 <a name="at-risk"></a>**At-Risk Elders:** Victims who are 70 years of age or older.
 
