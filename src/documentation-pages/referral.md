@@ -17,7 +17,7 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 <br>
 
-**[**2020 marked a dramatic shift in the number of felony offenses filed, falling from 5,372 in 2019 to 4,406 in 2020.  A significant portion of this decrease comes from changes the legislature passed [HB19-1263](https://leg.colorado.gov/bills/hb19-1263) which changed the level of offense for drug possession cases, meaning that many offenses which were previously a class 4 drug felony were reclassified as a misdemeanor.  This change went into effect on March 1, 2020.  That same month, Colorado began to see positive tests for COVID-19 which dramatically impacted how citizens interacted, as well as law enforcement and court operations.  While the overall number of felonies filed moved lower, about 90% of this reduction occurred in the least serious felony offenses (F4, F5, F6, DF3, and DF4).  75% of the reduction occurred in a reduction in DF4 case filings alone - the lowest level of drug felony, which became misdemeanor offenses. **]**
+2020 marked a dramatic shift in the number of felony offenses filed, falling from 5,372 in 2019 to 4,406 in 2020.  A significant portion of this decrease comes from changes the legislature passed [HB19-1263](https://leg.colorado.gov/bills/hb19-1263) which changed the level of offense for drug possession cases, meaning that many offenses which were previously a class 4 drug felony were reclassified as a misdemeanor.  This change went into effect on March 1, 2020.  That same month, Colorado began to see positive tests for COVID-19 which dramatically impacted how citizens interacted, as well as law enforcement and court operations.  While the overall number of felonies filed moved lower, about 90% of this reduction occurred in the least serious felony offenses (F4, F5, F6, DF3, and DF4).  75% of the reduction occurred in a reduction in DF4 case filings alone - the lowest level of drug felony, which became misdemeanor offenses.
 
 <br>
 
@@ -26,7 +26,7 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 <br>
 
-**[**Our office works collaboratively with our law enforcement partners to ensure that investigators have the support that they need.  However, while law enforcement needs probable cause to arrest an individual, our office will not file or maintain charges unless we have a reasonable likelihood of success at trial, which requires us to meet the much higher standard of proof beyond a reasonable doubt.  We believe a number between 5% and 15% on this metric reflects DA's who are making independent charging decisions based on their review of the case, but who also work closely with investigators to ensure that their valuable time isn't wasted filing cases that fall short of our burden of proof.**]**
+\[Our office works collaboratively with our law enforcement partners to ensure that investigators have the support that they need.  However, while law enforcement needs probable cause to arrest an individual, our office will not file or maintain charges unless we have a reasonable likelihood of success at trial, which requires us to meet the much higher standard of proof beyond a reasonable doubt.  We believe a number between 5% and 15% on this metric reflects DA's who are making independent charging decisions based on their review of the case, but who also work closely with investigators to ensure that their valuable time isn't wasted filing cases that fall short of our burden of proof.]
 
 <br>
 
