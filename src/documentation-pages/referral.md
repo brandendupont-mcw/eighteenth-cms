@@ -17,7 +17,7 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities.]**
+**[**2020 marked a dramatic shift in the number of felony offenses filed, falling from 5,372 in 2019 to 4,406 in 2020.  A significant portion of this decrease comes from changes the legislature passed [HB19-1263](https://leg.colorado.gov/bills/hb19-1263) which changed the level of offense for drug possession cases, meaning that many offenses which were previously a class 4 drug felony were reclassified as a misdemeanor.  This change went into effect on March 1, 2020.  That same month, Colorado began to see positive tests for COVID-19 which dramatically impacted how citizens interacted, as well as law enforcement and court operations.  While the overall number of felonies filed moved lower, about 90% of this reduction occurred in the least serious felony offenses (F4, F5, F6, DF3, and DF4).  75% of the reduction occurred in a reduction in DF4 case filings alone - the lowest level of drug felony, which became misdemeanor offenses.**]**
 
 <br>
 
@@ -26,7 +26,7 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities.]**
+**[**Our office works collaboratively with our law enforcement partners to ensure that investigators have the support that they need.  However, while law enforcement needs probable cause to arrest an individual, our office will not file or maintain charges unless we have a reasonable likelihood of success at trial, which requires us to meet the much higher standard of proof beyond a reasonable doubt.  We believe a number between 5% and 15% on this metric reflects DA's who are making independent charging decisions based on their review of the case, but who also work closely with investigators to ensure that their valuable time isn't wasted filing cases that fall short of our burden of proof.**]**
 
 <br>
 
@@ -41,7 +41,7 @@ Below are a set of indicators that provide additional context about felony refer
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities for the above PPI]**
+**[Important note about race and ethnicity data:**  The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  Our office does not consider a defendant's race or ethnicity when deciding whether charges are appropriate.  Instead, we look at the facts of the case, the risk to the community, and whether we can meet our burden of proof.  Our goal on this indicator is to remain consistent with our overall rate of felony referrals which are declined, but we do not seek to engineer that outcome by treating similar cases differently based on a defendant's race or ethnicity.  Each case is unique and is evaluated on an individual basis.**]**
 
 <br>
 
@@ -50,7 +50,9 @@ Below are a set of indicators that provide additional context about felony refer
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities for the above PPI]**
+**[Important note about race and ethnicity data:**  The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  **We have specific concerns as it relates to identifying individuals of hispanic ethnicity due to the way data has been historically captured**.  Our belief is that the data we have underrepresents hispanic defendants and over-represents white defendants as a result.  Despite these concerns on data accuracy, we believe we must engage in the public discussion around racial disparity in the criminal justice system.  
+
+Our office does not consider a defendant's race or ethnicity when deciding whether charges are appropriate.  Instead, we look at the facts of the case, the risk to the community, and whether we can meet our burden of proof.  Our goal on this indicator is to remain consistent with our overall rate of felony referrals which are declined, but we do not seek to engineer that outcome by treating similar cases differently based on a defendant's race or ethnicity.  Each case is unique and is evaluated on an individual basis**]**
 
 <br>
 
@@ -59,14 +61,14 @@ Below are a set of indicators that provide additional context about felony refer
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities.** For e.g. *In general, we want an increase in percent of cases declined relative to percent of cases dismissed**]***
+**[**In general, we would prefer to dismiss a case at the filing stage rather than later on in the life of the case.  However, a dismissal at a later stage could mean a variety of things and isn't something we automatically consider to be a bad outcome.  Later dismissals can occur for a variety of reasons that we often want to encourage, such as completion of a diversion program or the assigned prosecutor keeping an open mind and reviewing new information or evidence that may come to light.  It can also be the result of a witness moving out of state and being unavailable for the jury trial.  We prefer that both of these values are generally in the range of 5% to 15% which reflects a balance of prosecutorial discretion and resource prioritization.**]***
 
 <br>
 
 <iframe title="Avoiding Unnecessary Felony Charges at Filing" aria-label="Interactive line chart" id="datawrapper-chart-wRerk" src="https://datawrapper.dwcdn.net/wRerk/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**[Add any reflections on trends, current value, and/or planned activities.** *For e.g. :  In general, we want an increase in percent of cases initially filed as misdemeanors relative to the percent later plead to misdemeanors.**\*]**
+**[**The level of offense - whether felony or misdemeanor - is established by the Legislature.  For example, theft of a motor vehicle with a value of less than $2,000 is a misdemeanor, but for a car valued at $10,000, it is a felony offense.  Our charging decisions must sit within these guidelines, but prosecutors have the discretion in a variety of circumstances to consider things beyond the technical elements of a charge when discussing a potential plea bargain.  This could include things like criminal history, a defendant's engagement in drug treatment or other rehabilitative efforts, as well as the wishes of a victim.  Prosecutors are also aware that felony convictions can have a life-long impact on a defendant.  Our office seeks to prioritize those cases where there is a greater risk to public safety or established history of escalating criminal conduct, rather than seeking a felony conviction on every single case - even when the conduct might warrant a felony charge.  For first-time offenders, this often results in treatment and rehabilitation without the lifelong consequences of a felony conviction.**]**
 
 **Notes:**
 
