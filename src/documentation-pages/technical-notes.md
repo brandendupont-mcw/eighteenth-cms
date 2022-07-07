@@ -86,7 +86,7 @@ sidenav: false
 
 ### Sentences
 
-*Across this dashboard,* <a name="incarceration"></a>**\*incarceration** includes any of the following sentences:*
+*Across this dashboard each case is categorized by its most serious sentence (in the order listed below). A sentence to <a name="incarceration"></a> **incarceration** includes any of the following sentences:*
 
 <a name="prison"></a>**Prison,** or **Department of Corrections,** is a sentence to state prison.
 
@@ -96,7 +96,7 @@ sidenav: false
 
 <a name="probationjail"></a>**Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. Incarceration
 
-**\*Non-incarceral** sentences includes any of the following:*
+***Non-incarceral** sentences includes any of the following:*
 
 <a name="probation"></a>**Probation** is a sentence to supervision of a defendant involving standard terms and conditions, as well as special conditions imposed by a court. 
 
