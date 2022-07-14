@@ -25,7 +25,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities]**
+**Important note about race and ethnicity data:** As we have noted for metrics that relate to a defendant, the information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  We have some hesitation about the reliability of data for victim Race and Ethnicity due to how this was logged and maintained in our case management system.  We will continue to work to improve this data but believe these metrics are an important part of our community's discussion on disparity and disproportionality in the criminal justice system.
 
 <br>
 
@@ -34,7 +34,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection:  We have some hesitation about the reliability of our victim race/ethnicity data due to how this is being logged in our case management system.**\*]**
+**Important note about race and ethnicity data:** As we have noted for metrics that relate to a defendant, the information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  We have some hesitation about the reliability of data for victim Race and Ethnicity due to how this was logged and maintained in our case management system.  We will continue to work to improve this data but believe these metrics are an important part of our community's discussion on disparity and disproportionality in the criminal justice system.
 
 <br>
 
@@ -45,7 +45,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+Regardless of where someone lives they shouldn't have to be a victim of violent crime.  Our office is committed to seeking justice for any victim of violent crime, regardless of where that crime occurred.  
 
 <br>
 
@@ -54,16 +54,12 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. Our aim is to decrease differences between zip codes.]*
-
 <br>
 
 <iframe title="Treating Property Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-GzvhF" src="https://datawrapper.dwcdn.net/GzvhF/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
-
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. Our aim is to decrease differences between zip codes.]*
 
 <br>
 
@@ -74,8 +70,6 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
-
 <br>
 
 <br>
@@ -84,7 +78,5 @@ Below are a set of indicators that provide additional context about serving vict
 </script> <br>
 
 <br>
-
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: Would be interesting to further examine this indicator in relation to our declination rate for sexual assault referrals. ]*
 
 <br>
