@@ -64,18 +64,14 @@ Below are a set of indicators that provide additional context about cases filed.
 
 <br>
 
-**[Add any comments on trends, current value, and/or planned activities,** for e.g. *Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications.**WG Reflection: This has remained fairly consistent across the years and we will continue to monitor**\*.]\**
-
-<br>
+This metric has remained relatively consistent throughout the years even as we saw overall filings decrease during COVID-19 and have seen some crimes reclassified as misdemeanors.  While felony cases do not make up a majority of the cases handled in our office, they do receive significantly more support in terms of experienced prosecutors, paralegals, investigations, and victim services staff due to their more serious nature and the lasting impacts on victims and the community.  <br>
 
 <a name="violent crimes filed">
 
 <iframe title="Violent Crimes Filed" aria-label="Interactive line chart" id="datawrapper-chart-TmHBM" src="https://datawrapper.dwcdn.net/TmHBM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
-
-<br>
+The chart above displays the raw number of violent crime cases filed each quarter.  That number has remained steady or trending slightly upward.  This indicator corroborates what we see elsewhere in our data:  reductions in felony case filings generally involve reductions in less serious cases.  More aggravated offenses such as the violent crimes tracked here have not seen a similar decrease.<br>
 
 <br>
 
