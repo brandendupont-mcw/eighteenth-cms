@@ -19,8 +19,6 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
-
 <br>
 
 <iframe title="Number of Cases Filed, by Year " aria-label="Interactive line chart" id="datawrapper-chart-76b0m" src="https://datawrapper.dwcdn.net/76b0m/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -28,16 +26,14 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
-
-<br>
+The total number of cases filed each year took a sharp hit during 2020 when the COVID-19 pandemic hit.  In 2022, we appear to be trending closer towards the pre-pandemic filing levels we saw in 2017-2019.  We will continue to closely monitor this trend.<br>
 
 <iframe title="Number of Cases Filed, by Charge Level" aria-label="Interactive line chart" id="datawrapper-chart-vvmob" src="https://datawrapper.dwcdn.net/vvmob/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+2020 marked a dramatic shift in the number of felony offenses filed, falling from 5,372 in 2019 to 4,406 in 2020. A significant portion of this decrease comes from changes the legislature passed [HB19-1263](https://leg.colorado.gov/bills/hb19-1263) which changed the level of offense for drug possession cases, meaning that many offenses which were previously a class 4 drug felony were reclassified as a misdemeanor. This change went into effect on March 1, 2020. That same month, Colorado began to see positive tests for COVID-19 which dramatically impacted how citizens interacted, as well as law enforcement and court operations. While the overall number of felonies filed moved lower, about 90% of this reduction occurred in the least serious felony offenses (F4, F5, F6, DF3, and DF4). 75% of the reduction occurred in a reduction in DF4 case filings alone - the lowest level of drug felony, which became misdemeanor offenses.
 
 <br>
 
@@ -45,8 +41,6 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 </script>
 
 <br>
-
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -56,8 +50,6 @@ In Colorado, misdemeanors and petty offenses/infractions are filed directly with
 </script> <br>
 
 <br>
-
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
