@@ -17,7 +17,7 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+Since the start of the pandemic, we have struggled to resolve cases at the same rate they are filed.  It's important for us to be resolving roughly the same number of cases as are filed every year to ensure we are not building a backlog in the justice system.  Throughout the pandemic, limitations on jury trials or in-person proceedings, and court closures have all contributed to a slower rate of case resolution.  We would like to see the case resolutions increase to achieve parity with case filing numbers so that the justice system is not overwhelmed with additional cases beyond its current capacity.
 
 <br>
 
@@ -26,16 +26,12 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
-
 <br>
 
 <iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-t3Jci" src="https://datawrapper.dwcdn.net/t3Jci/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
-
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -48,9 +44,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities, for e.g.** *We want this number to be low to ensure accurate initial charging decisions based on the facts of the case.* 
-
-\***WG Reflection:** The office charges based on what the evidence can prove, however we often engage in appropriate negotiation that results in a reduction in the charge. We will continue to monitor our charging decisions and negotiation practices**\*.]**
+The office charges a particular case based on what the evidence can prove and how the legislature has defined those offenses.  However, we often engage in appropriate negotiation and consider any additional facts about the case or mitigation about a defendant that is provided.  Often that results in a reduction in the charge.  We will continue to monitor our charging decisions and negotiation practices.  However, we don't want to be at either extreme of this particular indicator.  
 
 <br>
 
@@ -59,43 +53,23 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to achieve racial/ethnic equity in plea outcomes to ensure that the vast majority of cases receive fair treatment.**\*]**
-
-<br>
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Keep in mind, this metric shows the end of the line in a criminal case, but it is not the only area where we see disproportionality.  Our internal analysis indicates that **in 2021, 70% of cases involving a violent crime involved a Non-White Victim**.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to deeper study of these issues to develop a better understanding on the root causes.  <br>
 
 <iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-2Pqf9" src="https://datawrapper.dwcdn.net/2Pqf9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to achieve racial/ethnic equity in plea outcomes to ensure that the vast majority of cases receive fair treatment.* **WG Reflection:** Data collection for individuals identified as hispanic has improved since 2018**\*.]**
-
-<br>
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification, and we have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way that data was historically captured.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Keep in mind, this metric shows the end of the line in a criminal case, but it is not the only area where we see disproportionality.  Our internal analysis indicates that **in 2021, 70% of cases involving a violent crime involved a Non-White Victim**.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to deeper study of these issues to develop a better understanding on the root causes.  <br>
 
 <iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-8DTXQ" src="https://datawrapper.dwcdn.net/8DTXQ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. To further decrease the time to resolution, our office plans to xxxx.**\*;** **\*WG Reflection:** Several factors outside of the prosecutor’s control impact the length of a case, including: access to a public defender and a particular county’s court hours.**\*]**
+There are a myriad of reasons that impact the length of time for case resolution, many of which are outside of our office's control.  This can include delays in obtaining defense counsel or continuances granted by the court.  However, there can be no doubt that our office has at least some influence over this metric and we must do better.  
 
-<br>
-
-<iframe title="Conforming to ABA Time Standards - Felonies" aria-label="Interactive area chart" id="datawrapper-chart-syqCi" src="https://datawrapper.dwcdn.net/syqCi/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
-
-<br>
-
-**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx**\*]**
-
-<br>
-
-<iframe title="Conforming to ABA Time Standards - Misdemeanors" aria-label="Interactive area chart" id="datawrapper-chart-IGr8t" src="https://datawrapper.dwcdn.net/IGr8t/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
-
-<br>
-
-**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx**\*]**
+While the average number of days to resolve a felony continues to rise, the median has remained relatively flat since the start of the COVID-19 Pandemic.  It is taking far too long to resolve an average case.  We are encouraged that we've seen some reduction in the median time for resolution in 2022 as restrictions on courthouse operations have come to a close.  We will continue to train our prosecutors and seek to staff our office appropriately to manage these cases to earlier average resolutions so that victims and defendants are not left waiting for justice.
 
 <br>
 
@@ -104,7 +78,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases. Furthermore, cases diverted will lengthen the average time to dismissal as defendants must complete programming successfully before dismissal. We will continue to monitor this indicator.**\*]**
+During COVID-19 there was uncertainty about whether or how cases were going to proceed, lengthening our court processes.  In addition, cases which are referred to diversion often lengthens the average time to dismissal as defendants must complete programming successfully before a case is dismissed.  We will continue to monitor this indicator and would like to see it trend back towards pre-pandemic levels.
 
 <br>
 
@@ -113,7 +87,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. “In general, we would like to decrease the number of hearings to avoid prolonged case processing. As a next step our office plans to xxxx.* **\*WG Reflection:**  During COVID-19 there was uncertainty about whether cases were going to proceed, lengthening cases.**\*]**
+In general, we would like to decrease the number of hearings to avoid prolonged case processing.  We are encouraged that the number of hearings is trending down in 2022 as this generally means cases are having more meaningful hearings more often rather than hearings which accomplish nothing more than delay. 
 
 <br>
 
