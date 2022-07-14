@@ -15,9 +15,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-UMik4" src="https://datawrapper.dwcdn.net/UMik4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-**\[Add any reflections on trends, current value, and/or planned activities]**
-
-<br>
+As you review the sentencing data below, it is important to read these metrics in conjunction with the other information provided.  For example, the chart below indicates that 11% of felony sentences imposed include a sentence to community corrections.  However, this does not mean that 11% of those cases where a felony was ***charged*** result in a sentence to community corrections.   You also need to consider how felony cases resolved and whether they resolved with a felony conviction to give these sentencing numbers the full context.<br>
 
 <br>
 
@@ -26,25 +24,21 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities]**
-
-<br>
+As we've referenced elsewhere on these pages, this metric represents a percentage of defendants going to prison that seems to be increasing.  However, the overall number of felony filings - particularly less serious felonies - has decreased dramatically.  In light of that, we would expect to see the percentage sent to prison trending upward.<br>
 
 <iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-BJtyH" src="https://datawrapper.dwcdn.net/BJtyH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities]**
-
-<br>
+2022 appears to reflect an increase in jail and time served sentences.  Over the past few years, a number of felonies have been reclassified as misdemeanors, all while we have struggled to come through the COVID-19 Pandemic which put tremendous pressure on our jail.  We will continue to study this indicator to better understand whether we are truly seeing a trend in sentencing, or if this is simply a reflection of additional crimes that were once felonies now being handled in a manner we might expect absent the COVID-19 pandemic.<br>
 
 <iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-Fn5al" src="https://datawrapper.dwcdn.net/Fn5al/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g   We aim to prioritize community-based sentences and ensure individuals’ future success.**\*]**
+While these metrics have remained relatively flat since 2017, they do not reflect a success rate that leaves our office satisfied.  It is simply unacceptable that 4 out of 10 felony defendants are facing new charges within one year of their original sentence.  We will work closely with our partners and stakeholders to develop strategies to address this recidivism.  
 
 <br>
 
@@ -57,12 +51,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to increase the percentage of cases reserved for serious offenses....*
-
-**\*WG Reflection:** We will continue to monitor. Some decisions are outside of the prosecutors control, including a large number of misdemeanors that require mandatory jail time.*
-
-1. *Interested in diving into this further. What % of cases (drug offense and shoplift) are individuals who just want the case to be over.* 
-2. \*DUI cases have mandatory jail (no prosecutorial discretion)**\*]**
+We will continue to monitor and study this indicator. Some decisions are outside of the prosecutor's control, including charges such as a DUI that may require mandatory jail time.  In the future we hope to do further study of the "Other Offenses" reflected in this chart to identify what charges and characteristics may be driving incarceration.
 
 <br>
 
@@ -71,7 +60,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: We will continue to monitor while taking into account the criminal history of each defendant and the types of charges.**\*]**
+We will continue to monitor this metric while taking into account the criminal history of each defendant and the types of charges involved.
 
 <br>
 
@@ -80,8 +69,6 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: We will continue to monitor while taking into account the criminal history of each defendant and the types of charges.**\*]**
-
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-Kw4fY" src="https://datawrapper.dwcdn.net/Kw4fY/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -89,7 +76,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG reflection: We will continue to monitor this indicator and further examine how decisions are being made considering the offense and criminal history. We will discuss what leverage points can help reduce harm caused by system drivers of disparities**\*.]**
+**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  We will continue to study this metric along with other data points as we evaluate disparity and disproportionality in the criminal justice system.
 
 <br>
 
@@ -98,7 +85,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**. Our belief is that the data we have underrepresents Hispanic defendants and over-represents white defendants as a result.  While this chart indicates that hispanic defendants are incarcerated at a lower rate than white defendants, that may not be the case.  We will continue to study this and other data points as we evaluate disparity and disproportionality in the criminal justice system.
 
 <br>
 
@@ -109,16 +96,12 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 **Public Defender Qualification**: In Colorado, incarcerated defendants are automatically appointed a public defender for as long as they remain in custody. Out-of-custody defendants must apply and meet federal indigence requirements to qualify for a public defender. Therefore, there is the potential for public defenders to be representing individuals accused of more serious crimes.
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
-
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-5paDy" src="https://datawrapper.dwcdn.net/5paDy/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
-
-<br>
+This data doesn't yet indicate a trend.  We will continue to monitor this metric in the coming months and years.<br>
 
 ## **Pretrial Detention Indicators**
 
@@ -131,8 +114,6 @@ Below are a set of indicators that provide additional context about pretrial det
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: This does not include individuals who weren’t convicted because it is based on the initial sentence including ‘time-served’. We want this to change - out of 6 people we are locking someone up. Out of the 1000s of cases we are doing. Seems high. Includes all the summons, not just people actually see in court every day (FAC cases, 101 cases); think the actual # is higher in terms of who we actually assess]*
-
 <br>
 
 <iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-akL16" src="https://datawrapper.dwcdn.net/akL16/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -140,7 +121,7 @@ Below are a set of indicators that provide additional context about pretrial det
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI; WG Reflection** Need to investigate what is happening here / is it something we can control? s it similar for crimes of violence? Examine further what types of crimes are driving these differences. Is it driven by previous criminal history?  Is it by location - arapahoe vs. douglas county? Is the DA asking for the same thing on similar types of cases? (challenge b/c no field) Is there a consideration re: financial resources when asking for bond? ; Threat to community and likelihood of showing back up as the two major considerations ; Seems like get to a better outcome later on re: incarceration #s]
+**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  However, this metric warrants significant further investigation.  In our largest counties, we frequently rely on risk assessment tools prepared by pretrial officers that help us assess the risk to the community and the likelihood that a defendant will appear in court.  We should further study whether these rates of detention are driven by charges, risk assessment, access to economic resources, or some other factor.  
 
 <br>
 
@@ -149,7 +130,9 @@ Below are a set of indicators that provide additional context about pretrial det
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**. Our belief is that the data we have underrepresents Hispanic defendants and over-represents white defendants as a result.  
+
+However, this metric warrants significant further investigation.  In our largest counties, we frequently rely on risk assessment tools prepared by pretrial officers that help us assess the risk to the community and the likelihood that a defendant will appear in court.  We should further study whether these rates of detention are driven by charges, risk assessment, access to economic resources, or some other factor.  
 
 <br>
 
