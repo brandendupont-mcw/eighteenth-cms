@@ -17,7 +17,7 @@ This section presents data on cases granted diversion or deferred judgment. <a h
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+While the total number of deferred judgments have declined, there are two important factors driving this reduction.  First, in 2020 due to changes in the law ([HB19-1263](https://leg.colorado.gov/bills/hb19-1263)) we saw a significant reduction in low level felony drug possession charges, most of which became misdemeanor offenses.  In addition to that reduction, felony filings overall are down since 2019, though not on our most serious offenses including violent crime.  Both of these reductions have helped to drive the decrease in deferred judgments reflected here.
 
 <br>
 
@@ -28,7 +28,7 @@ Below are a set of indicators that provide additional context about diversion an
 <iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-tVbVv" src="https://datawrapper.dwcdn.net/tVbVv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g Our aim is to ensure deferral programs are equally accessible.]*
+**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  Our office is committed to ensuring that similarly situated defendants have equal access to diversion and deferral programs regardless of race or ethnicity.  Our office will continue to analyze this and other metrics to better understand and address disparity in the criminal justice system.
 
 <br>
 
@@ -39,7 +39,7 @@ Below are a set of indicators that provide additional context about diversion an
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g Our aim is to ensure deferral programs are equally accessible.]*
+**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  Our office is committed to ensuring that similarly situated defendants have equal access to diversion and deferral programs regardless of race or ethnicity.  Our office will continue to analyze this and other metrics to better understand and address disparity in the criminal justice system.
 
 <br>
 
@@ -48,7 +48,7 @@ Below are a set of indicators that provide additional context about diversion an
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g Our aim is to ensure deferral programs are equally accessible.]*
+We are encouraged by the high level of successful completion of deferred judgments.  However, given the lag in this data we will be watching closely to see how changes during the COVID-19 Pandemic impacts the success rate over the coming months and years.
 
 <br>
 
@@ -57,6 +57,6 @@ Below are a set of indicators that provide additional context about diversion an
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g Our aim is to ensure deferral programs are equally accessible.]*
+We are encouraged by the low level of recidivism reflected this analysis.  However, given the lag in this data we will be watching closely to see how changes during the COVID-19 Pandemic impacts this rate in the coming months and years.
 
 <br>
