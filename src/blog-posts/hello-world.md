@@ -11,8 +11,11 @@ Regarding race and ethnicity: Ideally, race and ethnicity data would be based on
 
 If you are seeking additional information about a specific case, you can request** [public records from the court](https://www.courts.state.co.us/Self_Help/Research/index.cfm), or [request additional record from our office here](https://www.da18.org/records-request/)**. Please remember that our ability to share information or comment on a pending case remains limited by the **[Colorado Rules of Professional Conduct](https://www.cobar.org/rulesofprofessionalconduct)**, and specifically by **[Rule 3.6](https://www.cobar.org/For-Members/Opinions-Rules-Statutes/Rules-of-Professional-Conduct/Rule-36-Trial-Publicity)** and **[Rule 3.8](https://www.cobar.org/For-Members/Opinions-Rules-Statutes/Rules-of-Professional-Conduct/Rule-38-Special-Responsibilities-of-a-Prosecutor)**.If you have questions or comments about this project, or have ideas about additional data points you would like to see included, please **[submit those comments here](https://www.da18.org/about/contact/)**.
 
-Update for 2022:\
+### Update for 2022:
+
 The dashboards below are valuable tools, but they come from slightly different sources of data than information elsewhere on this site.  They may not involve an apples to apples comparison.  However, the new work we are sharing this year through our partnership with fellow District Attorneys, Prosecutorial Performance Indicators, and the Colorado Lab should expand on our transparency, not limit information we share.  For that reason, we continue to make this data available to the public even if it is duplicated elsewhere or analyzed in more detail on other pages.
+
+***You can view any of the dashboards below in full screen for a closer look at the data.***
 
 ### Dashboard 1 – Snapshot: The Past Year
 
