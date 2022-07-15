@@ -73,5 +73,6 @@ The level of offense - whether felony or misdemeanor - is established by the Leg
 **Notes:**
 
 * Each <a href="/technical-notes#referred">referral</a> is represented once. 
+* Warrants are excluded (for all cases identified as a warrant).
 * <a href="/technical-notes#misdemeanor">Misdemeanor</a> cases are directly charged and filed by the law enforcement agency; the DA does not review these cases for charging. The DA’s Office can dismiss misdemeanor cases (see <a href="/case_resolution#">Case Resolution</a>[](https://colorado-test-cms.netlify.app/case_resolution) dashboard). 
 * Law enforcement arrests and charges are based on a <a href="/technical-notes#probable">probable cause</a> standard of proof, whereas the DA’s Office charges based on proof <a href="/technical-notes#doubt">beyond a reasonable doubt</a>.
