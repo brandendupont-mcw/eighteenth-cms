@@ -163,3 +163,4 @@ However, this metric warrants significant further investigation.  In our largest
 
 * This data reflects only those cases where a sentence was ultimately imposed. Cases that resulted in diversion, an outright dismissal, or some other resolution, are not reflected here. 
 * This data represents initial sentences only, sometimes a case may have a subsequent sentence in cases because of a revocation of probation or due to a request to modify the sentence. Those subsequent sentences are not represented here.
+* Warrants are excluded (for all cases identified as a warrant).
