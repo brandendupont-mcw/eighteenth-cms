@@ -18,7 +18,7 @@ The dashboard seeks to support:
 
 ### How can you use this dashboard?
 
-You can use this dashboard to understand the work that the DA's Office does. You can use it to look at trends in cases filed and resolved over time and patterns in how individuals are treated. The charts show key decision points and the data stories provide a deep dive into specific issues addressed by the DA’s Office.  
+You can use this dashboard to understand the work that the DA's Office does. You can use it to look at trends in cases filed and resolved over time and patterns in how individuals are treated. The charts show key decision points and the data stories provide a deep dive into specific issues addressed by the DA’s Office.  
 
 The dashboard is organized in eight sections, many of which mirror the “flow” of a [](https://co-18th-district.netlify.app/criminal-justice-process)<a href="/criminal-justice-process#CJ Process">case</a>. No one data point provides *all* the information you may need; therefore, it is important to look at different data points in relation to one another. In general, dashboards are good at helping identify *what* is happening – understanding the *why* behind trends and patterns requires deeper investigation.
 

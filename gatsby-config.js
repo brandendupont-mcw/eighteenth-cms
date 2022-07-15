@@ -19,7 +19,7 @@ module.exports = {
       {
         title: 'Metrics',
         items: [
-          { text: 'Referrals', link: '/referral' },
+          { text: 'Felony Referrals', link: '/referral' },
           { text: 'Charging and Filing', link: '/filing_charging' },
           { text: 'Case Resolution', link: '/case_resolution' },
           { text: 'Diversion and Deferrals', link: '/deferral_and_diversion' },
@@ -39,8 +39,8 @@ module.exports = {
       },
     ],
     secondaryLinks: [
-      { text: 'Homepage', link: 'https://www.jeffco.us/district-attorney' },
-      { text: 'Contact Us', link: 'https://www.jeffco.us/FormCenter/General-Contact-23/Contact-Us-90' },
+      { text: 'Homepage', link: 'https://www.da18.org' },
+      { text: 'Contact Us', link: 'https://www.da18.org/about/contact/' },
     ],
 
     /**
