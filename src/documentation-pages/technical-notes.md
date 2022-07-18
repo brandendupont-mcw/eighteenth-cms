@@ -10,7 +10,7 @@ sidenav: false
 
 <a name="bail"></a>**Bail or bond:** The amount of money set by the court for the release of a person accused of a crime. It is designed to assure the person's presence for trial and may contain additional non-monetary conditions of release.
 
-<a name="doubt"></a>**Beyond a reasonable doubt**: the legal burden of proof required to convict a defendant in a criminal case. The prosecution bears the burden of proving that the defendant is guilty beyond a reasonable doubt – in other words, that there is no other reasonable explanation that can come from the evidence presented.
+<a name="doubt"></a>**Beyond a reasonable doubt**: the legal burden of proof required to convict a defendant in a criminal case at trial. The prosecution bears the burden of proving that the defendant is guilty beyond a reasonable doubt – in other words, that there is no other reasonable explanation that can come from the evidence presented.
 
 <a name="bondhearing"></a>**Bond Hearing**: If in custody a bond hearing is held to provide argument, evidence, or testimony for the Court to use in determining an appropriate amount of bail to be set for a defendant.
 
