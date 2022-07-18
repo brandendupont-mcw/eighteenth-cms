@@ -56,7 +56,7 @@ sidenav: false
 
 <a name="drugs"></a>**Drugs**: Includes possession of a controlled substance charges (including marijuana), possession with intent to distribute, distribution (including marijuana), manufacture of controlled substance (including marijuana), possession/sale of drug paraphernalia, public consumption of marijuana, and other drug charges. 
 
-<a name="dui"></a>**DUI**: Includes Driving Under the Influence (DUI) and Driving With Ability Impaired (DWAI) charges.
+<a name="dui"></a>**DUI**:  Includes Driving Under the Influence of Alcohol (DUI), Driving Under the Influence of Drugs (DUID), Driving While Ability Impaired by Alcohol (DWAI), and Driving While Ability Impaired by Drugs (DWAID) charges.
 
 <a name="sex"></a>**Sex Offense**: Includes sexual assault, sexual contact, sexual exploitation, incest, enticement, internet luring, sexual human trafficking, prostitution charges, indecent exposure and public indecency, and some invasion of privacy charges. 
 
