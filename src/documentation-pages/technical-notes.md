@@ -26,7 +26,7 @@ sidenav: false
 
 <a name="custody"></a>**In custody:** When an individual is being detained by law enforcement, the court, or another legal entity and is not free to leave.
 
-<a name="pleaagreement"></a>**Plea agreement**: an agreement between the prosecution and the defendant defining the specific conditions and crimes to which a defendant will plead guilty.
+<a name="pleaagreement"></a>**Plea agreement**: an agreement between the prosecution and the defendant defining the specific conditions and crimes to which a defendant chooses to plead guilty.
 
 <a name="pretrial"></a>**Pretrial detention:** Defendants who are detained pretrial are incarcerated in jail prior to resolution of the case.
 
