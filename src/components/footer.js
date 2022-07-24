@@ -8,7 +8,7 @@ const Footer = () => (
         <div className="grid-row padding-3">
           <div className="tablet:grid-col">
             <div className="logo-links">
-              <a className="footer-logo media_link" href="https://18f.gsa.gov">
+              <a className="footer-logo media_link" href="https://www.da18.org/">
                 <img src={'https://www.da18.org/wp-content/uploads/DA-Color-Seal_120px.png'} width="100" alt="Agency logo" />
               </a>
             </div>
