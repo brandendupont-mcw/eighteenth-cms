@@ -48,7 +48,7 @@ const Banner = () => (
               <p>
                 <strong>Let us know.</strong>
                 <br />
-                To provide feedback, request additional data or analysis, or ask questions about the site, fill out this <a href='https://www.da18.org/about/contact/'>form</a>.
+                To provide feedback, request additional data or analysis, or ask questions about the site, contact us <a href='https://www.da18.org/about/contact/'>here</a>.
               </p>
             </div>
           </div>
