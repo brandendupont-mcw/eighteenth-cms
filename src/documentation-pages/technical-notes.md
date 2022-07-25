@@ -122,6 +122,8 @@ This definition of violent crime is used in the following indicators:
 * <a href="/serving_victims#violent victimization children">Violent Victimization of Children</a>
 * <a href="/serving_victims#violent victimization POC">Violent Victimization of People of Color</a>
 
+[Click here](https://docs.google.com/spreadsheets/d/11_TzCiDUNfakTb4oSMq6eafznoyC8tQQ/edit?usp=sharing&ouid=117543483504293302794&rtpof=true&sd=true) to see the full list of violent crime charges. 
+
 <a name="at-risk"></a>**At-Risk Elders:** Victims who are 70 years of age or older.
 
 <a name="vra"></a>**The Victim Rights Act (VRA):**  A VRA case is one that provides constitutional protections for victims of certain [crimes](https://drive.google.com/file/d/1b9oBvGqYmdXYx2tVnCI-H4JKkz5SFE1X/view?usp=sharing) to be “heard when relevant, informed and present at all critical stages of the criminal justice process”. (Article 11, Section 16a of the Colorado State Constitution.)
