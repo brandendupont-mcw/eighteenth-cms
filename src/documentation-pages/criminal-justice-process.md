@@ -6,9 +6,7 @@ sidenav: false
 
 Colorado’s criminal justice system is a collaboration between lawmakers, law enforcement, prosecutors from the District Attorney’s (DA) Office, private and public defense attorneys, judges, and the community. The DA’s Office prosecutes cases, provides assistance to witnesses and victims of crime, and oversees alternative programming such as diversion and restorative justice.
 
- 
 Click this <a href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86kmSNg/view?usp=sharing'> Flowchart</a> shows how cases “flow” through the criminal justice system. 
-
 
 <a  href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86kmSNg/view?usp=sharing'><img src='https://loyolaccj.org/criminal-justice-process.png' width='375px' alt="Logo" /></a>
 
@@ -22,11 +20,12 @@ Click this <a href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86
 
 ### What does the DA’s Office do?
 
-* Requests warrants for arrest. 
+* Submits requests to the court to issue warrants for arrest. 
 * Makes recommendations for bond.
 * Screens and decides whether to charge felony cases referred from law enforcement.
 * Conducts outreach and provides resources to victims.
 * Screens defendants for diversion or other alternatives to prosecution.
+* Prepares and litigates the case at pre-trial motions, hearings, and trials.
 * Dismisses or amends charges after filing.
 * Makes plea offers.
 * Makes sentencing recommendations.
@@ -34,5 +33,5 @@ Click this <a href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86
 ### What does the DA’s Office not do?
 
 * Arrests individuals. Law enforcement arrests and refers individuals upon probable cause of offense.
-* Sets bond. The judge makes the decision on the bond set. 
+* Sets bond. The judicial officer makes the decision on the bond set.
 * Imposes sentences. The judge imposes a sentence following conviction.
