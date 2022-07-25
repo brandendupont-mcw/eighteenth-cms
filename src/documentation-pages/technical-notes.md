@@ -151,6 +151,8 @@ This definition of violent crime is used in the following indicators:
 
 Race and Ethnicity are captured separately in the DA’s case management system. Aligned with a person-centered approach, across the dashboard we have combined the two fields. If the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as American Indian, they are categorized as American Indian regardless of their ethnicity. Individuals identified as having a race of Asian or Other, and an ethnicity of Non-Hispanic, are categorized as Another Race.
 
+Some race/ethnic groups have small sample sizes. To address issues of small sample size, see measures taken in the <a href="/technical-notes#sample size">Methods</a> section below. 
+
 ### Data Terms
 
 <a name="average"></a>**Average**: The average of a set of numbers is the sum of the numbers divided by the total number of values in the set. For example, to find the average of 24, 55, 17, 87 and 100, first find the sum of the numbers: 24 + 55 + 17 + 87 + 100 = 283 and divide by 5 to get 56.6.
@@ -165,10 +167,8 @@ Race and Ethnicity are captured separately in the DA’s case management system.
 
 This dashboard aggregates data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
 
-To address issues of small sample size, the following measures were implemented:
+<a name="sample size"></a> To address issues of small sample size, the following measures were implemented:
 
 1. Some data points are presented annually instead of quarterly.
 2. When the quarterly measure is less than 20, we have taken a three month moving average. 
 3. When the annual number is less than 20, we have excluded the metric.
-
-**\[This link provides the data of our sample size (the “n”) for each chart.]**
