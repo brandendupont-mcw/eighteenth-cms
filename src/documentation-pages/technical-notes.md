@@ -90,6 +90,8 @@ sidenav: false
 
 <a name="prison"></a>**Prison,** or **Department of Corrections,** is a sentence to state prison.
 
+**Youth Corrections,** is a sentence to ​​the Department of Human Services/Youth Corrections, the Department of Institutions/Youth Corrections, the Department of Youth Corrections, Juvenile Detentions Center, or a youthful offender sentence.
+
 <a name="communitycorrections"></a>**Community Corrections** is a sentence to a community corrections facility, sometimes called a halfway house. 
 
 <a name="jail"></a>**Jail** is a sentence to local incarceration, generally for misdemeanor cases.
