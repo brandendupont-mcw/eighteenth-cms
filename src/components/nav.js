@@ -52,11 +52,10 @@ const Nav = ({ navigation, secondaryLinks }) => (
         <ul className="usa-nav__secondary-links">
           {secondaryLinks.map((secondaryLink, idx) => (
             <li key={idx} className="usa-nav__secondary-item">
-              <Link to={secondaryLink.link}>{secondaryLink.text}</Link>
+             <Link className='usa-logo__text' to={secondaryLink.link}>{secondaryLink.text}</Link>
             </li>
           ))}
         </ul>
-        <SearchForm />
       </div>
     </div>
   </nav>

@@ -9,7 +9,8 @@ import { Link } from 'gatsby';
 const Highlights = () => (
   <section className="usa-graphic-list usa-section usa-section--dark">
     <div className="grid-container">
-    <h1 ><span className="usa-hero__heading--alt margin-bottom-10">System Level Metrics and Indicators</span></h1>
+    <h1 ><span className="usa-hero__heading--alt">System Level Metrics and Indicators</span></h1>
+    <p className='margin-bottom-6'>Each one of these sections summarizes data about different parts of the prosecution process.</p>
       <div className="usa-graphic-list__row grid-row grid-gap">
         <div className="usa-media-block tablet:grid-col">
 
