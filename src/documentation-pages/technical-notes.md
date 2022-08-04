@@ -169,7 +169,7 @@ Some race/ethnic groups have small sample sizes. To address issues of small samp
 
 ### Methods
 
-This dashboard aggregates data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
+This dashboard aggregates data from the 18th District Attorney Office's case management system, Action, stored and shared by the Colorado District Attorneys’ Council (CDAC).
 
 <a name="sample size"></a> To address issues of small sample size, the following measures were implemented:
 
