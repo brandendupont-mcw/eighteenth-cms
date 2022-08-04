@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Charging and Filing
 
-In Colorado, misdemeanors and petty offenses/infractions are filed directly with the court by law enforcement. Felony cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to issue. This section presents data on all cases for which a law enforcement agency has filed the case (<a href="/technical-notes#misdemeanor">misdemeanors</a> or <a href="/technical-notes#petty">petty offenses/infractions</a>) or for which the DA’s Office has decided to accept the referral and file the charges (<a href="/technical-notes#felony">felonies</a>). 
+In Colorado, <a href="/technical-notes#misdemeanor">misdemeanors</a> (including traffic cases) and <a href="/technical-notes#petty">petty offenses/infractions</a> are filed directly with the court by law enforcement. <a href="/technical-notes#felony">Felony</a> cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to file. This section presents data on all cases for which a law enforcement agency has filed the case (misdemeanors or petty offenses/infractions) or for which the DA’s Office has decided to accept the referral and file the charges (felonies). 
 
 **Why is this important?** To support community safety, we want to be able to maximize limited resources by focusing on serious crime while minimizing unnecessary punitiveness. Understanding the number and types of cases filed in the Office helps to ensure we use resources efficiently, effectively, and fairly.
 
