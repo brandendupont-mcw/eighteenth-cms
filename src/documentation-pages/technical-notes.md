@@ -149,9 +149,9 @@ This definition of violent crime is used in the following indicators:
 
 <a name="ethnicity"></a>**Ethnicity**: For purposes of these indicators, ethnicity is defined as Hispanic or non-Hispanic.
 
-<a name="race"></a>**Race**: Race is defined as the racial category as determined by law enforcement in the following categories: Hispanic, Black, American Indian, Asian, White, and Other.
+<a name="race"></a>**Race**: Race is defined as the racial category as determined by law enforcement in the following categories: Hispanic, Black, Native American, Asian, White, and Other.
 
-Race and Ethnicity are captured separately in the DA’s case management system. Aligned with a person-centered approach, across the dashboard we have combined the two fields. If the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as American Indian, they are categorized as American Indian regardless of their ethnicity. Individuals identified as having a race of Asian or Other, and an ethnicity of Non-Hispanic, are categorized as Another Race.
+Race and Ethnicity are captured separately in the DA’s case management system. Aligned with a person-centered approach, across the dashboard we have combined the two fields. If the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as Native American, they are categorized as Native American regardless of their ethnicity. Individuals identified as having a race of Asian or Other, and an ethnicity of Non-Hispanic, are categorized as Another Race.
 
 Some race/ethnic groups have small sample sizes. To address issues of small sample size, see measures taken in the <a href="/technical-notes#sample size">Methods</a> section below. 
 
