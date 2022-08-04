@@ -176,3 +176,5 @@ This dashboard aggregates data from the 18th District Attorney Office's case man
 1. Some data points are presented annually instead of quarterly.
 2. When the quarterly measure is less than 20, we have taken a three month moving average. 
 3. When the annual number is less than 20, we have excluded the metric.
+
+Criminal history and recidivism measures are limited in that they are calculated based on cases filed within the eight District Attorneys’ offices participating in the Colorado Prosecutorial Dashboards Project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th, and 20th). We do not have information on cases filed  outside these jurisdictions nor do the measures reflect cases from outside the state of Colorado. Criminal history relies on data since 2007. For these reasons, criminal history and recidivism may be underestimated. When benchmarked against data from the Bureau of Justice Statistics, criminal history was found to be of similar magnitude.
