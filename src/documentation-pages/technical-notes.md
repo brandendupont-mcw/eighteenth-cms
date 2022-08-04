@@ -153,6 +153,8 @@ This definition of violent crime is used in the following indicators:
 
 Race and Ethnicity are captured separately in the DA’s case management system. Aligned with a person-centered approach, across the dashboard we have combined the two fields. If the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as Native American, they are categorized as Native American regardless of their ethnicity. Individuals identified as having a race of Asian or Other, and an ethnicity of Non-Hispanic, are categorized as Another Race.
 
+Given historical inequities in the justice system, in presenting metrics, we have chosen to compare outcomes for people of color (including Black, Hispanic, and Native American individuals) against White individuals. We hope this provides clear information on the presence/extent of differences by race/ethnicity. This is not meant to imply that the rate for White individuals is an appropriate benchmark. In addition, we have significantly less confidence that Hispanic individuals are accurately identified in the current dataset.
+
 Some race/ethnic groups have small sample sizes. To address issues of small sample size, see measures taken in the <a href="/technical-notes#sample size">Methods</a> section below. 
 
 ### Data Terms
