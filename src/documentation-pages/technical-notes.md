@@ -114,7 +114,7 @@ sidenav: false
 
 <a name="attempt"></a>**Attempted**: Defendant is charged with engaging in conduct constituting a substantial step towards committing a crime. 
 
-<a name="violent"></a>**Violent Crime:** Violent Crime, as defined on the dashboard, includes charges categorized within the Crimes of Violence Statute  (18-1.3-406 ),  or is per se a Crime of Violence per case law. The definition includes attempted charges. Additionally, it includes Child Abuse resulting in Serious Bodily Injury (SBI) or Death.  For escape and extortion, given the wide range of potential charges, those charges are only included as a “violent crime” when the District Attorney has charged the case with a crime of violence sentence enhancer.
+<a name="violent"></a>**Violent Crime:** Violent Crime, as co-defined by the DA Offices participating in the Colorado Prosecutorial Dashboard Project, includes charges categorized within the Crimes of Violence Statute (18-1.3-406 ),  or is per se a Crime of Violence per case law. The definition includes attempted charges. Additionally, it includes Child Abuse resulting in Serious Bodily Injury (SBI) or Death.  For escape and extortion, given the wide range of potential charges, those charges are only included as a “violent crime” when the District Attorney has charged the case with a crime of violence sentence enhancer.
 
 This definition of violent crime is used in the following indicators:
 
