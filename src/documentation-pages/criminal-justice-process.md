@@ -4,7 +4,7 @@ sidenav: false
 ---
 # <a name="CJ Process"></a>Criminal Justice Process
 
-Colorado’s criminal justice system is a collaboration between lawmakers, law enforcement, prosecutors from the District Attorney’s (DA) Office, private and public defense attorneys, judges, and the community. The DA’s Office prosecutes cases, provides assistance to witnesses and victims of crime, and oversees alternative programming such as diversion and restorative justice.
+Colorado’s criminal justice system is a collaboration between many actors. The DA’s Office prosecutes cases, provides assistance to witnesses and victims of crime, and oversees alternative programming such as diversion and restorative justice.
 
 Click this <a href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86kmSNg/view?usp=sharing'> Flowchart</a> shows how cases “flow” through the criminal justice system. 
 
