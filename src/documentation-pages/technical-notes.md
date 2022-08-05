@@ -128,7 +128,7 @@ This definition of violent crime is used in the following indicators:
 
 <a name="at-risk"></a>**At-Risk Elders:** Victims who are 70 years of age or older.
 
-<a name="vra"></a>**The Victim Rights Act (VRA):**  A VRA case is one that provides constitutional protections for victims of certain [crimes](https://drive.google.com/file/d/1b9oBvGqYmdXYx2tVnCI-H4JKkz5SFE1X/view?usp=sharing) to be “heard when relevant, informed and present at all critical stages of the criminal justice process”. (Article 11, Section 16a of the Colorado State Constitution.)
+<a name="vra"></a>**The Victim Rights Act (VRA):**  A VRA case is one that provides constitutional protections for victims of certain [crimes](https://drive.google.com/file/d/1RkUI1Oh3Mzu_na-LeQWpnOrGkRt4XYfn/view?usp=sharing) to be “heard when relevant, informed and present at all critical stages of the criminal justice process”. (Article 11, Section 16a of the Colorado State Constitution.)
 
 ### Legislative Landscape
 
