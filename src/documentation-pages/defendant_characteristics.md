@@ -73,7 +73,7 @@ A defendant's criminal history is a tremendously important aspect of our case re
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure we are treating all individuals fairly. <br>
+Below are a set of <a href="/technical-notes#indicators">indicators</a> that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure we are treating all individuals fairly. <br>
 
 <br>
 
