@@ -44,7 +44,7 @@ While these metrics have remained relatively flat since 2017, they do not reflec
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about sentencing. These indicators help the DA's Office ensure they are ensuring fairness in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
+Below are a set of <a href="/technical-notes#indicators">indicators</a> that provide additional context about sentencing. These indicators help the DA's Office ensure they are ensuring fairness in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
 
 <iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-mjsgM" src="https://datawrapper.dwcdn.net/mjsgM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
