@@ -20,7 +20,7 @@ Click this <a href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86
 
 ### What does the DA’s Office do?
 
-* Submits requests to the court to issue warrants for arrest. 
+* Submits and/or reviews requests to the court to issue warrants for arrest. 
 * Makes recommendations for bond amount and stipulations.
 * Screens and decides whether to file felony cases referred from law enforcement with the courts.
 * Conducts outreach and provides resources to victims of crime.
