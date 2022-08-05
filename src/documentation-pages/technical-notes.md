@@ -171,6 +171,11 @@ Some race/ethnic groups have small sample sizes. To address issues of small samp
 
 This dashboard aggregates data from the 18th District Attorney Office's case management system, Action, stored and shared by the Colorado District Attorneys’ Council (CDAC).
 
+<a name="indicators"></a> We present data in eight sections, summarizing information about different parts of the prosecution process. In each section we present: 
+
+1. General trends, an overview of cases and characteristics 
+2. Indicators, selected from the menu of 55 [Prosecutorial Performance Indicators](https://prosecutorialperformanceindicators.org/) (PPIs), which are designed to measure capacity and efficiency, community safety and well-being, and fairness and justice. PPIs offer an array of metrics that can be tracked over time to inform decision making and policy development.
+
 <a name="sample size"></a> To address issues of small sample size, we implemented the following measures:
 
 1. Presented some data points annually instead of quarterly.
