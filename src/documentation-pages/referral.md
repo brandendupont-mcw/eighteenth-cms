@@ -32,7 +32,7 @@ Our office works collaboratively with our law enforcement partners to ensure tha
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about felony referrals. These indicators help the DA's Office ensure they maximize government resources by making strategic decisions about which cases to accept for prosecution. <br>
+Below are a set of <a href="/technical-notes#indicators">indicators</a> that provide additional context about felony referrals. These indicators help the DA's Office ensure they maximize government resources by making strategic decisions about which cases to accept for prosecution. <br>
 
 <br>
 
