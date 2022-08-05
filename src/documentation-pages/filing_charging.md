@@ -55,7 +55,7 @@ The total number of cases filed each year took a sharp hit during 2020 when the 
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about cases filed. These indicators help the DA's Office ensure they are prioritizing cases effectively and charging cases appropriately.
+Below are a set of <a href="/technical-notes#indicators">indicators</a> that provide additional context about cases filed. These indicators help the DA's Office ensure they are prioritizing cases effectively and charging cases appropriately.
 
 <br>
 
