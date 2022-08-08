@@ -6,7 +6,7 @@ sidenav: false
 
 This section presents data on cases granted diversion or deferred judgment. <a href="/technical-notes#diversion">Diversion</a> and <a href="/technical-notes#deferred">deferred judgments</a> are alternatives to traditional prosecution that attempt to address individuals’ needs. If programmatic requirements are met, the case will be dismissed.
 
-**Why is this important?** Understanding what cases are diverted or deferred and the rate of successful program completion provides information on whether the alternative minimizes unnecessary punitiveness while centering community safety.
+**Why is this important?** Understanding what cases are diverted or deferred and the rate of successful program completion provides information on whether the alternative minimizes unnecessary punitiveness and maintains community safety.
 
 <br>
 
