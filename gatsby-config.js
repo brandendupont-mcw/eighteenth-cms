@@ -39,7 +39,7 @@ module.exports = {
       },
     ],
     secondaryLinks: [
-      { text: 'Homepage', link: 'https://www.da18.org' },
+      { text: '18th DA Home', link: 'https://www.da18.org' },
       { text: 'Contact Us', link: 'https://www.da18.org/about/contact/' },
     ],
 
