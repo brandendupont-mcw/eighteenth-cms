@@ -6,9 +6,9 @@ sidenav: false
 
 Colorado’s criminal justice system is a collaboration between many actors. The DA’s Office prosecutes cases, provides assistance to witnesses and victims of crime, and oversees alternative programming such as diversion and restorative justice.
 
-Click this <a href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86kmSNg/view?usp=sharing'> Flowchart</a> shows how cases “flow” through the criminal justice system in Colorado. 
+Click this <a href='https://drive.google.com/file/d/1y-6nwXOw2tpBxlJqjmBAyEcZ1JbQb1ko/view?usp=sharing'> Flowchart</a> shows how cases “flow” through the criminal justice system in Colorado. 
 
-<a  href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86kmSNg/view?usp=sharing'><img src='https://loyolaccj.org/criminal-justice-process.png' width='375px' alt="Logo" /></a>
+<a  href='https://drive.google.com/file/d/1y-6nwXOw2tpBxlJqjmBAyEcZ1JbQb1ko/view?usp=sharing'><img src='https://loyolaccj.org/criminal-justice-process.png' width='375px' alt="Logo" /></a>
 
 <br></br>
 
