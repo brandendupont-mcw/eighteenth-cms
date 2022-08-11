@@ -113,36 +113,6 @@ const Blog = ({ data, pageContext }) => {
               </ul>
             </div>
             <div className="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
-              <h4>Another list of links</h4>
-              <ul className=" usa-list usa-list--unstyled padding-top-2">
-                <li className="padding-bottom-1">
-                  <Link className="usa-link" to="/blog">
-                    Most popular
-                  </Link>
-                </li>
-                <li className="padding-bottom-1">
-                  <Link className="usa-link" to="/blog">
-                    Another popular post
-                  </Link>
-                </li>
-                <li className="padding-bottom-1">
-                  <Link className="usa-link" to="/blog">
-                    This is popular
-                  </Link>
-                </li>
-                <li className="padding-bottom-1">
-                  <Link className="usa-link" to="/blog">
-                    A very long blog header that is popular
-                  </Link>
-                </li>
-                <li className="padding-bottom-1">
-                  <Link className="usa-link" to="/blog">
-                    A popular post on a blog
-                  </Link>
-                </li>
-              </ul>
-            </div>
-            <div className="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
               <h4>Social links</h4>
               <ul className="usa-list usa-list--unstyled padding-top-2">
                 <li className="padding-bottom-1">

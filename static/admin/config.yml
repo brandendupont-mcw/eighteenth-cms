@@ -5,6 +5,7 @@ backend:
 media_folder: static/images
 public_folder: /images
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
+publish_mode: editorial_workflow
 
 collections:
   - name: blog
