@@ -169,6 +169,16 @@ The <a href="/defendant_characteristics#census">District Population, by Race/Eth
 
 <a name="quintile"></a>**Quintile: ​​**A quintile is a statistical value of a data set that represents 20% of a given population, so the lowest quintile represents the lowest fifth of the data, while the upper quintile represents the highest fifth of the data.
 
+**Defendant Median Household Income**: As a socioeconomic proxy, 2020 Census data was used to determine the median household income of the zip code where the defendant is reported to reside. We limited the defendant zip code to defendants convicted of felonies with Colorado addresses. We categorized the zip codes into quintiles, and compared the highest income quintile to the lowest income quintile. This socioeconomic proxy is used in:  
+
+* *Felony Incarceration Differences by Socioeconomic Status - Median Household Income.*
+
+**Victim Median Household Income:** As a socioeconomic proxy, 2020 Census data was used to determine the median household income of the zip code where the victim is reported to reside. We limited the victim zip code to victims of felonies with Colorado addresses. We categorized the zip codes into quintiles, and compared the  highest income quintile to the lowest income quintile. This socioeconomic proxy is used in:
+
+* *Violent Victimization in Low Income Communities*
+* *Person and Sex Offense Dismissals Across Socioeconomic Status*
+* *Property Offense Dismissals Across Socioeconomic Status*
+
 ### Methods
 
 This dashboard aggregates data from the 18th District Attorney Office's case management system, Action, stored and shared by the Colorado District Attorneys’ Council (CDAC).
