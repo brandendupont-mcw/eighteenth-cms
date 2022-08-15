@@ -175,7 +175,7 @@ The <a href="/defendant_characteristics#census">District Population, by Race/Eth
 
 **Victim Median Household Income:** As a socioeconomic proxy, 2020 Census data was used to determine the median household income of the zip code where the victim is reported to reside. We limited the victim zip code to victims of felonies with Colorado addresses. We categorized the zip codes into quintiles, and compared the  highest income quintile to the lowest income quintile. This socioeconomic proxy is used in:
 
-* <a href="/serving_victims#violent victimization">Violent Victimization in Low-Income Communities</a>
+* <a href="/serving_victims#violent victimization poor">Violent Victimization in Low-Income Communities</a>
 * <a href="/serving_victims#personsex">Person and Sex Offense Dismissals Across Socioeconomic Status</a>
 * <a href="/serving_victims#property">Property Offense Dismissals Across Socioeconomic Status</a>
 
