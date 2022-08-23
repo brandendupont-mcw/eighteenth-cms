@@ -10,6 +10,12 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
+<br>
+
+**Important Note Regarding Victim Demographic Information:**  Demographic information about our victims lags far behind other areas of data collection.  Our office is choosing to share this information despite several known shortcomings in data collection practices so that we can track and document improvement in these processes.  We are implementing some immediate changes in our office practices to address these gaps in data collection.  First, our Victim-Witness Advocates will ask victims if they are willing to voluntarily self-identify during initial victim intake discussions.  Second, in cases where we may not have contact with a victim, we will work back through police reports and other case documents to capture demographic related information.  In implementing these steps, we hope to see significant progress in 2022 cases and beyond.
+
+**Known inaccuracy:**  Our case management system has a "default" value of "Another Race/Ethnicity".  This value appears when no other value has been entered.  As a result, it is likely dramatically over-reported in our data.  
+
 <iframe title="Number of Cases Filed, by Victim Gender" aria-label="Interactive line chart" id="datawrapper-chart-iFa3B" src="https://datawrapper.dwcdn.net/iFa3B/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
@@ -35,6 +41,8 @@ This section presents information about victimization, victim characteristics, a
 </script> <br>
 
 <br>
+
+**Remember**:  as noted above, our case management system has a "default" value of "Another Race/Ethnicity".  This value appears when no other value has been entered.  As a result, it is likely dramatically over-reported in our current data. 
 
 <br>
 
@@ -69,6 +77,8 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a> that pro
 
 **Important note about race and ethnicity data:** As we have noted for metrics that relate to a defendant, the information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  We have some hesitation about the reliability of data for victim Race and Ethnicity due to how this was logged and maintained in our case management system.  We will continue to work to improve this data but believe these metrics are an important part of our community's discussion on disparity and disproportionality in the criminal justice system.
 
+**Remember**:  as noted at the top of this page, our case management system has a "default" value of "Another Race/Ethnicity".  This value appears when no other value has been entered.  As a result, it is likely dramatically over-reported in our current data.  ***That reporting would artificially inflate this metric tracking non-white victims***.  
+
 <br>
 
 <iframe title="Case Dismissal Differences by Victim Race/Ethnicity" aria-label="Bullet Bars" id="datawrapper-chart-DjK6Y" src="https://datawrapper.dwcdn.net/DjK6Y/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -77,6 +87,8 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a> that pro
 <br>
 
 **Important note about race and ethnicity data:** As we have noted for metrics that relate to a defendant, the information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  We have some hesitation about the reliability of data for victim Race and Ethnicity due to how this was logged and maintained in our case management system.  We will continue to work to improve this data but believe these metrics are an important part of our community's discussion on disparity and disproportionality in the criminal justice system.
+
+**Remember**:  as noted at the top of this page, our case management system has a "default" value of "Another Race/Ethnicity".  This value appears when no other value has been entered.  As a result, it is likely dramatically over-reported in our current data.  ***That reporting would artificially inflate this metric tracking non-white victims***.  
 
 <br>
 
@@ -96,6 +108,10 @@ Regardless of where someone lives they shouldn't have to be a victim of violent 
 <iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-Sr8kp" src="https://datawrapper.dwcdn.net/Sr8kp/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
+Our office is mindful that socioeconomic challenges can impact a case in a variety of ways, including things like whether a victim has the ability to take time off and the means to travel to appear in court.  For persons crimes and sex offenses (the subject of the chart above) victim involvement is critical in the successful prosecution of those cases.  Our office is mindful of the challenges victims face and we are committed to ensuring that our efforts treat victims and defendants equally without regard to their financial resources.  
+
+This metric doesn't yet establish a trend, but we will closely watch the remainder of 2022 data and attempt to better understand why a difference in dismissal rates appears to be emerging.
+
 <br>
 
 <a name="property">
@@ -107,6 +123,8 @@ Regardless of where someone lives they shouldn't have to be a victim of violent 
 
 <br>
 
+This metric doesn't yet establish a trend, but we will closely watch the remainder of 2022 data and attempt to better understand why a difference in dismissal rates appears to be emerging.
+
 <br>
 
 <a name="violent victimization children">
@@ -116,6 +134,8 @@ Regardless of where someone lives they shouldn't have to be a victim of violent 
 
 <br>
 
+As we continue to monitor this data, we are committed to working with our law enforcement partners to identify strategies for prevention.  Our office will aggressively prosecute individuals who commit violent crimes against children.
+
 <br>
 
 <br>
@@ -124,5 +144,7 @@ Regardless of where someone lives they shouldn't have to be a victim of violent 
 </script> <br>
 
 <br>
+
+We are proud of the work of our dedicated attorneys in the Special Victims Unit and the strong partnerships they have built with SVU Detectives throughout our jurisdiction.  This collaboration with law enforcement and the work of dedicated investigators helps build cases that can stand up in court.  But, the courage of victims to report these crimes is the most critical step.  If you or someone you know needs additional information or resources about reporting sexual assault, [please click here](https://www.da18.org/victims-services/sexual-assault/).
 
 <br>
