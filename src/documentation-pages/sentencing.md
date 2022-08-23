@@ -26,7 +26,7 @@ As you review the sentencing data below, it is important to read these metrics i
 
 This metric represents a percentage of defendants going to prison that seems to be increasing, and it is increasing as a percentage of felony sentences.  But, remember, the overall number of felony filings - particularly less serious felonies - has decreased dramatically in recent years.  In light of that, we would expect to see the percentage sent to prison trending upward, as more serious cases now represent a higher percentage of the felony cases we handle.<br>
 
-<iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-BJtyH" src="https://datawrapper.dwcdn.net/BJtyH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-BJtyH" src="https://datawrapper.dwcdn.net/BJtyH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void g0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -62,7 +62,7 @@ We will continue to monitor and study this indicator over time as we see the imp
 
 <br>
 
-n some cases, Community Corrections is an important tool to help build skills or address treatment needs.  However, it is a community-bases sentence, and is not appropriate in every case.  We will continue to monitor this metric while taking into account the criminal history of each defendant, the input from victims, a defendant's interest in treatment and rehabilitation, and the types of charges involved.
+In some cases, Community Corrections is an important tool to help build skills or address treatment needs.  However, it is a community-bases sentence, and is not appropriate in every case.  We will continue to monitor this metric while taking into account the criminal history of each defendant, the input from victims, a defendant's interest in treatment and rehabilitation, and the types of charges involved.
 
 <br>
 
