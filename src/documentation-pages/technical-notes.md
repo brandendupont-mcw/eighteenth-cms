@@ -96,7 +96,7 @@ sidenav: false
 
 <a name="jail"></a>**Jail** is a sentence to local incarceration, generally for misdemeanor cases.
 
-<a name="probationjail"></a>**Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. Incarceration
+<a name="probationjail"></a>**Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. 
 
 **\*Non-incarceral** sentences includes any of the following:*
 
