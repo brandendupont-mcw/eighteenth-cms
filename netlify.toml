@@ -1,0 +1,3 @@
+[[redirects]]
+  from = "/18th/*"
+  to = "/:splat"

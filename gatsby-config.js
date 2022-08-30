@@ -114,7 +114,7 @@ module.exports = {
       // ua: 'your-ua',
     },
   },
-  pathPrefix: process.env.BASEURL || '/',
+  pathPrefix: process.env.BASEURL || '/18th/',
   plugins: [
     {
       resolve: 'gatsby-plugin-sass',

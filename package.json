@@ -4,12 +4,13 @@
   "version": "1.0.0",
   "scripts": {
     "clean": "rimraf .cache public _site",
-    "build": "cross-env GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
+    "build": "cross-env GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --prefix-paths  --log-pages",
+    "build:app": "npm run clean && gatsby build --prefix-paths",
     "reset": "npx rimraf .git",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve",
+    "serve": "gatsby serve --prefix-paths",
     "federalist": "npm run federalist:build && npm run federalist:copy",
     "federalist:build": "gatsby build --prefix-paths",
     "federalist:copy": "mkdir -p _site && rm -rf _site/* && cp -r public/* _site/"
