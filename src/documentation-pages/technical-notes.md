@@ -96,7 +96,7 @@ sidenav: false
 
 <a name="jail"></a>**Jail** is a sentence to local incarceration, generally for misdemeanor cases.
 
-<a name="probationjail"></a>**Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. Incarceration
+<a name="probationjail"></a>**Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. 
 
 **\*Non-incarceral** sentences includes any of the following:*
 
@@ -157,6 +157,8 @@ Given historical inequities in the justice system, in presenting metrics, we hav
 
 Some race/ethnic groups have small sample sizes. To address issues of small sample size, see measures taken in the <a href="/technical-notes#sample size">Methods</a> section below. 
 
+The <a href="/defendant_characteristics#census">District Population, by Race/Ethnicity 2020 Census</a> was generated from information publicly available through the [United States Census Bureau](https://www.census.gov/library/stories/state-by-state/colorado-population-change-between-census-decade.html#:~:text=Population%20(up%207.4%25%20to%20331.4,or%20More%20Races%2010.2%25).). In 2020 the U.S. Census collected race and ethnicity as two questions: one for ethnicity, “Hispanic or Latino” and “Not Hispanic or Latino”, and another for race with six categories: “White,” “Black or African American,” “American Indian or Alaska Native,” “Asian”, “Native Hawaiian and Other Pacific Islander”, and “Some Other Race”. To best compare the general population to the population of individuals with criminal cases filed, we have used similar logic to categorize individuals. If the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as Native American (“American Indian or Alaska Native” or “Native Hawaiian and Other Pacific Islander”) they are categorized as Native American regardless of their ethnicity. Individuals categorized as “Some Other Race” and Hispanic are categorized as Hispanic. Individuals that selected two or more races, regardless of their ethnicity, are categorized in the “Multiracial or Another Race” category.
+
 ### Data Terms
 
 <a name="average"></a>**Average**: The average of a set of numbers is the sum of the numbers divided by the total number of values in the set. For example, to find the average of 24, 55, 17, 87 and 100, first find the sum of the numbers: 24 + 55 + 17 + 87 + 100 = 283 and divide by 5 to get 56.6.
@@ -166,6 +168,16 @@ Some race/ethnic groups have small sample sizes. To address issues of small samp
 <a name="outlier"></a>**Outlier:** An outlier is a data point that differs from other observations, is much bigger or much smaller.
 
 <a name="quintile"></a>**Quintile: ​​**A quintile is a statistical value of a data set that represents 20% of a given population, so the lowest quintile represents the lowest fifth of the data, while the upper quintile represents the highest fifth of the data.
+
+**Defendant Median Household Income**: As a socioeconomic proxy, 2020 Census data was used to determine the median household income of the zip code where the defendant is reported to reside. We limited the defendant zip code to defendants convicted of felonies with Colorado addresses. We categorized the zip codes into quintiles, and compared the highest income quintile to the lowest income quintile. This socioeconomic proxy is used in:  
+
+* <a href="/sentencing#felony incarceration">Felony Incarceration Differences by Socioeconomic Status - Median Household Income</a>
+
+**Victim Median Household Income:** As a socioeconomic proxy, 2020 Census data was used to determine the median household income of the zip code where the victim is reported to reside. We limited the victim zip code to victims of felonies with Colorado addresses. We categorized the zip codes into quintiles, and compared the  highest income quintile to the lowest income quintile. This socioeconomic proxy is used in:
+
+* <a href="/serving_victims#violent victimization poor">Violent Victimization in Low-Income Communities</a>
+* <a href="/serving_victims#personsex">Person and Sex Offense Dismissals Across Socioeconomic Status</a>
+* <a href="/serving_victims#property">Property Offense Dismissals Across Socioeconomic Status</a>
 
 ### Methods
 

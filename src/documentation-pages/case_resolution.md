@@ -17,7 +17,7 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 <br>
 
-Since the start of the pandemic, we have struggled to resolve cases at the same rate they are filed.  It's important for us to be resolving roughly the same number of cases as are filed every year to ensure we are not building a backlog in the justice system.  Throughout the pandemic, limitations on jury trials or in-person proceedings, and court closures have all contributed to a slower rate of case resolution.  We would like to see the case resolutions increase to achieve parity with case filing numbers so that the justice system is not overwhelmed with additional cases beyond its current capacity.
+Since the start of the pandemic, we have struggled to resolve cases at the same rate they are filed.  It's important for us to be resolving roughly the same number of cases as are filed every year to ensure we are not building a backlog in the justice system.  Throughout the pandemic, necessary limitations on jury trials, in-person proceedings, and court closures have all contributed to a slower rate of case resolution.  As we hWe would like to see the case resolutions increase to achieve parity with case filing numbers so that the justice system is not overwhelmed with additional cases beyond its current capacity.
 
 <br>
 
@@ -44,7 +44,7 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a> that pro
 
 <br>
 
-The office charges a particular case based on what the evidence can prove and how the legislature has defined those offenses.  However, we often engage in appropriate negotiation and consider any additional facts about the case or mitigation about a defendant that is provided.  Often that results in a reduction in the charge.  We will continue to monitor our charging decisions and negotiation practices.  However, we don't want to be at either extreme of this particular indicator.  
+Our office charges a particular case based on what the evidence will prove and how the Colorado Legislature has defined those offenses.  However, we often engage in appropriate negotiation and consider any additional facts about the case or mitigation about a defendant that is provided.  For defendants who want to accept responsibility and proactively engage in rehabilitation, that often results in a reduction in the charge.  We will continue to monitor our charging decisions and plea agreement practices, but will encourage our prosecutors to use their discretion to reduce charges where appropriate.  
 
 <br>
 
@@ -53,14 +53,14 @@ The office charges a particular case based on what the evidence can prove and ho
 
 <br>
 
-**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Keep in mind, this metric shows the end of the line in a criminal case, but it is not the only area where we see disproportionality.  Our internal analysis indicates that **in 2021, 70% of cases involving a violent crime involved a Non-White Victim**.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to deeper study of these issues to develop a better understanding on the root causes.  <br>
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to a deeper study of these issues to develop a better understanding on the root causes of disparity in the justice system.  <br>
 
 <iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-2Pqf9" src="https://datawrapper.dwcdn.net/2Pqf9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification, and we have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way that data was historically captured.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Keep in mind, this metric shows the end of the line in a criminal case, but it is not the only area where we see disproportionality.  Our internal analysis indicates that **in 2021, 70% of cases involving a violent crime involved a Non-White Victim**.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to deeper study of these issues to develop a better understanding on the root causes.  <br>
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification, and we have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way that data was historically captured.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to a deeper study of these issues to develop a better understanding on the root causes of disparity in the justice system.  <br>
 
 <a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
@@ -69,9 +69,9 @@ The office charges a particular case based on what the evidence can prove and ho
 
 <br>
 
-There are a myriad of reasons that impact the length of time for case resolution, many of which are outside of our office's control.  This can include delays in obtaining defense counsel or continuances granted by the court.  However, there can be no doubt that our office has at least some influence over this metric and we must do better.  
+There are a myriad of reasons that impact the length of time for case resolution.  Some of those are the result of choices or actions made by a prosecutor, but many of those reasons are outside of our office's control.  This can include delays in a defendant hiring an attorney or applying for court-appointed counsel.  Delays can be caused by continuances granted by the court, or a defendant missing a court date.  However, there can be no doubt that our office has at least some influence over this metric and we must do better.  
 
-While the average number of days to resolve a felony continues to rise, the median has remained relatively flat since the start of the COVID-19 Pandemic.  It is taking far too long to resolve an average case.  We are encouraged that we've seen some reduction in the median time for resolution in 2022 as restrictions on courthouse operations have come to a close.  We will continue to train our prosecutors and seek to staff our office appropriately to manage these cases to earlier average resolutions so that victims and defendants are not left waiting for justice.
+We are encouraged that we've seen some reduction in the median time for resolution in 2022 as restrictions on courthouse operations have come to a close.  We will continue to train our prosecutors and seek to staff our office appropriately to manage these cases to earlier average resolutions so that victims and defendants are not left waiting for justice.
 
 <br>
 
@@ -80,7 +80,7 @@ While the average number of days to resolve a felony continues to rise, the medi
 
 <br>
 
-During COVID-19 there was uncertainty about whether or how cases were going to proceed, lengthening our court processes.  In addition, cases which are referred to diversion often lengthens the average time to dismissal as defendants must complete programming successfully before a case is dismissed.  We will continue to monitor this indicator and would like to see it trend back towards pre-pandemic levels.
+During COVID-19 there was uncertainty about whether or how cases were going to proceed, lengthening our court processes.  In addition, cases which are referred to a diversion program often lengthen the average time to dismissal as defendants must complete treatment programming successfully before a case is dismissed.  We will continue to monitor this indicator and work to better identify cases dismissed due to diversion or other causes.
 
 <br>
 

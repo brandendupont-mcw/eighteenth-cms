@@ -64,9 +64,18 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a> that pro
 
 <br>
 
-This metric has remained relatively consistent throughout the years even as we saw overall filings decrease during COVID-19 and have seen some crimes reclassified as misdemeanors.  While felony cases do not make up a majority of the cases handled in our office, they do receive significantly more support in terms of experienced prosecutors, paralegals, investigations, and victim services staff due to their more serious nature and the lasting impacts on victims and the community.  <br>
+This metric has remained relatively consistent throughout the years even as we saw overall filings decrease during COVID-19 and have seen some crimes reclassified as misdemeanors.  While felony cases do not make up a majority of the cases handled in our office, they do receive significantly more support in terms of experienced prosecutors, paralegals, investigations, and victim services staff due to their more serious nature and the lasting impacts on victims and the community.  
+
+<br>
+
+<br>
 
 <a name="violent crimes filed">
+
+<iframe title="Violent Crimes Filed, by Year" aria-label="Interactive line chart" id="datawrapper-chart-VfpEV" src="https://datawrapper.dwcdn.net/VfpEV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
 
 <iframe title="Violent Crimes Filed" aria-label="Interactive line chart" id="datawrapper-chart-TmHBM" src="https://datawrapper.dwcdn.net/TmHBM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>

@@ -24,8 +24,6 @@ As we have noted throughout these pages, the data we currently rely on is not ba
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
-
 <br>
 
 <iframe title="Number of Cases Filed, by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-yXj40" src="https://datawrapper.dwcdn.net/yXj40/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -48,7 +46,11 @@ The above chart reflects raw numbers of case filings.  At first glance it might 
 
 <br>
 
-<iframe title="District Population, by Race/Ethnicity 2020 Census" aria-label="Donut Chart" id="datawrapper-chart-Lohkz" src="https://datawrapper.dwcdn.net/Lohkz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="408"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<a name="census"></a> 
+
+<br>
+
+<iframe title="District Population, by Race/Ethnicity 2020 Census" aria-label="Donut Chart" id="datawrapper-chart-Lohkz" src="https://datawrapper.dwcdn.net/Lohkz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="408"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -72,7 +74,7 @@ The above chart reflects raw numbers of case filings.  At first glance it might 
 
 <br>
 
-A defendant's criminal history is a tremendously important aspect of our case review, along with the facts of the current case.  This data is a limited glimpse and a first attempt to examine that criminal history, and we hope to dive deeper into this metric as it relates to the remainder of our data in the future.
+A defendant's criminal history is a tremendously important aspect of our case review, along with the facts of the current case.  This data is a limited glimpse and a first attempt to examine that criminal history.  This review of criminal history does not include convictions in other states or federal convictions.  Similarly, municipal convictions are excluded.  At this phase, criminal history data is restricted to only those 8 judicial districts that participated in this pilot project.  This means that significant metro districts, including ones that border our jurisdiction, are not included.  We view this reporting as an important first step and we hope to build on and enhance this analysis in the coming months and years.
 
 <br>
 
@@ -95,6 +97,8 @@ Violent offenses often come with sentence enhancers or significant incarceration
 </script> <br>
 
 <br>
+
+For anyone we encounter in the criminal justice system, it is our sincere hope that we don't encounter them again in the future, but that is not our current reality.  This chart demonstrates that well over half of the individuals who are convicted of a felony are individuals with at least some prior convictions.  Our most recent data indicates that nearly half of people who are convicted of a felony have *at least* *one prior felony* conviction.  We will continue to monitor this indicator as we evaluate the impacts of recent legislation and our office's practices.
 
 <br>
 

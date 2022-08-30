@@ -4,9 +4,9 @@ sidenav: false
 ---
 # Sentencing
 
-After an individual is found guilty of a crime, a judge imposes a sentence which may include <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
+After an individual is found guilty of a crime, a judge imposes a sentence which may include <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. In many cases, these recommendations may come in the form of a plea agreement which the judge can decide to accept or reject.  This section presents information on sentencing by the most severe sentence imposed on the case. 
 
-**Why is this important?** It is important to ensure sentences minimize unnecessary punitiveness while appropriately addressing serious crime. In addition, we want to treat all individuals fairly and equitably.
+**Why is this important?** Colorado Revised Statutes 18-1-102.5 identifies the purpose of the law with respect to sentencing.  These considerations include 1) punishment in relation to the seriousness of the offense; 2) fair and consistent treatment of offenders; 3) preventing crime and promoting respect for the law; 4) promoting rehabilitation; 5) a sentence that addressed the offender's individual characteristics; and 6) promoting acceptance of responsibility and accountability.
 
 <br>
 
@@ -15,7 +15,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-UMik4" src="https://datawrapper.dwcdn.net/UMik4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-As you review the sentencing data below, it is important to read these metrics in conjunction with the other information provided.  For example, the chart below indicates that 11% of felony sentences imposed include a sentence to community corrections.  However, this does not mean that 11% of those cases where a felony was ***charged*** result in a sentence to community corrections.   You also need to consider how felony cases resolved and whether they resolved with a felony conviction to give these sentencing numbers the full context.<br>
+As you review the sentencing data below, it is important to read these metrics in conjunction with the other information provided on this website.  For example, the chart below deals with sentences imposed on felony convictions.  You may also wish to consider additional metrics such as how felony cases resolved (ie: the percentages that were dismissed or reduced to misdemeanor offenses) for greater context and insight into these numbers.  <br>
 
 <br>
 
@@ -24,21 +24,23 @@ As you review the sentencing data below, it is important to read these metrics i
 
 <br>
 
-As we've referenced elsewhere on these pages, this metric represents a percentage of defendants going to prison that seems to be increasing.  However, the overall number of felony filings - particularly less serious felonies - has decreased dramatically.  In light of that, we would expect to see the percentage sent to prison trending upward.<br>
+This metric represents a percentage of defendants going to prison that seems to be increasing, and it is increasing as a percentage of felony sentences.  But, remember, the overall number of felony filings - particularly less serious felonies - has decreased dramatically in recent years.  In light of that, we would expect to see the percentage sent to prison trending upward, as more serious cases now represent a higher percentage of the felony cases we handle.<br>
 
 <iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-BJtyH" src="https://datawrapper.dwcdn.net/BJtyH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-2022 appears to reflect an increase in jail and time served sentences.  Over the past few years, a number of felonies have been reclassified as misdemeanors, all while we have struggled to come through the COVID-19 Pandemic which put tremendous pressure on our jail.  We will continue to study this indicator to better understand whether we are truly seeing a trend in sentencing, or if this is simply a reflection of additional crimes that were once felonies now being handled in a manner we might expect absent the COVID-19 pandemic.<br>
+Over the past few years, a number of felonies have been reclassified as misdemeanors, all while we have struggled to come through the COVID-19 Pandemic which put tremendous pressure on our jail.  We will continue to study this indicator to better understand whether we are truly seeing a trend in sentencing, or if this is simply a reflection of additional crimes that were once felonies now being handled in a manner we might expect absent the COVID-19 pandemic.<br>
 
 <iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-Fn5al" src="https://datawrapper.dwcdn.net/Fn5al/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-While these metrics have remained relatively flat since 2017, they do not reflect a success rate that leaves our office satisfied.  It is simply unacceptable that 4 out of 10 felony defendants are facing new charges within one year of their original sentence.  We will work closely with our partners and stakeholders to develop strategies to address this recidivism.  
+Recidivism is a challenging area of study but an important benchmark for our office.  When someone is placed in a community-based sentence such as probation, we want to ensure that the community remains safe.  While we are encouraged that this recidivism rate is on a downward trend, we want to continue to evaluate our decisions on case management to reduce recidivism even further.   
+
+If you would like additional data from a statewide perspective on recidivism, the Colorado Division of Criminal Justice publishes data on [interactive dashboards ](https://ors.colorado.gov/ors-recidivism)that may provide additional context.
 
 <br>
 
@@ -51,7 +53,7 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a> that pro
 
 <br>
 
-We will continue to monitor and study this indicator. Some decisions are outside of the prosecutor's control, including charges such as a DUI that may require mandatory jail time.  In the future we hope to do further study of the "Other Offenses" reflected in this chart to identify what charges and characteristics may be driving incarceration.
+We will continue to monitor and study this indicator over time as we see the impacts of changes Colorado's criminal law.  It may be helpful as you review this indicator to review the distribution of the types of cases that were filed by our office.  [You can find that information here](https://co-18th-district.netlify.app/filing_charging).
 
 <br>
 
@@ -60,12 +62,16 @@ We will continue to monitor and study this indicator. Some decisions are outside
 
 <br>
 
-We will continue to monitor this metric while taking into account the criminal history of each defendant and the types of charges involved.
+n some cases, Community Corrections is an important tool to help build skills or address treatment needs.  However, it is a community-bases sentence, and is not appropriate in every case.  We will continue to monitor this metric while taking into account the criminal history of each defendant, the input from victims, a defendant's interest in treatment and rehabilitation, and the types of charges involved.
 
 <br>
 
 <iframe title="Deferred Judgment as an Alternative to Probation for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-6G1J7" src="https://datawrapper.dwcdn.net/6G1J7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
+
+<br>
+
+If successfully completed, a deferred judgment can result in a case being dismissed and a defendant having no permanent criminal record, while a sentence to traditional probation generally involves a conviction.  Our office carefully reviews each case and each defendant before making a decision on whether a deferred judgment is an appropriate outcome on a case.  
 
 <br>
 
@@ -94,14 +100,18 @@ We will continue to monitor this metric while taking into account the criminal h
 
 <br>
 
+Our office is committed to ensuring that defendants have equal access to justice regardless of their economic status.  However, Defendants to not complete detailed surveys of their economic status.  Examining cases based on whether a defendant is represented by the public defender or by private counsel is one way to gain some insight into potential economic disparity.
+
 **Public Defender Qualification**: In Colorado, incarcerated defendants are automatically appointed a public defender for as long as they remain in custody. Out-of-custody defendants must apply and meet federal indigence requirements to qualify for a public defender. Therefore, there is the potential for public defenders to be representing individuals accused of more serious crimes.
+
+<a name="felony incarceration"></a>
 
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-5paDy" src="https://datawrapper.dwcdn.net/5paDy/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-This data doesn't yet indicate a trend.  We will continue to monitor this metric in the coming months and years.<br>
+In addition to the public defender data above, this is another attempt to examine potential socioeconomic disparity in the criminal justice system.  We will continue to monitor this metric in the coming years to see what trends, if any, emerge.<br>
 
 ## **Pretrial Detention Indicators**
 
