@@ -1,6 +1,6 @@
 ---
 title: Targeting the Dramatic Rise in Motor Vehicle Theft
-date: September 1, 2022
+date: September 8, 2022
 author: John Kellner
 ---
 During the COVID-19 Pandemic, even as fewer cars were on the road, a pattern began to emerge.  By 2021, when many jails in the metro area were still turning away arrestees on lower dollar bond amounts - particularly for "property crime", the massive wave of motor vehicle theft had grown into a full-blown epidemic in our judicial district and across the entire state.  
