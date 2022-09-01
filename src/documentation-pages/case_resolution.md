@@ -17,7 +17,7 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 <br>
 
-Since the start of the pandemic, we have struggled to resolve cases at the same rate they are filed.  It's important for us to be resolving roughly the same number of cases as are filed every year to ensure we are not building a backlog in the justice system.  Throughout the pandemic, necessary limitations on jury trials, in-person proceedings, and court closures have all contributed to a slower rate of case resolution.  As we hWe would like to see the case resolutions increase to achieve parity with case filing numbers so that the justice system is not overwhelmed with additional cases beyond its current capacity.
+Since the start of the pandemic, we have struggled to resolve cases at the same rate they are filed.  It's important for us to be resolving roughly the same number of cases as are filed every year to ensure we are not building a backlog in the justice system.  Throughout the pandemic, necessary limitations on jury trials, in-person proceedings, and court closures have all contributed to a slower rate of case resolution.  We would like to see the case resolutions increase to achieve parity with case filing numbers so that the justice system is not overwhelmed with additional cases beyond its current capacity.
 
 <br>
 
