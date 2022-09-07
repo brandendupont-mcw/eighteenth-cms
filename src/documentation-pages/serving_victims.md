@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Serving Victims
 
-This section presents information about victimization, victim characteristics, and the District Attorney’s (DA) Office’s engagement with <a href="/technical-notes#victim">victims</a>, witnesses, and the general community. 
+This section presents information about victimization, victim characteristics, and the District Attorney’s (DA) Office’s engagement with <a href="/18th/technical-notes#victim">victims</a>, witnesses, and the general community. 
 
 **Why is this important?** Understanding the victim population, providing effective services, and timely engagement helps develop the mutual transparency and trust needed to advance community safety and well-being.
 
@@ -62,7 +62,7 @@ This section presents information about victimization, victim characteristics, a
 
 ## Indicators
 
-Below are a set of <a href="/technical-notes#indicators">indicators</a> that provide additional context about serving victims. These indicators help the DA's Office ensure they are supporting crime victims with timely outreach, ensuring victims' voices are heard, and preventing future victimization. <br>
+Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> that provide additional context about serving victims. These indicators help the DA's Office ensure they are supporting crime victims with timely outreach, ensuring victims' voices are heard, and preventing future victimization. <br>
 
 <br>
 
