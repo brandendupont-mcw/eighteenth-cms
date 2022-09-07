@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Defendant Characteristics
 
-This section presents information on defendant characteristics, including <a href="/technical-notes#race">race</a>, <a href="/technical-notes#ethnicity">ethnicity</a>, <a href="/technical-notes#age">age</a>, and <a href="/technical-notes#gender">gender</a>. It also presents information on criminal history and trends in offending.
+This section presents information on defendant characteristics, including <a href="/18th/technical-notes#race">race</a>, <a href="/18th/technical-notes#ethnicity">ethnicity</a>, <a href="/18th/technical-notes#age">age</a>, and <a href="/18th/technical-notes#gender">gender</a>. It also presents information on criminal history and trends in offending.
 
 **Why is this important?** Not all individuals are equally likely to come into contact with the justice system. Systemic drivers – such as neighborhood and access to education, employment opportunities, and health resources – can impact involvement. In addition, based on wealth, some defendants may be better positioned to get “out” of the system – for example, to pay bail, afford private counsel, or access treatment. Effective prosecution strategies should consider ways to ensure that cases are processed fairly, in light of these differences. 
 
@@ -80,7 +80,7 @@ A defendant's criminal history is a tremendously important aspect of our case re
 
 ## Indicators
 
-Below are a set of <a href="/technical-notes#indicators">indicators</a> that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure we are treating all individuals fairly. <br>
+Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure we are treating all individuals fairly. <br>
 
 <br>
 
@@ -104,5 +104,5 @@ For anyone we encounter in the criminal justice system, it is our sincere hope t
 
 ## **Notes:**
 
-* Data on <a href="/technical-notes#demographics">defendant demographics</a>, including race and ethnicity, is reported to the DA’s Office by law enforcement agencies. Law enforcement currently captures this data through various mechanisms: (1) by linking to prior criminal history records, (2) by scanning a Colorado ID or driver’s license, (3) through fingerprint technology, or (4) based on the officer’s “perceived demographic information of the person contacted” (as required by HB21-1250). Officer assumptions have the potential to lead to inaccurate or inconsistent data. 
+* Data on <a href="/18th/technical-notes#demographics">defendant demographics</a>, including race and ethnicity, is reported to the DA’s Office by law enforcement agencies. Law enforcement currently captures this data through various mechanisms: (1) by linking to prior criminal history records, (2) by scanning a Colorado ID or driver’s license, (3) through fingerprint technology, or (4) based on the officer’s “perceived demographic information of the person contacted” (as required by HB21-1250). Officer assumptions have the potential to lead to inaccurate or inconsistent data. 
 * In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data.
