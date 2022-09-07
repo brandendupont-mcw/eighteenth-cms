@@ -118,11 +118,11 @@ sidenav: false
 
 This definition of violent crime is used in the following indicators:
 
-* <a href="/filing_charging#violent crimes filed">Violent Crimes Filed</a>
-* <a href="/defendant_characteristics#violent recidivism">Violent Recidivism</a>
-* <a href="/serving_victims#violent victimization poor">Violent Victimization in Low-Income Communities</a>
-* <a href="/serving_victims#violent victimization children">Violent Victimization of Children</a>
-* <a href="/serving_victims#violent victimization POC">Violent Victimization of People of Color</a>
+* <a href="/18th/filing_charging#violent crimes filed">Violent Crimes Filed</a>
+* <a href="/18th/defendant_characteristics#violent recidivism">Violent Recidivism</a>
+* <a href="/18th/serving_victims#violent victimization poor">Violent Victimization in Low-Income Communities</a>
+* <a href="/18th/serving_victims#violent victimization children">Violent Victimization of Children</a>
+* <a href="/18th/serving_victims#violent victimization POC">Violent Victimization of People of Color</a>
 
 [Click here](https://docs.google.com/spreadsheets/d/11_TzCiDUNfakTb4oSMq6eafznoyC8tQQ/edit?usp=sharing&ouid=117543483504293302794&rtpof=true&sd=true) to see the full list of violent crime charges. 
 
@@ -155,9 +155,9 @@ Race and Ethnicity are captured separately in the DA’s case management system.
 
 Given historical inequities in the justice system, in presenting metrics, we have chosen to compare outcomes for people of color (including Black, Hispanic, and Native American individuals) against White individuals. We hope this provides clear information on the presence/extent of differences by race/ethnicity. This is not meant to imply that the rate for White individuals is an appropriate benchmark. In addition, we have significantly less confidence that Hispanic individuals are accurately identified in the current dataset.
 
-Some race/ethnic groups have small sample sizes. To address issues of small sample size, see measures taken in the <a href="/technical-notes#sample size">Methods</a> section below. 
+Some race/ethnic groups have small sample sizes. To address issues of small sample size, see measures taken in the <a href="/18th/technical-notes#sample size">Methods</a> section below. 
 
-The <a href="/defendant_characteristics#census">District Population, by Race/Ethnicity 2020 Census</a> was generated from information publicly available through the [United States Census Bureau](https://www.census.gov/library/stories/state-by-state/colorado-population-change-between-census-decade.html#:~:text=Population%20(up%207.4%25%20to%20331.4,or%20More%20Races%2010.2%25).). In 2020 the U.S. Census collected race and ethnicity as two questions: one for ethnicity, “Hispanic or Latino” and “Not Hispanic or Latino”, and another for race with six categories: “White,” “Black or African American,” “American Indian or Alaska Native,” “Asian”, “Native Hawaiian and Other Pacific Islander”, and “Some Other Race”. To best compare the general population to the population of individuals with criminal cases filed, we have used similar logic to categorize individuals. If the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as Native American (“American Indian or Alaska Native” or “Native Hawaiian and Other Pacific Islander”) they are categorized as Native American regardless of their ethnicity. Individuals categorized as “Some Other Race” and Hispanic are categorized as Hispanic. Individuals that selected two or more races, regardless of their ethnicity, are categorized in the “Multiracial or Another Race” category.
+The <a href="/18th/defendant_characteristics#census">District Population, by Race/Ethnicity 2020 Census</a> was generated from information publicly available through the [United States Census Bureau](https://www.census.gov/library/stories/state-by-state/colorado-population-change-between-census-decade.html#:~:text=Population%20(up%207.4%25%20to%20331.4,or%20More%20Races%2010.2%25).). In 2020 the U.S. Census collected race and ethnicity as two questions: one for ethnicity, “Hispanic or Latino” and “Not Hispanic or Latino”, and another for race with six categories: “White,” “Black or African American,” “American Indian or Alaska Native,” “Asian”, “Native Hawaiian and Other Pacific Islander”, and “Some Other Race”. To best compare the general population to the population of individuals with criminal cases filed, we have used similar logic to categorize individuals. If the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as Native American (“American Indian or Alaska Native” or “Native Hawaiian and Other Pacific Islander”) they are categorized as Native American regardless of their ethnicity. Individuals categorized as “Some Other Race” and Hispanic are categorized as Hispanic. Individuals that selected two or more races, regardless of their ethnicity, are categorized in the “Multiracial or Another Race” category.
 
 ### Data Terms
 
@@ -171,13 +171,13 @@ The <a href="/defendant_characteristics#census">District Population, by Race/Eth
 
 **Defendant Median Household Income**: As a socioeconomic proxy, 2020 Census data was used to determine the median household income of the zip code where the defendant is reported to reside. We limited the defendant zip code to defendants convicted of felonies with Colorado addresses. We categorized the zip codes into quintiles, and compared the highest income quintile to the lowest income quintile. This socioeconomic proxy is used in:  
 
-* <a href="/sentencing#felony incarceration">Felony Incarceration Differences by Socioeconomic Status - Median Household Income</a>
+* <a href="/18th/sentencing#felony incarceration">Felony Incarceration Differences by Socioeconomic Status - Median Household Income</a>
 
 **Victim Median Household Income:** As a socioeconomic proxy, 2020 Census data was used to determine the median household income of the zip code where the victim is reported to reside. We limited the victim zip code to victims of felonies with Colorado addresses. We categorized the zip codes into quintiles, and compared the  highest income quintile to the lowest income quintile. This socioeconomic proxy is used in:
 
-* <a href="/serving_victims#violent victimization poor">Violent Victimization in Low-Income Communities</a>
-* <a href="/serving_victims#personsex">Person and Sex Offense Dismissals Across Socioeconomic Status</a>
-* <a href="/serving_victims#property">Property Offense Dismissals Across Socioeconomic Status</a>
+* <a href="/18th/serving_victims#violent victimization poor">Violent Victimization in Low-Income Communities</a>
+* <a href="/18th/serving_victims#personsex">Person and Sex Offense Dismissals Across Socioeconomic Status</a>
+* <a href="/18th/serving_victims#property">Property Offense Dismissals Across Socioeconomic Status</a>
 
 ### Methods
 
