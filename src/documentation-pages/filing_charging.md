@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Charging and Filing
 
-In Colorado, <a href="/technical-notes#misdemeanor">misdemeanors</a> (including <a href="/technical-notes#traffic">traffic</a> cases) and <a href="/technical-notes#petty">petty offenses/infractions</a> are filed directly with the court by law enforcement. <a href="/technical-notes#felony">Felony</a> cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to file. This section presents data on all cases for which a law enforcement agency has filed the case (misdemeanors or petty offenses/infractions) or for which the DA’s Office has decided to accept the referral and file the charges (felonies). 
+In Colorado, <a href="/18th/technical-notes#misdemeanor">misdemeanors</a> (including <a href="/18th/technical-notes#traffic">traffic</a> cases) and <a href="/18th/technical-notes#petty">petty offenses/infractions</a> are filed directly with the court by law enforcement. <a href="/18th/technical-notes#felony">Felony</a> cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to file. This section presents data on all cases for which a law enforcement agency has filed the case (misdemeanors or petty offenses/infractions) or for which the DA’s Office has decided to accept the referral and file the charges (felonies). 
 
 **Why is this important?** To support community safety, we want to be able to maximize limited resources by focusing on serious crime while minimizing unnecessary punitiveness. Understanding the number and types of cases filed in the Office helps to ensure we use resources efficiently, effectively, and fairly.
 
@@ -55,7 +55,7 @@ The total number of cases filed each year took a sharp hit during 2020 when the 
 
 ## Indicators
 
-Below are a set of <a href="/technical-notes#indicators">indicators</a> that provide additional context about cases filed. These indicators help the DA's Office ensure they are prioritizing cases effectively and charging cases appropriately.
+Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> that provide additional context about cases filed. These indicators help the DA's Office ensure they are prioritizing cases effectively and charging cases appropriately.
 
 <br>
 
@@ -89,4 +89,4 @@ The chart above displays the raw number of violent crime cases filed each quarte
 * Each case is represented once, by the top charge filed. 
 * Warrants are excluded (for all cases identified as a warrant).
 * Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
-* For definitions of <a href="/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
+* For definitions of <a href="/18th/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
