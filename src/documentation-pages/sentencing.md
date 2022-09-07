@@ -62,7 +62,7 @@ We will continue to monitor and study this indicator over time as we see the imp
 
 <br>
 
-In some cases, Community Corrections is an important tool to help build skills or address treatment needs.  However, it is a community-bases sentence, and is not appropriate in every case.  We will continue to monitor this metric while taking into account the criminal history of each defendant, the input from victims, a defendant's interest in treatment and rehabilitation, and the types of charges involved.
+In some cases, Community Corrections is an important tool to help build skills or address treatment needs.  However, it is a community-based sentence, and is not appropriate in every case.  We will continue to monitor this metric while taking into account the criminal history of each defendant, the input from victims, a defendant's interest in treatment and rehabilitation, and the types of charges involved.
 
 <br>
 
