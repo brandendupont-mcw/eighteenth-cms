@@ -23,7 +23,7 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
-<iframe title="Cases Filed, by Victim Gender 2021" aria-label="Donut Chart" id="datawrapper-chart-aCMcH" src="https://datawrapper.dwcdn.net/aCMcH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Victim Gender 2021" aria-label="Donut Chart" id="datawrapper-chart-aCMcH" src="https://datawrapper.dwcdn.net/aCMcH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -37,7 +37,7 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
-<iframe title="Cases Filed, by Victim Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-hCsvf" src="https://datawrapper.dwcdn.net/hCsvf/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Victim Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-hCsvf" src="https://datawrapper.dwcdn.net/hCsvf/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -53,7 +53,7 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
-<iframe title="Cases Filed, by Victim Age 2021" aria-label="Donut Chart" id="datawrapper-chart-5uQk5" src="https://datawrapper.dwcdn.net/5uQk5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Victim Age 2021" aria-label="Donut Chart" id="datawrapper-chart-5uQk5" src="https://datawrapper.dwcdn.net/5uQk5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
