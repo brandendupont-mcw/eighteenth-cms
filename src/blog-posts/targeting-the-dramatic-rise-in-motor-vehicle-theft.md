@@ -53,8 +53,12 @@ This review includes both felony and misdemeanor criminal history, and only refl
 
 [Statewide data tells us that rising car theft](https://lockdownyourcar.org/facts/) is not a problem limited to our jurisdiction, and the defendants we see in court are not limited to those people who live within the 18th Judicial District.  ***In fact, more than half of the defendants we charge with stealing cars in the 18th come from outside the borders of our jurisdiction.***
 
-![](/images/home-jurisdiction.jpg)
-
 My office performed an internal review based on the home address and zip code information for defendants who had an aggravated motor vehicle theft charge.  This review is based on the home address as gathered by law enforcement at the time of arrest.  This analysis revealed that just 41.3% of defendants who are ***charged*** in the 18th Judicial District actually ***live*** in the 18th Judicial District.  
+
+![](/images/home-jurisdiction-2.jpg)
+
+
+
+## **Next Steps**
 
 While this review provides some insight into the escalating criminal behavior and cross-jurisdictional nature of motor vehicle theft, it is not the end of the analysis.  In the coming weeks, my office will share more of what we learn about additional charges that are often filed along with motor vehicle theft, and examine the plea and sentence outcomes we are seeing in court, and share more about how we are working hard to help fight the increase in crime in our neighborhoods.
