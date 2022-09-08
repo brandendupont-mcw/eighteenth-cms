@@ -40,7 +40,7 @@ However, by and large, that doesn’t appear to be an issue in our judicial dist
 
 Having a cash/surety bond instead of a PR bond doesn’t guarantee that a defendant will stay in custody and it doesn’t guarantee that they won’t commit additional crimes, but it does raise the stakes and incentivize compliance with bond conditions that always include a requirement that no new crimes be committed. 
 
-## **Escalating Criminal History**
+## **Criminal History On The Rise Since 2020**
 
 While our internal review of January 2022 cases is concerning, it is a snapshot in time.  Taking a more broad view of data from 2020 to 2022, on cases where motor vehicle theft was the top count, we've seen a noteworthy increase in the presence of criminal history.
 
@@ -53,12 +53,8 @@ This review includes both felony and misdemeanor criminal history, and only refl
 
 [Statewide data tells us that rising car theft](https://lockdownyourcar.org/facts/) is not a problem limited to our jurisdiction, and the defendants we see in court are not limited to those people who live within the 18th Judicial District.  ***In fact, more than half of the defendants we charge with stealing cars in the 18th come from outside the borders of our jurisdiction.***
 
-<iframe title="Home Jurisdictions of Vehicle Theft Defendants" aria-label="Pie Chart" id="datawrapper-chart-NhLXp" src="https://datawrapper.dwcdn.net/NhLXp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="566"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+![](/images/home-jurisdiction.jpg)
 
 My office performed an internal review based on the home address and zip code information for defendants who had an aggravated motor vehicle theft charge.  This review is based on the home address as gathered by law enforcement at the time of arrest.  This analysis revealed that just 41.3% of defendants who are ***charged*** in the 18th Judicial District actually ***live*** in the 18th Judicial District.  
-
-<iframe title="Home Counties of Vehicle Theft Defendants" aria-label="Table" id="datawrapper-chart-VCQ3R" src="https://datawrapper.dwcdn.net/VCQ3R/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="434"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
 
 While this review provides some insight into the escalating criminal behavior and cross-jurisdictional nature of motor vehicle theft, it is not the end of the analysis.  In the coming weeks, my office will share more of what we learn about additional charges that are often filed along with motor vehicle theft, and examine the plea and sentence outcomes we are seeing in court, and share more about how we are working hard to help fight the increase in crime in our neighborhoods.
