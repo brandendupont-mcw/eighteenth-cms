@@ -19,7 +19,7 @@ As we have noted throughout these pages, the data we currently rely on is not ba
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Gender, 2021" aria-label="Donut Chart" id="datawrapper-chart-VtVt3" src="https://datawrapper.dwcdn.net/VtVt3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="428"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Gender, 2021" aria-label="Donut Chart" id="datawrapper-chart-VtVt3" src="https://datawrapper.dwcdn.net/VtVt3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -37,7 +37,7 @@ The above chart reflects raw numbers of case filings.  At first glance it might 
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-aqCeq" src="https://datawrapper.dwcdn.net/aqCeq/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-aqCeq" src="https://datawrapper.dwcdn.net/aqCeq/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -50,7 +50,7 @@ The above chart reflects raw numbers of case filings.  At first glance it might 
 
 <br>
 
-<iframe title="District Population, by Race/Ethnicity 2020 Census" aria-label="Donut Chart" id="datawrapper-chart-Lohkz" src="https://datawrapper.dwcdn.net/Lohkz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="408"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"]+"px"}}}))}();
+<iframe title="District Population, by Race/Ethnicity 2020 Census" aria-label="Donut Chart" id="datawrapper-chart-Lohkz" src="https://datawrapper.dwcdn.net/Lohkz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -62,14 +62,14 @@ The above chart reflects raw numbers of case filings.  At first glance it might 
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Age 2021" aria-label="Donut Chart" id="datawrapper-chart-Wn5JB" src="https://datawrapper.dwcdn.net/Wn5JB/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="428"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Age 2021" aria-label="Donut Chart" id="datawrapper-chart-Wn5JB" src="https://datawrapper.dwcdn.net/Wn5JB/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script><br>
 
 <br>
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Criminal History 2021" aria-label="Donut Chart" id="datawrapper-chart-AT9Q6" src="https://datawrapper.dwcdn.net/AT9Q6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Criminal History 2021" aria-label="Donut Chart" id="datawrapper-chart-AT9Q6" src="https://datawrapper.dwcdn.net/AT9Q6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="460"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
