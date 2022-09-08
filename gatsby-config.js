@@ -1,11 +1,10 @@
 module.exports = {
   siteMetadata: {
     // Replace the Site URL with your domain, ex. https://example.gov 
-    siteUrl: 'https://example.gov',
+    siteUrl: 'https://data.dacolorado.org/18th/',
     author: 'Branden DuPont',
-    title: `Eighteenth Judicial District Attorney Data Dashboard`,
-    description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
+    title: `Eighteenth Judicial District Attorney`,
+    description: `Learn about what data we're releasing and important context about our criminal justice system.`,
     navigation: [
       {
         items: [{ text: 'Home', link: '/' }],
