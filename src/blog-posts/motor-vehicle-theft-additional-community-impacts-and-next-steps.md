@@ -3,8 +3,6 @@ title: "Motor Vehicle Theft:  Additional Community Impacts and Next Steps"
 date: October 26, 2022
 author: John Kellner
 ---
-## IT ISN’T JUST CAR THEFT
-
 You might hear reform advocates talking about motor vehicle theft as just a property crime, but the reality is far more complex.  In the first 8 months of 2022, in addition to filing over 500 cases that involve a motor vehicle theft charge, we learned the following:
 
 * **76% of defendants** were charged with something **other than motor vehicle theft**.
