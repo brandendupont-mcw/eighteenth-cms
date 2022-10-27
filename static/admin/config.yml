@@ -22,8 +22,8 @@ collections:
           label: 'Date',
           name: 'date',
           widget: 'datetime',
-          format: 'MMMM D, YYYY',
-          dateFormat: 'MMMM D, YYYY',
+          format: 'MM-DD-YYYY',
+          dateFormat: 'MM-DD-YYYY',  
           timeFormat: false
         }
       - { label: 'Author', name: 'author', widget: 'string' }

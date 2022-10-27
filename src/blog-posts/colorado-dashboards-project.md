@@ -1,6 +1,6 @@
 ---
 title: Colorado Dashboards Project
-date: January 27, 2022
+date: 01-27-2022
 author: John Kellner
 ---
 Our efforts at transparency are ongoing.  Check out the video below from a presentation by District Attorney John Kellner and Don Stemen of the Prosecutorial Performance Indicators about what we've been working towards and hope to accomplish here in Colorado.
