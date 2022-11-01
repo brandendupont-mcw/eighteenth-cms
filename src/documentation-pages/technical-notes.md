@@ -169,7 +169,7 @@ The <a href="/18th/defendant_characteristics#census">District Population, by Rac
 
 <a name="quintile"></a>**Quintile: ​​**A quintile is a statistical value of a data set that represents 20% of a given population, so the lowest quintile represents the lowest fifth of the data, while the upper quintile represents the highest fifth of the data.
 
-<a name="standarddev"></a>**Standard Deviation:**  A measure of how dispersed the data is in relation to the mean. Low standard deviation means data are clustered around the mean, and high standard deviation indicates data are more spread out.
+<a name="/18th/technical-notes#standard deviation"></a>**Standard Deviation:**  A measure of how dispersed the data is in relation to the mean. Low standard deviation means data are clustered around the mean, and high standard deviation indicates data are more spread out.
 
 **Defendant Median Household Income**: As a socioeconomic proxy, 2020 Census data was used to determine the median household income of the zip code where the defendant is reported to reside. We limited the defendant zip code to defendants convicted of felonies with Colorado addresses. We categorized the zip codes into quintiles, and compared the highest income quintile to the lowest income quintile. This socioeconomic proxy is used in:  
 
