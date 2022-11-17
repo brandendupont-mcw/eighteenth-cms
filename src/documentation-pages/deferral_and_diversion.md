@@ -8,14 +8,12 @@ This section presents data on cases granted diversion or deferred judgment. <a h
 
 **Why is this important?** Understanding what cases are diverted or deferred and the rate of successful program completion provides information on whether the alternative minimizes unnecessary punitiveness and maintains community safety.
 
-<br>
-
-Note about upcoming changes to Diversion Data:  Our Diversion Team is currently transitioning to a new case management system, which we expect will bring enhanced transparency to our diversion programs and allow us to share even more information with the public.  Those efforts are ongoing, and the additional data collection that is a part of that new case management system will take time.  While we know more and better information is coming, we wanted to share the following insights on our diversion program and the individuals who participate in it.  For more background on our Diversion Team and what we do, [please click here](https://www.da18.org/specialized-court-units/diversion/).
+**Note about upcoming changes to Diversion Data:**  Our Diversion Team is currently transitioning to a new case management system, which we expect will bring enhanced transparency to our diversion programs and allow us to share even more information with the public.  Those efforts are ongoing, and the additional data collection that is a part of that new case management system will take time.  While we know more and better information is coming, we wanted to share the following insights on our diversion program and the individuals who participate in it.  For more background on our Diversion Team and what we do, [please click here](https://www.da18.org/specialized-court-units/diversion/).
 
 The data reflected below comes from internal analysis of diversion cases referred from July 1, 2021 to June 30, 2022.
 
-* The average age of an adult diversion client is 31.8 years old.  ([Standard deviation](https://data.dacolorado.org/18th/technical-notes#standarddeviation) is 12.3 years)
-* Our juvenile diversion program is for individuals under the age of 18 when the crime was committed. The average age of a juvenile diversion client is 14.9 years old. ([Standard deviation](https://data.dacolorado.org/18th/technical-notes#standarddeviation) is 1.84 years)
+* The average age of an **adult** diversion client is **31.8 years old**.  ([Standard deviation](https://data.dacolorado.org/18th/technical-notes#standarddeviation) is 12.3 years)
+* Our juvenile diversion program is for individuals under the age of 18 when the crime was committed. The average age of a **juvenile** diversion client is **14.9 years old**. ([Standard deviation](https://data.dacolorado.org/18th/technical-notes#standarddeviation) is 1.84 years)
 * In FY2022, we screened 699 individuals for diversion.  Of these, 72.5% were for our juvenile program (507) and 27.5% were for our adult program. Adults (192) composed over one-quarter of diversion screening referrals.
 
 <br>
