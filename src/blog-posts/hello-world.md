@@ -13,7 +13,7 @@ If you are seeking additional information about a specific case, you can request
 
 ### Update for 2022:
 
-The dashboards below are valuable tools, but they come from slightly different sources of data than information elsewhere on this site.  They may not involve an apples to apples comparison.  However, the new work we are sharing this year through our partnership with fellow District Attorneys, Prosecutorial Performance Indicators, and the Colorado Lab should expand on our transparency, not limit information we share.  For that reason, we continue to make this data available to the public even if it is duplicated elsewhere or analyzed in more detail on other pages.
+The dashboards below are valuable tools, but they come from slightly different sources of data than information elsewhere on this site.  In the interest of providing consistent information to the public, **we will be deactivating the dashboards below on December 1, 2022**, as most of the information is available in other formats on this site.  We will continue to work on expanding the information we provide to the public in the coming months.
 
 ***You can view any of the dashboards below in full screen for a closer look at the data.***
 
