@@ -27,7 +27,7 @@ Clients for Diversion may ultimately not participate for a variety of reasons, i
 
 <br>
 
-<iframe title="Adult Clients:  Race and Ethnicity for Screening and Participation" aria-label="Split Bars" id="datawrapper-chart-fVHXV" src="https://datawrapper.dwcdn.net/fVHXV/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="256"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Adult Clients:  Race and Ethnicity for Screening and Participation" aria-label="Split Bars" id="datawrapper-chart-fVHXV" src="https://datawrapper.dwcdn.net/fVHXV/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="258"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
