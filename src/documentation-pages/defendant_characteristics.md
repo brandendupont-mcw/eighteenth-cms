@@ -31,16 +31,22 @@ As we have noted throughout these pages, the data we currently rely on is not ba
 
 <br>
 
+<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity (Copy)" aria-label="Interactive line chart" id="datawrapper-chart-afXKk" src="https://datawrapper.dwcdn.net/afXKk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
 **Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**. Our belief is that the data we have underrepresents Hispanic defendants and over-represents white defendants as a result. Despite these concerns on data accuracy, we believe we must engage in the public discussion around racial disparity in the criminal justice system.
 
 The above chart reflects raw numbers of case filings.  At first glance it might appear that the filing reduction among white defendants is dramatically different.  However, when looking at 2020 data, the year of the sharpest decline, filings on Black defendants dropped from 5,644 (in 2019) to 4,560 (in 2020), a reduction of 19.2%.  By comparison, filings on White defendants dropped from 22,189 (in 2019) to 18089 (in 2020), which reflects a reduction of 18.5%.  Hispanic defendants did not see a similar reduction, though we believe this is mostly attributable to more accurately capturing Hispanic defendants who had otherwise been included in the data as White defendants.  
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-aqCeq" src="https://datawrapper.dwcdn.net/aqCeq/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-aqCeq" src="https://datawrapper.dwcdn.net/aqCeq/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
+
+<iframe title="Cases Filed, by Defendant Race/Ethnicity 2022 (Copy)" aria-label="Donut Chart" id="datawrapper-chart-dvQTl" src="https://datawrapper.dwcdn.net/dvQTl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 **Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**. Our belief is that the data we have underrepresents Hispanic defendants and over-represents white defendants as a result. Despite these concerns on data accuracy, we believe we must engage in the public discussion around racial disparity in the criminal justice system.
 
