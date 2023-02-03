@@ -197,3 +197,13 @@ This dashboard aggregates data from the 18th District Attorney Office's case man
 3. When the annual number was less than 20, we excluded the metric.
 
 Criminal history and recidivism measures are limited in that they are calculated based on cases filed (for recidivism) and cases convicted (for criminal history) within the eight District Attorneys’ offices participating in the Colorado Prosecutorial Dashboards Project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th, and 20th). We do not have information on cases filed  outside these jurisdictions nor do the measures reflect cases from outside the state of Colorado. Criminal history relies on data since 2007. For these reasons, criminal history and recidivism may be underestimated. When benchmarked against data from the Bureau of Justice Statistics, criminal history was found to be of similar magnitude.
+
+### Methodological Updates
+
+**February 2023**
+
+*Case Resolutions.* Cases disposed with a disposition reason “deceased defendant” were excluded from case resolution related charts.
+
+*Number of Hearings.* Hearings that occurred after case resolution (for e.g., if a defendant was on probation or returned to court for some reason after the case was disposed) were excluded from the average number of hearings per case.
+
+*Ethnicity Correction.* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in the data from our case management system. We updated our dashboards using a defendants’ last name correction to better identify Hispanic individuals. Based on procedures employed by the Colorado Department of Public Safety in their [CLEAR Act reporting](https://ors.colorado.gov/ors-sb185), we recategorized any individual as Hispanic who met the following criteria: 1) their race was identified as “White,” “other,” or their race was missing and 2) the 2010 census file ([surnames occurring 100 or more times](https://www.census.gov/topics/population/genealogy/data/2010_surnames.html)) identified their surname as having 85% or more individuals with that surname as “Hispanic or Latino.”
