@@ -111,4 +111,4 @@ For anyone we encounter in the criminal justice system, it is our sincere hope t
 ## **Notes:**
 
 * Data on <a href="/18th/technical-notes#demographics">defendant demographics</a>, including race and ethnicity, is reported to the DA’s Office by law enforcement agencies. Law enforcement currently captures this data through various mechanisms: (1) by linking to prior criminal history records, (2) by scanning a Colorado ID or driver’s license, (3) through fingerprint technology, or (4) based on the officer’s “perceived demographic information of the person contacted” (as required by HB21-1250). Officer assumptions have the potential to lead to inaccurate or inconsistent data. 
-* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data.
+* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data; therefore, we use the defendant’s last name to help identify their ethnicity.
