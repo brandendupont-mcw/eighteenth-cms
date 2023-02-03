@@ -104,3 +104,5 @@ In general, we would like to decrease the number of hearings to avoid prolonged 
 * Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
 * The charge level represents the most serious charge filed in a case.
 * Warrants are excluded (for all cases identified as a warrant).
+* Cases disposed with a disposition reason “deceased defendant” are excluded from case resolution related charts.
+* Hearings that occurred after case resolution (for e.g., if a defendant was on probation or returned to court for some reason after the case was disposed) were excluded from the average number of hearings per case.
