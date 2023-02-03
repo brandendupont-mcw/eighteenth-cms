@@ -53,12 +53,18 @@ Our office charges a particular case based on what the evidence will prove and h
 
 <br>
 
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-ITheZ" src="https://datawrapper.dwcdn.net/ITheZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to a deeper study of these issues to develop a better understanding on the root causes of disparity in the justice system.  <br>
 
 <iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-2Pqf9" src="https://datawrapper.dwcdn.net/2Pqf9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
+
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-Y0ypE" src="https://datawrapper.dwcdn.net/Y0ypE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification, and we have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way that data was historically captured.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to a deeper study of these issues to develop a better understanding on the root causes of disparity in the justice system.  <br>
 
