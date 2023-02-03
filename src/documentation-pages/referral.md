@@ -41,6 +41,9 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <br>
 
+<iframe title="Case Filing Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-aN91V" src="https://datawrapper.dwcdn.net/aN91V/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="598" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
 **Important note about race and ethnicity data:**  The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  Our goal for this indicator is to remain consistent with our overall rate of felony referrals which are declined, but we do not seek to engineer that outcome by treating similar cases differently based on a defendant's race or ethnicity.  Each case is unique and is evaluated on an individual basis.  This does, however, provide valuable information for us to try to identify root causes of disparity in the criminal justice system.  We will continue to research these data points and seek to identify if there are consistent root causes of any differences.
 
 <br>
@@ -49,6 +52,9 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 </script> <br>
 
 <br>
+
+<iframe title="Case Filing Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-AnVCp" src="https://datawrapper.dwcdn.net/AnVCp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="598" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 **Important note about race and ethnicity data:**  The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**.  Our belief is that the data we have underrepresents Hispanic defendants and over-represents white defendants as a result.  Despite these concerns on data accuracy, we believe we must engage in the public discussion around racial disparity in the criminal justice system and are providing the data we have while we work to make it more accurate.  
 
