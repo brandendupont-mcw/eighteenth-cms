@@ -105,4 +105,4 @@ In general, we would like to decrease the number of hearings to avoid prolonged 
 * The charge level represents the most serious charge filed in a case.
 * Warrants are excluded (for all cases identified as a warrant).
 * Cases disposed with a disposition reason “deceased defendant” are excluded from case resolution related charts.
-* Hearings that occurred after case resolution (for e.g., if a defendant was on probation or returned to court for some reason after the case was disposed) were excluded from the average number of hearings per case.
+* Hearings that occurred after case resolution (for e.g., if a defendant was on probation or returned to court for some reason after the case was disposed) are excluded from the average number of hearings per case.
