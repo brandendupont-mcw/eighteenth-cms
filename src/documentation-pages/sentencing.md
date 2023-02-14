@@ -84,6 +84,7 @@ If successfully completed, a deferred judgment can result in a case being dismis
 
 <iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-idYtU" src="https://datawrapper.dwcdn.net/idYtU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).  
 <br>
 
@@ -99,7 +100,11 @@ If successfully completed, a deferred judgment can result in a case being dismis
 <iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-NDKu8" src="https://datawrapper.dwcdn.net/NDKu8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**. Our belief is that the data we have underrepresents Hispanic defendants and over-represents white defendants as a result.  While this chart indicates that hispanic defendants are incarcerated at a lower rate than white defendants, that may not be the case.  We will continue to study this and other data points as we evaluate disparity and disproportionality in the criminal justice system.
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
+<br>
+
+
+<a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
 
@@ -140,7 +145,10 @@ Below are a set of indicators that provide additional context about pretrial det
 <iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants  (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-O0ZVy" src="https://datawrapper.dwcdn.net/O0ZVy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="595" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  However, this metric warrants significant further investigation.  In our largest counties, we frequently rely on risk assessment tools prepared by pretrial officers that help us assess the risk to the community and the likelihood that a defendant will appear in court.  We should further study whether these rates of detention are driven by charges, risk assessment, access to economic resources, or some other factor.  
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).\
+<br>
+
+<a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
 
@@ -150,9 +158,11 @@ Below are a set of indicators that provide additional context about pretrial det
 <iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-NC8H2" src="https://datawrapper.dwcdn.net/NC8H2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="595" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**. Our belief is that the data we have under-represents Hispanic defendants and over-represents white defendants as a result.  
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
+<br>
 
-However, this metric warrants significant further investigation.  In our largest counties, we frequently rely on risk assessment tools prepared by pretrial officers that help us assess the risk to the community and the likelihood that a defendant will appear in court.  We should further study whether these rates of detention are driven by charges, risk assessment, access to economic resources, or some other factor.  
+
+<a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 ### Notes:
 
