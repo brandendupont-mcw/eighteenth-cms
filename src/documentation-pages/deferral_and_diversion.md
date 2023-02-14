@@ -80,7 +80,9 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 <iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-65USJ" src="https://datawrapper.dwcdn.net/65USJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="581" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  Our office is committed to ensuring that similarly situated defendants have equal access to diversion and deferral programs regardless of race or ethnicity.  Our office will continue to analyze this and other metrics to better understand and address disparity in the criminal justice system.
+
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).  
+<br><a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
 
@@ -94,7 +96,10 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 <iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-fSNZ0" src="https://datawrapper.dwcdn.net/fSNZ0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="581" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification.  Our office is committed to ensuring that similarly situated defendants have equal access to diversion and deferral programs regardless of race or ethnicity.  Our office will continue to analyze this and other metrics to better understand and address disparity in the criminal justice system.
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
+<br>
+
+<a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
 
