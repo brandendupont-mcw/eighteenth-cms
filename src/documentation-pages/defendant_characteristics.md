@@ -24,22 +24,10 @@ As we have noted throughout these pages, the data we currently rely on is not ba
 
 <br>
 
-<br>
-
-<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-yXj40" src="https://datawrapper.dwcdn.net/yXj40/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script><br>
-
-<br>
-
 <iframe title="Number of Cases Filed, by Defendant Race/Ethnicity (Copy)" aria-label="Interactive line chart" id="datawrapper-chart-afXKk" src="https://datawrapper.dwcdn.net/afXKk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. This chart also reflects the results of [additional steps](https://data.dacolorado.org/18th/technical-notes#race) we have taken to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).  
-
-<br>
-
-<iframe title="Cases Filed, by Defendant Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-aqCeq" src="https://datawrapper.dwcdn.net/aqCeq/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
 
 <br>
 
