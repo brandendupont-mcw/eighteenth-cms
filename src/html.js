@@ -9,7 +9,7 @@ export default function HTML(props) {
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <script
             async
-            src="https://www.googletagmanager.com/gtag/js?id=G-PHLXYTX7R6"
+            src="https://www.googletagmanager.com/gtag/js?id=G-0KNKYGEF95"
           />
           <script
             dangerouslySetInnerHTML={{
@@ -17,7 +17,7 @@ export default function HTML(props) {
               window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-PHLXYTX7R6');
+            gtag('config', 'G-0KNKYGEF95');
             `,
             }}
           />
