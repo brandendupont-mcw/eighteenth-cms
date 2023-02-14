@@ -24,25 +24,17 @@ As we have noted throughout these pages, the data we currently rely on is not ba
 
 <br>
 
-<br>
+<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity (Copy)" aria-label="Interactive line chart" id="datawrapper-chart-afXKk" src="https://datawrapper.dwcdn.net/afXKk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
-<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-yXj40" src="https://datawrapper.dwcdn.net/yXj40/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script><br>
-
-<br>
-
-**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**. Our belief is that the data we have underrepresents Hispanic defendants and over-represents white defendants as a result. Despite these concerns on data accuracy, we believe we must engage in the public discussion around racial disparity in the criminal justice system.
-
-The above chart reflects raw numbers of case filings.  At first glance it might appear that the filing reduction among white defendants is dramatically different.  However, when looking at 2020 data, the year of the sharpest decline, filings on Black defendants dropped from 5,644 (in 2019) to 4,560 (in 2020), a reduction of 19.2%.  By comparison, filings on White defendants dropped from 22,189 (in 2019) to 18089 (in 2020), which reflects a reduction of 18.5%.  Hispanic defendants did not see a similar reduction, though we believe this is mostly attributable to more accurately capturing Hispanic defendants who had otherwise been included in the data as White defendants.  
+**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. This chart also reflects the results of [additional steps](https://data.dacolorado.org/18th/technical-notes#race) we have taken to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).  
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-aqCeq" src="https://datawrapper.dwcdn.net/aqCeq/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+<iframe title="Cases Filed, by Defendant Race/Ethnicity 2022 (Copy)" aria-label="Donut Chart" id="datawrapper-chart-dvQTl" src="https://datawrapper.dwcdn.net/dvQTl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
-<br>
-
-**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. **We have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way data has been historically captured**. Our belief is that the data we have underrepresents Hispanic defendants and over-represents white defendants as a result. Despite these concerns on data accuracy, we believe we must engage in the public discussion around racial disparity in the criminal justice system.
+**Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. This chart also reflects the results of [additional steps](https://data.dacolorado.org/18th/technical-notes#race) we have taken to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).  
 
 <br>
 
@@ -105,4 +97,4 @@ For anyone we encounter in the criminal justice system, it is our sincere hope t
 ## **Notes:**
 
 * Data on <a href="/18th/technical-notes#demographics">defendant demographics</a>, including race and ethnicity, is reported to the DA’s Office by law enforcement agencies. Law enforcement currently captures this data through various mechanisms: (1) by linking to prior criminal history records, (2) by scanning a Colorado ID or driver’s license, (3) through fingerprint technology, or (4) based on the officer’s “perceived demographic information of the person contacted” (as required by HB21-1250). Officer assumptions have the potential to lead to inaccurate or inconsistent data. 
-* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data.
+* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data; therefore, we use the defendant’s last name to help identify their ethnicity.
