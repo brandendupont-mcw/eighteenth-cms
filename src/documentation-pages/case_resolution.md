@@ -48,19 +48,19 @@ Our office charges a particular case based on what the evidence will prove and h
 
 <br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-O2A4m" src="https://datawrapper.dwcdn.net/O2A4m/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script><br>
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-ITheZ" src="https://datawrapper.dwcdn.net/ITheZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).\
 <br>
 
-**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to a deeper study of these issues to develop a better understanding on the root causes of disparity in the justice system.  <br>
+<a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-2Pqf9" src="https://datawrapper.dwcdn.net/2Pqf9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-Y0ypE" src="https://datawrapper.dwcdn.net/Y0ypE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
+**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
 <br>
-
-**Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification, and we have specific concerns as it relates to identifying individuals of Hispanic ethnicity due to the way that data was historically captured.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  There is no question that there is disproportionality at multiple levels - for both victims and defendants - in the criminal justice system.  Our office is committed to a deeper study of these issues to develop a better understanding on the root causes of disparity in the justice system.  <br>
 
 <a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
@@ -71,7 +71,7 @@ Our office charges a particular case based on what the evidence will prove and h
 
 There are a myriad of reasons that impact the length of time for case resolution.  Some of those are the result of choices or actions made by a prosecutor, but many of those reasons are outside of our office's control.  This can include delays in a defendant hiring an attorney or applying for court-appointed counsel.  Delays can be caused by continuances granted by the court, or a defendant missing a court date.  However, there can be no doubt that our office has at least some influence over this metric and we must do better.  
 
-We are encouraged that we've seen some reduction in the median time for resolution in 2022 as restrictions on courthouse operations have come to a close.  We will continue to train our prosecutors and seek to staff our office appropriately to manage these cases to earlier average resolutions so that victims and defendants are not left waiting for justice.
+We are encouraged that we've seen some reduction in the median time for resolution throughout 2022 as restrictions on courthouse operations have come to a close.  We will continue to train our prosecutors and seek to staff our office appropriately to manage these cases to earlier average resolutions so that victims and defendants are not left waiting for justice.  We will also work to target the extremely lengthy cases that are driving the average time to resolution higher.  
 
 <br>
 
@@ -82,6 +82,8 @@ We are encouraged that we've seen some reduction in the median time for resoluti
 
 During COVID-19 there was uncertainty about whether or how cases were going to proceed, lengthening our court processes.  In addition, cases which are referred to a diversion program often lengthen the average time to dismissal as defendants must complete treatment programming successfully before a case is dismissed.  We will continue to monitor this indicator and work to better identify cases dismissed due to diversion or other causes.
 
+While we are encouraged that this metric shows progress and reflects that the median is comparable to pre-pandemic levels, the average continues to remain high.  We will work on identifying these outlying cases to bring the average back into alignment with our office's expectations.
+
 <br>
 
 <iframe title="Minimizing Delays in Felony Case Processing by Limiting Hearings" aria-label="Interactive line chart" id="datawrapper-chart-8j392" src="https://datawrapper.dwcdn.net/8j392/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -89,7 +91,7 @@ During COVID-19 there was uncertainty about whether or how cases were going to p
 
 <br>
 
-In general, we would like to decrease the number of hearings to avoid prolonged case processing.  We are encouraged that the number of hearings is trending down in 2022 as this generally means cases are having more meaningful hearings more often rather than hearings which accomplish nothing more than delay. 
+In general, we would like to decrease the number of hearings to avoid prolonged case processing.  Overall, hearings in 2022 were lower than the rate we saw the prior year, though we will closely monitor the slight uptick reflected in fourth-quarter data.  We want to ensure that hearings are meaningful and accomplish something to move the case forward to ensure victims and defendants see their cases moving forward. 
 
 <br>
 
@@ -98,3 +100,5 @@ In general, we would like to decrease the number of hearings to avoid prolonged 
 * Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
 * The charge level represents the most serious charge filed in a case.
 * Warrants are excluded (for all cases identified as a warrant).
+* Cases disposed with a disposition reason “deceased defendant” are excluded from case resolution related charts.
+* Hearings that occurred after case resolution (for e.g., if a defendant was on probation or returned to court for some reason after the case was disposed) are excluded from the average number of hearings per case.
