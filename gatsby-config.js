@@ -32,6 +32,9 @@ module.exports = {
         items: [{ text: 'Data Stories', link: '/blog' }],
       },
       {
+        items: [{ text: 'Disparity Analysis', link: 'https://data.dacolorado.org/18th-disparity-analysis' }],
+      },
+      {
         items: [
           { text: 'Technical Notes', link: '/technical-notes' },
         ],
