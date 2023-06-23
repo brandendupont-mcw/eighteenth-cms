@@ -23,3 +23,7 @@ This section presents information about staff capacity, caseload distribution, a
 <br>
 
 Understanding an appropriate workload for a prosecutor is challenging because no two cases are alike.  These metrics are important to get a big picture view of trends in the office, but do not tell the full story of how workloads change, rise, and fall.  Also, keep in mind that laws requiring the use of body cameras now mean that prosecutors and their teams can have hours of video to review for even a simple traffic stop.  We will continue to work to staff our office appropriately but believe the public should have some insight into how we staff the office they fund through their tax dollars.<br>
+
+### N﻿otes:
+
+* Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD18).
