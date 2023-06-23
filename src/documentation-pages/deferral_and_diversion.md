@@ -110,6 +110,6 @@ We are encouraged by the low level of recidivism reflected this analysis.  Howev
 
 <br>
 
-##### N﻿otes:
+### N﻿otes:
 
 * Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD18).
