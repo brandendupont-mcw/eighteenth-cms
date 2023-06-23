@@ -140,3 +140,7 @@ As we continue to monitor this data, we are committed to working with our law en
 We are proud of the work of our dedicated attorneys in the Special Victims Unit and the strong partnerships they have built with SVU Detectives throughout our jurisdiction.  This collaboration with law enforcement and the work of dedicated investigators helps build cases that can stand up in court.  But, the courage of victims to report these crimes is the most critical step.  If you or someone you know needs additional information or resources about reporting sexual assault, [please click here](https://www.da18.org/victims-services/sexual-assault/).
 
 <br>
+
+### N﻿otes:
+
+* Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD18).
