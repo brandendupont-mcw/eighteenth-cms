@@ -109,3 +109,7 @@ We are encouraged by the high level of successful completion of deferred judgmen
 We are encouraged by the low level of recidivism reflected this analysis.  However, given the lag in this data we will be watching closely to see how changes during the COVID-19 Pandemic impacts this rate in the coming months and years.
 
 <br>
+
+##### N﻿otes:
+
+* Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD18).
