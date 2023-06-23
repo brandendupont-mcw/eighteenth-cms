@@ -70,6 +70,7 @@ The level of offense - whether felony or misdemeanor - is established by the Col
 
 **Notes:**
 
+* Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD18).
 * Each <a href="/18th/technical-notes#referred">referral</a> is represented once. 
 * Warrants are excluded (for all cases identified as a warrant).
 * <a href="/18th/technical-notes#misdemeanor">Misdemeanor</a> cases are directly charged and filed by the law enforcement agency; the DA does not review these cases for charging. The DA’s Office can dismiss misdemeanor cases (see <a href="/18th/case_resolution#">Case Resolution</a>[](https://colorado-test-cms.netlify.app/case_resolution) dashboard). 
