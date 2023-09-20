@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Case Resolution
 
-This section presents data on all cases prosecuted by the District Attorney's (DA) Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by <a href="/18th/technical-notes#dismissed">dismissal</a>, <a href="/18th/technical-notes#diversion">diversion</a>, <a href="/18th/technical-notes#deferred">deferred judgment</a>, <a href="/18th/technical-notes#pleadguilty">guilty plea</a>, or by <a href="/18th/technical-notes#acquitted">acquittal</a> or <a href="/18th/technical-notes#foundguilty">guilty</a> verdict at trial. 
+This section presents data on all cases prosecuted by the District Attorney's (DA) Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by <a href="/18th/technical-notes#dismissed">dismissal</a>, <a href="/18th/technical-notes#diversion">diversion</a>, <a href="/18th/technical-notes#deferred">deferred judgment</a>, <a href="/18th/technical-notes#pleadguilty">guilty plea</a>, or by <a href="/18th/technical-notes#acquitted">acquittal</a> or <a href="/18th/technical-notes#foundguilty">guilty</a> verdict at trial. Successful diversion completions will be categorized as dismissals, for more information on diversion please see the Diversion and Deferrals section.
 
 **Why is this important?** It is important to review how cases are resolved to ensure we are addressing serious crime effectively while minimizing unnecessary punitiveness.
 
