@@ -1,7 +1,7 @@
 {
   "name": "federalist-uswds-gatsby",
   "description": "A Federalist template using USWDS 2.0 + Gatsby",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "scripts": {
     "clean": "rimraf .cache public _site",
     "build": "cross-env GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --prefix-paths  --log-pages",
