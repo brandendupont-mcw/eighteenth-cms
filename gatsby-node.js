@@ -36,7 +36,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions;
   const { createRedirect } = actions
 
-  createRedirect({ fromPath: '/18th/*', toPath: '/*'  })
+  createRedirect({ fromPath: `/18th/*`, toPath: `/*`  })
 
   await createBlogPages(createPage, graphql);
   await createMarkdownPages(createPage, graphql);
