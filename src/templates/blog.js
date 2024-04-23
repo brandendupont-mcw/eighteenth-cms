@@ -4,12 +4,17 @@ import { graphql, Link } from 'gatsby';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 
+
+
 const Blog = ({ data, pageContext }) => {
   const posts = data.allMarkdownRemark.edges.map(({ node }) => ({
     html: node.html,
     ...node.frontmatter,
     path: '/blog/' + node.fields.name,
   }));
+
+  var date = new Date("2013-03-10T02:00:00Z").toISOString().substring(0, 10);
+
   return (
     <Layout>
       <SEO title="Blog" />
@@ -42,7 +47,7 @@ const Blog = ({ data, pageContext }) => {
                   <div className="text-base margin-bottom-2">
                     <div className="margin-top-neg-105">
                       By <span className="text-bold">{post.author}</span> ·{' '}
-                      {post.date}
+                      {new Date(post.date).toISOString().substring(0, 10)}
                     </div>
                   </div>
                   {/*
@@ -128,7 +133,7 @@ export const pageQuery = graphql`
   query($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       filter: { fields: { sourceName: { eq: "blog-posts" } } }
-      sort: { fields: frontmatter___date, order: DESC }
+      sort: { frontmatter: { date: DESC } }
       skip: $skip
       limit: $limit
     ) {

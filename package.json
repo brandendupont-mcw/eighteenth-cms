@@ -17,10 +17,10 @@
   },
   "dependencies": {
     "cross-env": "^7.0.3",
-    "gatsby": "^4.9.3",
+    "gatsby": "^5.9.3",
     "gatsby-awesome-pagination": "^0.3.8",
     "gatsby-plugin-manifest": "^4.9.1",
-    "gatsby-plugin-netlify-cms": "^6.9.0",
+    "gatsby-plugin-decap-cms": "^4.0.3",
     "gatsby-plugin-offline": "^5.9.1",
     "gatsby-plugin-react-helmet": "^5.9.0",
     "gatsby-plugin-robots-txt": "^1.7.0",
@@ -28,10 +28,11 @@
     "gatsby-plugin-sitemap": "^5.9.0",
     "gatsby-source-filesystem": "^4.9.1",
     "gatsby-transformer-remark": "^5.9.1",
-    "netlify-cms-app": "^2.15.68",
+    "gatsby-plugin-netlify": "^5.0.0",
+    "decap-cms-app": "^3.0.12",
     "prop-types": "^15.8.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "react-helmet": "^6.1.0",
     "sass": "^1.49.9",
     "uswds": "^2.13.2"
@@ -42,7 +43,5 @@
     "rimraf": "^3.0.2"
   },
   "engines": {
-    "node": "14.x.x",
-    "npm": "6.x.x"
   }
 }
