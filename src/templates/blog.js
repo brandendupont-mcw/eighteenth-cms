@@ -42,7 +42,7 @@ const Blog = ({ data, pageContext }) => {
                   <div className="text-base margin-bottom-2">
                     <div className="margin-top-neg-105">
                       By <span className="text-bold">{post.author}</span> ·{' '}
-                      {post.date}
+                      {new Date(post.date).toISOString().substring(0, 10)}
                     </div>
                   </div>
                   {/*
