@@ -18,7 +18,6 @@
   "dependencies": {
     "cross-env": "^7.0.3",
     "gatsby": "^5.9.3",
-    "gatsby-adapter-netlify": "^1.0.4",
     "gatsby-awesome-pagination": "^0.3.8",
     "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-decap-cms": "^4.0.4",
