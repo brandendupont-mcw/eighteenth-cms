@@ -165,7 +165,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-decap-cms`,
-    `gatsby-plugin-netlify`,
     `gatsby-plugin-sitemap`,
     {
       resolve: 'gatsby-plugin-robots-txt',
