@@ -1,6 +1,6 @@
 ---
 title: "Motor Vehicle Theft:  Additional Community Impacts and Next Steps"
-date: 10-26-2022
+date: 2022-10-26
 author: John Kellner
 ---
 You might hear reform advocates talking about motor vehicle theft as just a property crime, but the reality is far more complex.  In the first 8 months of 2022, in addition to filing over 500 cases that involve a motor vehicle theft charge, we learned the following:

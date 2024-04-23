@@ -1,6 +1,6 @@
 ---
 title: Public Data Dashboards in the 18th
-date: 07-01-2022
+date: 2022-07-01
 author: John Kellner
 ---
 Welcome to the 18th Judicial District Public Data Dashboards.  Being open and transparent is one of District Attorney John Kellner’s CORE values, and this tool will make more information available to the public about what we do on an ongoing basis in an interactive manner. 

@@ -1,6 +1,6 @@
 ---
 title: Reducing Time To Resolution in Felony Cases
-date: 04-09-2024
+date: 2024-04-09
 author: John Kellner
 ---
 Early in my administration, as we were deep into the short-term impacts of COVID on our court system, my office began to closely monitor the timely resolution of cases, and we didn’t like what we were seeing.  Much like the rest of the country, the time it took to resolve cases shot up when COVID hit, and unfortunately it kept rising.  This was not good news.  We know from experience that as time drags on, victims can lose faith in the system, witnesses might move away or be more reluctant to participate, and defendants have delays before getting into needed interventions like treatment. 

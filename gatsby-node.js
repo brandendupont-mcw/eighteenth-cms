@@ -34,9 +34,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions;
+  const { createRedirect } = actions
 
   await createBlogPages(createPage, graphql);
   await createMarkdownPages(createPage, graphql);
+
+
+  
 };
 
 async function createBlogPages(createPage, graphql) {
