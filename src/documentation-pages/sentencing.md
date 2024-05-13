@@ -30,8 +30,6 @@ Over the past few years, a number of felonies have been reclassified as misdemea
 <iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-Fn5al" src="https://datawrapper.dwcdn.net/Fn5al/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
 Recidivism is a challenging area of study but an important benchmark for our office.  When someone is placed in a community-based sentence such as probation, we want to ensure that the community remains safe.  While we are encouraged that this recidivism rate is on a downward trend, we want to continue to evaluate our decisions on case management to reduce recidivism even further.   
 
 If you would like additional data from a statewide perspective on recidivism, the Colorado Division of Criminal Justice publishes data on [](https://ors.colorado.gov/ors-recidivism)interactive dashboards [ ](https://ors.colorado.gov/ors-recidivism)that may provide additional context.
@@ -44,8 +42,6 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-mjsgM" src="https://datawrapper.dwcdn.net/mjsgM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
-
-<br>
 
 We will continue to monitor and study this indicator over time as we see the impacts of changes Colorado's criminal law.  It may be helpful as you review this indicator to review the distribution of the types of cases that were filed by our office.  [You can find that information here](https://co-18th-district.netlify.app/filing_charging).
 
@@ -68,7 +64,7 @@ If successfully completed, a deferred judgment can result in a case being dismis
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-idYtU" src="https://datawrapper.dwcdn.net/idYtU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+</script><br>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).\
 <br>
