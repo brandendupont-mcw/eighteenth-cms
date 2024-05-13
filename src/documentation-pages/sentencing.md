@@ -10,16 +10,12 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-<br>
-
 <iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-UMik4" src="https://datawrapper.dwcdn.net/UMik4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+</script><br>
 
 As you review the sentencing data below, it is important to read these metrics in conjunction with the other information provided on this website.  For example, the chart below deals with sentences imposed on felony convictions.  You may also wish to consider additional metrics such as how felony cases resolved (ie: the percentages that were dismissed or reduced to misdemeanor offenses) for greater context and insight into these numbers.  <br>
 
-<br>
-
-<iframe title="Number of Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-EYmgg" src="https://datawrapper.dwcdn.net/EYmgg/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<br><iframe title="Number of Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-EYmgg" src="https://datawrapper.dwcdn.net/EYmgg/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -28,8 +24,6 @@ This metric represents a percentage of defendants going to prison that seems to 
 
 <iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-BJtyH" src="https://datawrapper.dwcdn.net/BJtyH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void g0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
-
-<br>
 
 Over the past few years, a number of felonies have been reclassified as misdemeanors, all while we have struggled to come through the COVID-19 Pandemic which put tremendous pressure on our jail.  We will continue to study this indicator to better understand whether we are truly seeing a trend in sentencing, or if this is simply a reflection of additional crimes that were once felonies now being handled in a manner we might expect absent the COVID-19 pandemic.<br>
 
@@ -60,20 +54,16 @@ We will continue to monitor and study this indicator over time as we see the imp
 <iframe title="Community Corrections as an Alternative to Prison for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-kmSnB" src="https://datawrapper.dwcdn.net/kmSnB/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
 In some cases, Community Corrections is an important tool to help build skills or address treatment needs.  However, it is a community-based sentence, and is not appropriate in every case.  We will continue to monitor this metric while taking into account the criminal history of each defendant, the input from victims, a defendant's interest in treatment and rehabilitation, and the types of charges involved.
 
 <br>
 
 <iframe title="Deferred Judgment as an Alternative to Probation for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-6G1J7" src="https://datawrapper.dwcdn.net/6G1J7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+</script>
 
 <br>
 
 If successfully completed, a deferred judgment can result in a case being dismissed and a defendant having no permanent criminal record, while a sentence to traditional probation generally involves a conviction.  Our office carefully reviews each case and each defendant before making a decision on whether a deferred judgment is an appropriate outcome on a case.  
-
-<br>
 
 <br>
 
@@ -88,7 +78,7 @@ If successfully completed, a deferred judgment can result in a case being dismis
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-NDKu8" src="https://datawrapper.dwcdn.net/NDKu8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+</script><br>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
 <br>
@@ -106,8 +96,6 @@ Our office is committed to ensuring that defendants have equal access to justice
 
 **Public Defender Qualification**: In Colorado, incarcerated defendants are automatically appointed a public defender for as long as they remain in custody. Out-of-custody defendants must apply and meet federal indigence requirements to qualify for a public defender. Therefore, there is the potential for public defenders to be representing individuals accused of more serious crimes.
 
-<a name="felony incarceration"></a>
-
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-5paDy" src="https://datawrapper.dwcdn.net/5paDy/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="650"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -117,17 +105,13 @@ In addition to the public defender data above, this is another attempt to examin
 
 ## **Pretrial Detention Indicators**
 
-Below are a set of indicators that provide additional context about pretrial detention, incarceration in jail prior to case resolution. These indicators help the DA's Office ensure the reduction of unnecessary pretrial detention.
+Below are a set of indicators that provide additional context about pretrial detention, incarceration in jail prior to case resolution. These indicators help the DA's Office ensure the reduction of unnecessary pretrial detention.<br>
 
 <iframe title="Reducing Reliance on Pretrial Detention for Non-Traffic Cases" aria-label="Interactive line chart" id="datawrapper-chart-oJoEJ" src="https://datawrapper.dwcdn.net/oJoEJ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
-<br>
-
 <iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants  (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-O0ZVy" src="https://datawrapper.dwcdn.net/O0ZVy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="595" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+</script><br>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).\
 <br>
@@ -137,7 +121,7 @@ Below are a set of indicators that provide additional context about pretrial det
 <br>
 
 <iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-NC8H2" src="https://datawrapper.dwcdn.net/NC8H2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="595" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+</script><br>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
 <br>
