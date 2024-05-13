@@ -15,7 +15,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 As you review the sentencing data below, it is important to read these metrics in conjunction with the other information provided on this website.  For example, the chart below deals with sentences imposed on felony convictions.  You may also wish to consider additional metrics such as how felony cases resolved (ie: the percentages that were dismissed or reduced to misdemeanor offenses) for greater context and insight into these numbers.  <br>
 
-<br><iframe title="Number of Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-EYmgg" src="https://datawrapper.dwcdn.net/EYmgg/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<br><iframe title="Number of Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-EYmgg" src="https://datawrapper.dwcdn.net/EYmgg/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -34,7 +34,7 @@ Over the past few years, a number of felonies have been reclassified as misdemea
 
 Recidivism is a challenging area of study but an important benchmark for our office.  When someone is placed in a community-based sentence such as probation, we want to ensure that the community remains safe.  While we are encouraged that this recidivism rate is on a downward trend, we want to continue to evaluate our decisions on case management to reduce recidivism even further.   
 
-If you would like additional data from a statewide perspective on recidivism, the Colorado Division of Criminal Justice publishes data on [interactive dashboards ](https://ors.colorado.gov/ors-recidivism)that may provide additional context.
+If you would like additional data from a statewide perspective on recidivism, the Colorado Division of Criminal Justice publishes data on [](https://ors.colorado.gov/ors-recidivism)interactive dashboards [ ](https://ors.colorado.gov/ors-recidivism)that may provide additional context.
 
 <br>
 
