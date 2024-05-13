@@ -7,7 +7,7 @@ During the COVID-19 Pandemic, even as fewer cars were on the road, a pattern beg
 
 My office seeks to better understand this increase and how we can help stop the spike in motor vehicle theft.  Over the next several weeks, we will examine several aspects of motor vehicle theft, and how my office has responded to this increase in crime to help curtail this disturbing trend.
 
-Keep in mind, the [Colorado Auto Theft Prevention Authority](https://lockdownyourcar.org/prevention/) notes that **“73% of adult car thieves are charged with additional offenses such as drug crimes, armed robbery, home invasion and identity theft.”**  In this review we are focusing only on the motor vehicle theft component of these crimes even though motor vehicle theft is often not the only charge filed in these cases.
+Keep in mind, the [](https://lockdownyourcar.org/prevention/)Colorado Auto Theft Prevention Authority notes that **“73% of adult car thieves are charged with additional offenses such as drug crimes, armed robbery, home invasion and identity theft.”**  In this review we are focusing only on the motor vehicle theft component of these crimes even though motor vehicle theft is often not the only charge filed in these cases.
 
 ## **The Initial Report**
 
