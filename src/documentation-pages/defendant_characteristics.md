@@ -38,12 +38,11 @@ As we have noted throughout these pages, the data we currently rely on is not ba
 
 <br>
 
-<a name="census"></a> 
+<br id="census">
 
 <br>
 
-<iframe title="District Population, by Race/Ethnicity 2020 Census" aria-label="Donut Chart" id="datawrapper-chart-Lohkz" src="https://datawrapper.dwcdn.net/Lohkz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"]+"px"}}}))}();
-</script> <br>
+<iframe title="District Population, by Race/Ethnicity 2022 Census" aria-label="Donut Chart" id="datawrapper-chart-Lohkz" src="https://datawrapper.dwcdn.net/Lohkz/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script><br>
 
 <br>
 
