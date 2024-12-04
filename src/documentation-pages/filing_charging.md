@@ -12,28 +12,35 @@ In Colorado, <a href="/18th/technical-notes#misdemeanor">misdemeanors</a> (inclu
 
 <br>
 
-<br>
-
 <iframe title="Cases Filed" aria-label="Table" id="datawrapper-chart-mU8ry" src="https://datawrapper.dwcdn.net/mU8ry/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+</script>
 
 <br>
 
 <br>
 
 <iframe title="Number of Cases Filed, by Year " aria-label="Interactive line chart" id="datawrapper-chart-76b0m" src="https://datawrapper.dwcdn.net/76b0m/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>  <br>
+</script> 
 
 <br>
 
-The total number of cases filed each year took a sharp hit during 2020 when the COVID-19 pandemic hit.  In 2022, we appear to be trending closer towards the pre-pandemic filing levels we saw in 2017-2019.  We will continue to closely monitor this trend.<br>
+<br>
+
+The total number of cases filed each year took a sharp hit during 2020 when the COVID-19 pandemic hit.  In 2022, we appear to be trending closer towards the pre-pandemic filing levels we saw in 2017-2019.  We will continue to closely monitor this trend.
+
+<br>\
+<br>
 
 <iframe title="Number of Cases Filed, by Charge Level" aria-label="Interactive line chart" id="datawrapper-chart-vvmob" src="https://datawrapper.dwcdn.net/vvmob/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+</script>
+
+<br>
 
 <br>
 
 2020 marked a dramatic shift in the number of felony offenses filed, falling from 5,372 in 2019 to 4,406 in 2020. A significant portion of this decrease comes from changes the legislature passed [HB19-1263](https://leg.colorado.gov/bills/hb19-1263) which changed the level of offense for drug possession cases, meaning that many offenses which were previously a class 4 drug felony were reclassified as a misdemeanor. This change went into effect on March 1, 2020. That same month, Colorado began to see positive tests for COVID-19 which dramatically impacted how citizens interacted, as well as law enforcement and court operations. While the overall number of felonies filed moved lower, about 90% of this reduction occurred in the least serious felony offenses (F4, F5, F6, DF3, and DF4). 75% of the reduction occurred in a reduction in DF4 case filings alone - the lowest level of drug felony, which became misdemeanor offenses.
+
+<br>
 
 <br>
 
@@ -44,12 +51,8 @@ The total number of cases filed each year took a sharp hit during 2020 when the 
 
 <br>
 
-<br>
-
 <iframe title="Number of Cases Filed, by Charge Type" aria-label="Column Chart" id="datawrapper-chart-FeiaO" src="https://datawrapper.dwcdn.net/FeiaO/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
-
-<br>
+</script>
 
 <br>
 
@@ -59,8 +62,12 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <br>
 
+<br>
+
 <iframe title="Prioritizing Cases with the Greatest Public Safety Returns" aria-label="Interactive line chart" id="datawrapper-chart-ZFdOH" src="https://datawrapper.dwcdn.net/ZFdOH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> 
+
+<br>
 
 <br>
 
@@ -68,19 +75,25 @@ This metric has remained relatively consistent throughout the years even as we s
 
 <br>
 
-<br>
-
-<a name="violent crimes filed">
+<br><a name="violent crimes filed">
 
 <iframe title="Violent Crimes Filed, by Year" aria-label="Interactive line chart" id="datawrapper-chart-VfpEV" src="https://datawrapper.dwcdn.net/VfpEV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+</script>
+
+<br>
 
 <br>
 
 <iframe title="Violent Crimes Filed" aria-label="Interactive line chart" id="datawrapper-chart-TmHBM" src="https://datawrapper.dwcdn.net/TmHBM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+</script>
 
-The chart above displays the raw number of violent crime cases filed each quarter.  That number has remained steady or trending slightly upward.  This indicator corroborates what we see elsewhere in our data:  reductions in felony case filings generally involve reductions in less serious cases.  More aggravated offenses such as the violent crimes tracked here have not seen a similar decrease.<br>
+<br>
+
+<br>
+
+The chart above displays the raw number of violent crime cases filed each quarter.  That number has remained steady or trending slightly upward.  This indicator corroborates what we see elsewhere in our data:  reductions in felony case filings generally involve reductions in less serious cases.  More aggravated offenses such as the violent crimes tracked here have not seen a similar decrease.
+
+<br>
 
 <br>
 
