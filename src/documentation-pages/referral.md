@@ -12,7 +12,7 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 <br>
 
-<iframe title="Number of Felony Referrals Filed and Number Declined" aria-label="Interactive area chart" id="datawrapper-chart-7yNH3" src="https://datawrapper.dwcdn.net/7yNH3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Felony Referrals Filed and Number Declined" aria-label="Interactive area chart" id="datawrapper-chart-7yNH3" src="https://datawrapper.dwcdn.net/7yNH3/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -21,7 +21,7 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 <br>
 
-<iframe title="Percent of Felony Referrals Declined" aria-label="Interactive line chart" id="datawrapper-chart-a1cCM" src="https://datawrapper.dwcdn.net/a1cCM/15/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Percent of Felony Referrals Declined" aria-label="Interactive line chart" id="datawrapper-chart-a1cCM" src="https://datawrapper.dwcdn.net/a1cCM/15/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -36,7 +36,7 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <br>
 
-<iframe title="Case Filing Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-aN91V" src="https://datawrapper.dwcdn.net/aN91V/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="598" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Case Filing Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-aN91V" src="https://datawrapper.dwcdn.net/aN91V/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="598" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).\
@@ -45,7 +45,7 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <br>
 
-<iframe title="Case Filing Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-AnVCp" src="https://datawrapper.dwcdn.net/AnVCp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="598" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Case Filing Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-AnVCp" src="https://datawrapper.dwcdn.net/AnVCp/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="598" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
@@ -54,7 +54,7 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <br>
 
-<iframe title="Ability to Identify Dismissible Cases at Filing" aria-label="Interactive line chart" id="datawrapper-chart-ZPBFD" src="https://datawrapper.dwcdn.net/ZPBFD/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Ability to Identify Dismissible Cases at Filing" aria-label="Interactive line chart" id="datawrapper-chart-ZPBFD" src="https://datawrapper.dwcdn.net/ZPBFD/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -63,7 +63,7 @@ In general, we would prefer to dismiss a case at the filing stage rather than la
 
 <br>
 
-<iframe title="Avoiding Unnecessary Felony Charges at Filing" aria-label="Interactive line chart" id="datawrapper-chart-wRerk" src="https://datawrapper.dwcdn.net/wRerk/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Avoiding Unnecessary Felony Charges at Filing" aria-label="Interactive line chart" id="datawrapper-chart-wRerk" src="https://datawrapper.dwcdn.net/wRerk/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 The level of offense - whether felony or misdemeanor - is established by the Colorado Legislature.  For example, theft of a motor vehicle with a value of less than $2,000 is a misdemeanor, but for a car valued at $10,000, it is a felony offense.  Our charging decisions must sit within these guidelines, but prosecutors have the discretion in a variety of circumstances to consider things beyond the technical elements of a charge when discussing a potential plea bargain.  This could include things like criminal history, a defendant's engagement in drug treatment or other rehabilitative efforts, as well as the wishes of a victim.  Prosecutors are also aware that felony convictions can have a life-long impact on a defendant.  Our office seeks to prioritize those cases where there is a greater risk to public safety or established history of escalating criminal conduct.  For first-time offenders, this often (though not always) can result in treatment and rehabilitation without the lifelong consequences of a felony conviction.

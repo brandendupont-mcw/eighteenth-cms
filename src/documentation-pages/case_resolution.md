@@ -12,7 +12,7 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 <br>
 
-<iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-t6oHZ" src="https://datawrapper.dwcdn.net/t6oHZ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-t6oHZ" src="https://datawrapper.dwcdn.net/t6oHZ/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -21,14 +21,14 @@ Since the start of the pandemic, we have struggled to resolve cases at the same 
 
 <br>
 
-<iframe title="Felony Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-XB270" src="https://datawrapper.dwcdn.net/XB270/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-XB270" src="https://datawrapper.dwcdn.net/XB270/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 <br>
 
-<iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-t3Jci" src="https://datawrapper.dwcdn.net/t3Jci/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-t3Jci" src="https://datawrapper.dwcdn.net/t3Jci/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -39,7 +39,7 @@ Since the start of the pandemic, we have struggled to resolve cases at the same 
 
 Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> that provide additional context about case resolutions. These indicators help the DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. <br>
 
-<iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-eTrQc" src="https://datawrapper.dwcdn.net/eTrQc/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-eTrQc" src="https://datawrapper.dwcdn.net/eTrQc/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -48,7 +48,7 @@ Our office charges a particular case based on what the evidence will prove and h
 
 <br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-ITheZ" src="https://datawrapper.dwcdn.net/ITheZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-ITheZ" src="https://datawrapper.dwcdn.net/ITheZ/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).\
@@ -56,7 +56,7 @@ Our office charges a particular case based on what the evidence will prove and h
 
 <a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-Y0ypE" src="https://datawrapper.dwcdn.net/Y0ypE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-Y0ypE" src="https://datawrapper.dwcdn.net/Y0ypE/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
@@ -64,7 +64,7 @@ Our office charges a particular case based on what the evidence will prove and h
 
 <a href="/18th/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
-<iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-8DTXQ" src="https://datawrapper.dwcdn.net/8DTXQ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-8DTXQ" src="https://datawrapper.dwcdn.net/8DTXQ/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -75,7 +75,7 @@ We are encouraged that we've seen some reduction in the median time for resoluti
 
 <br>
 
-<iframe title="Felony Dismissal Timeliness" aria-label="Interactive line chart" id="datawrapper-chart-BhP5H" src="https://datawrapper.dwcdn.net/BhP5H/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Dismissal Timeliness" aria-label="Interactive line chart" id="datawrapper-chart-BhP5H" src="https://datawrapper.dwcdn.net/BhP5H/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -86,7 +86,7 @@ While we are encouraged that this metric shows progress and reflects that the me
 
 <br>
 
-<iframe title="Minimizing Delays in Felony Case Processing by Limiting Hearings" aria-label="Interactive line chart" id="datawrapper-chart-8j392" src="https://datawrapper.dwcdn.net/8j392/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Minimizing Delays in Felony Case Processing by Limiting Hearings" aria-label="Interactive line chart" id="datawrapper-chart-8j392" src="https://datawrapper.dwcdn.net/8j392/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>

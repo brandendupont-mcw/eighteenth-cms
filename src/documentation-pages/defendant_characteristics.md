@@ -14,24 +14,24 @@ As we have noted throughout these pages, the data we currently rely on is not ba
 
 <br>
 
-<iframe title="Number of Cases Filed, by Defendant Gender" aria-label="Interactive line chart" id="datawrapper-chart-2M7HS" src="https://datawrapper.dwcdn.net/2M7HS/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Defendant Gender" aria-label="Interactive line chart" id="datawrapper-chart-2M7HS" src="https://datawrapper.dwcdn.net/2M7HS/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Gender, 2021" aria-label="Donut Chart" id="datawrapper-chart-VtVt3" src="https://datawrapper.dwcdn.net/VtVt3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Gender, 2021" aria-label="Donut Chart" id="datawrapper-chart-VtVt3" src="https://datawrapper.dwcdn.net/VtVt3/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity (Copy)" aria-label="Interactive line chart" id="datawrapper-chart-afXKk" src="https://datawrapper.dwcdn.net/afXKk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity (Copy)" aria-label="Interactive line chart" id="datawrapper-chart-afXKk" src="https://datawrapper.dwcdn.net/afXKk/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. This chart also reflects the results of [additional steps](https://data.dacolorado.org/18th/technical-notes#race) we have taken to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).  
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Race/Ethnicity 2022 (Copy)" aria-label="Donut Chart" id="datawrapper-chart-dvQTl" src="https://datawrapper.dwcdn.net/dvQTl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Race/Ethnicity 2022 (Copy)" aria-label="Donut Chart" id="datawrapper-chart-dvQTl" src="https://datawrapper.dwcdn.net/dvQTl/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Important note about race and ethnicity data:** The information contained in this dashboard comes from a variety of sources and is **NOT** based on a consistent method of voluntary self-identification. This chart also reflects the results of [additional steps](https://data.dacolorado.org/18th/technical-notes#race) we have taken to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).  
@@ -42,26 +42,26 @@ As we have noted throughout these pages, the data we currently rely on is not ba
 
 <br>
 
-<iframe title="District Population, by Race/Ethnicity 2020 Census" aria-label="Donut Chart" id="datawrapper-chart-Lohkz" src="https://datawrapper.dwcdn.net/Lohkz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"]+"px"}}}))}();
+<iframe title="District Population, by Race/Ethnicity 2020 Census" aria-label="Donut Chart" id="datawrapper-chart-Lohkz" src="https://datawrapper.dwcdn.net/Lohkz/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-<iframe title="Number of Cases Filed, by Defendant Age" aria-label="Interactive line chart" id="datawrapper-chart-0alFg" src="https://datawrapper.dwcdn.net/0alFg/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Defendant Age" aria-label="Interactive line chart" id="datawrapper-chart-0alFg" src="https://datawrapper.dwcdn.net/0alFg/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Age 2021" aria-label="Donut Chart" id="datawrapper-chart-Wn5JB" src="https://datawrapper.dwcdn.net/Wn5JB/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Age 2021" aria-label="Donut Chart" id="datawrapper-chart-Wn5JB" src="https://datawrapper.dwcdn.net/Wn5JB/8/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script><br>
 
 <br>
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Criminal History 2021" aria-label="Donut Chart" id="datawrapper-chart-AT9Q6" src="https://datawrapper.dwcdn.net/AT9Q6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="460"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Criminal History 2021" aria-label="Donut Chart" id="datawrapper-chart-AT9Q6" src="https://datawrapper.dwcdn.net/AT9Q6/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="460"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -78,14 +78,14 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <a name="violent recidivism">
 
-<iframe title="Violent Recidivism" aria-label="Interactive area chart" id="datawrapper-chart-Y9q6e" src="https://datawrapper.dwcdn.net/Y9q6e/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Violent Recidivism" aria-label="Interactive area chart" id="datawrapper-chart-Y9q6e" src="https://datawrapper.dwcdn.net/Y9q6e/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 Violent offenses often come with sentence enhancers or significant incarceration when compared to less serious offenses like drug possession.  Our first priority in these cases is the safety of the victim and the community.  We would expect very few defendants to have a prior violent crime conviction when facing a pending violent crime charge because of the serious penalties that are often imposed on violent offenses.<br>
 
 <br>
 
-<iframe title="Escalation in Criminal Behavior" aria-label="Interactive line chart" id="datawrapper-chart-hUiM4" src="https://datawrapper.dwcdn.net/hUiM4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Escalation in Criminal Behavior" aria-label="Interactive line chart" id="datawrapper-chart-hUiM4" src="https://datawrapper.dwcdn.net/hUiM4/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>

@@ -18,7 +18,7 @@ The data reflected below comes from internal analysis of diversion cases referre
 
 <br>
 
-<iframe title="Race and Ethnicity of Clients Screened For Diversion" aria-label="Multiple Pies" id="datawrapper-chart-9sB8T" src="https://datawrapper.dwcdn.net/9sB8T/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="388"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Race and Ethnicity of Clients Screened For Diversion" aria-label="Multiple Pies" id="datawrapper-chart-9sB8T" src="https://datawrapper.dwcdn.net/9sB8T/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="388"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
@@ -27,7 +27,7 @@ Clients for Diversion may ultimately not participate for a variety of reasons, i
 
 <br>
 
-<iframe title="Adult Clients:  Race and Ethnicity for Screening and Participation" aria-label="Split Bars" id="datawrapper-chart-fVHXV" src="https://datawrapper.dwcdn.net/fVHXV/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="258"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Adult Clients:  Race and Ethnicity for Screening and Participation" aria-label="Split Bars" id="datawrapper-chart-fVHXV" src="https://datawrapper.dwcdn.net/fVHXV/2/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="258"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
@@ -36,7 +36,7 @@ Clients for Diversion may ultimately not participate for a variety of reasons, i
 
 <br>
 
-<iframe title="Juvenile Clients: Race and Ethnicity for Screening and Participation " aria-label="Split Bars" id="datawrapper-chart-ZP7UJ" src="https://datawrapper.dwcdn.net/ZP7UJ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="258"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Juvenile Clients: Race and Ethnicity for Screening and Participation " aria-label="Split Bars" id="datawrapper-chart-ZP7UJ" src="https://datawrapper.dwcdn.net/ZP7UJ/2/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="258"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
@@ -45,21 +45,21 @@ Clients for Diversion may ultimately not participate for a variety of reasons, i
 
 <br>
 
-<iframe title="Gender of Participating Diversion Clients" aria-label="Multiple Pies" id="datawrapper-chart-BXuqB" src="https://datawrapper.dwcdn.net/BXuqB/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="372"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Gender of Participating Diversion Clients" aria-label="Multiple Pies" id="datawrapper-chart-BXuqB" src="https://datawrapper.dwcdn.net/BXuqB/4/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="372"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
 
 <br>
 
-<iframe title="Participating Diversion Cases Closed By Quarter" aria-label="Stacked Column Chart" id="datawrapper-chart-1yYt1" src="https://datawrapper.dwcdn.net/1yYt1/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="399"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Participating Diversion Cases Closed By Quarter" aria-label="Stacked Column Chart" id="datawrapper-chart-1yYt1" src="https://datawrapper.dwcdn.net/1yYt1/3/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="399"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
 
 <br>
 
-<iframe title="Number of Felony Cases Receiving Deferred Judgment, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-BANQZ" src="https://datawrapper.dwcdn.net/BANQZ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Felony Cases Receiving Deferred Judgment, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-BANQZ" src="https://datawrapper.dwcdn.net/BANQZ/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -72,7 +72,7 @@ While the total number of deferred judgments have declined, there are two import
 
 Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> that provide additional context about diversion and deferrals. These indicators help the DA's Office ensure they are providing alternatives to traditional prosecution effectively and fairly.
 
-<iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-65USJ" src="https://datawrapper.dwcdn.net/65USJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="581" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-65USJ" src="https://datawrapper.dwcdn.net/65USJ/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="581" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification.  While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis).\
@@ -82,7 +82,7 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <br>
 
-<iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-fSNZ0" src="https://datawrapper.dwcdn.net/fSNZ0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="581" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-fSNZ0" src="https://datawrapper.dwcdn.net/fSNZ0/1/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="581" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **Reminder:**  Race and Ethnicity data is NOT based on a consistent method of voluntary self-identification. While we work on strategies to improve that data collection, we believe it's important to engage in discussions around issues such as the one highlighted in this metric.  We have also taken [additional steps](https://data.dacolorado.org/18th/technical-notes#race) to ensure that Hispanic defendants are not underrepresented due to historical data collection practices.  Our office is committed to a deeper study of these issues to better understand the root causes of disparity in the criminal justice system.  You can read more about these issues in [our detailed report](https://data.dacolorado.org/18th-disparity-analysis). 
@@ -92,7 +92,7 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <br>
 
-<iframe title="Percent of Deferred Judgments with Successful Completion" aria-label="Interactive area chart" id="datawrapper-chart-g8gnM" src="https://datawrapper.dwcdn.net/g8gnM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Percent of Deferred Judgments with Successful Completion" aria-label="Interactive area chart" id="datawrapper-chart-g8gnM" src="https://datawrapper.dwcdn.net/g8gnM/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -101,7 +101,7 @@ We are encouraged by the high level of successful completion of deferred judgmen
 
 <br>
 
-<iframe title="Recidivism After Deferred Judgment" aria-label="Interactive line chart" id="datawrapper-chart-3WGap" src="https://datawrapper.dwcdn.net/3WGap/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Recidivism After Deferred Judgment" aria-label="Interactive line chart" id="datawrapper-chart-3WGap" src="https://datawrapper.dwcdn.net/3WGap/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>

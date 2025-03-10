@@ -14,21 +14,21 @@ In Colorado, <a href="/18th/technical-notes#misdemeanor">misdemeanors</a> (inclu
 
 <br>
 
-<iframe title="Cases Filed" aria-label="Table" id="datawrapper-chart-mU8ry" src="https://datawrapper.dwcdn.net/mU8ry/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed" aria-label="Table" id="datawrapper-chart-mU8ry" src="https://datawrapper.dwcdn.net/mU8ry/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 <br>
 
-<iframe title="Number of Cases Filed, by Year " aria-label="Interactive line chart" id="datawrapper-chart-76b0m" src="https://datawrapper.dwcdn.net/76b0m/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Year " aria-label="Interactive line chart" id="datawrapper-chart-76b0m" src="https://datawrapper.dwcdn.net/76b0m/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>  <br>
 
 <br>
 
 The total number of cases filed each year took a sharp hit during 2020 when the COVID-19 pandemic hit.  In 2022, we appear to be trending closer towards the pre-pandemic filing levels we saw in 2017-2019.  We will continue to closely monitor this trend.<br>
 
-<iframe title="Number of Cases Filed, by Charge Level" aria-label="Interactive line chart" id="datawrapper-chart-vvmob" src="https://datawrapper.dwcdn.net/vvmob/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Charge Level" aria-label="Interactive line chart" id="datawrapper-chart-vvmob" src="https://datawrapper.dwcdn.net/vvmob/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -37,7 +37,7 @@ The total number of cases filed each year took a sharp hit during 2020 when the 
 
 <br>
 
-<iframe title="Number of Cases Filed, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-B3Vf7" src="https://datawrapper.dwcdn.net/B3Vf7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-B3Vf7" src="https://datawrapper.dwcdn.net/B3Vf7/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
@@ -46,7 +46,7 @@ The total number of cases filed each year took a sharp hit during 2020 when the 
 
 <br>
 
-<iframe title="Number of Cases Filed, by Charge Type" aria-label="Column Chart" id="datawrapper-chart-FeiaO" src="https://datawrapper.dwcdn.net/FeiaO/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Charge Type" aria-label="Column Chart" id="datawrapper-chart-FeiaO" src="https://datawrapper.dwcdn.net/FeiaO/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -59,7 +59,7 @@ Below are a set of <a href="/18th/technical-notes#indicators">indicators</a> tha
 
 <br>
 
-<iframe title="Prioritizing Cases with the Greatest Public Safety Returns" aria-label="Interactive line chart" id="datawrapper-chart-ZFdOH" src="https://datawrapper.dwcdn.net/ZFdOH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Prioritizing Cases with the Greatest Public Safety Returns" aria-label="Interactive line chart" id="datawrapper-chart-ZFdOH" src="https://datawrapper.dwcdn.net/ZFdOH/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> 
 
 <br>
@@ -72,12 +72,12 @@ This metric has remained relatively consistent throughout the years even as we s
 
 <a name="violent crimes filed">
 
-<iframe title="Violent Crimes Filed, by Year" aria-label="Interactive line chart" id="datawrapper-chart-VfpEV" src="https://datawrapper.dwcdn.net/VfpEV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Violent Crimes Filed, by Year" aria-label="Interactive line chart" id="datawrapper-chart-VfpEV" src="https://datawrapper.dwcdn.net/VfpEV/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-<iframe title="Violent Crimes Filed" aria-label="Interactive line chart" id="datawrapper-chart-TmHBM" src="https://datawrapper.dwcdn.net/TmHBM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Violent Crimes Filed" aria-label="Interactive line chart" id="datawrapper-chart-TmHBM" src="https://datawrapper.dwcdn.net/TmHBM/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 The chart above displays the raw number of violent crime cases filed each quarter.  That number has remained steady or trending slightly upward.  This indicator corroborates what we see elsewhere in our data:  reductions in felony case filings generally involve reductions in less serious cases.  More aggravated offenses such as the violent crimes tracked here have not seen a similar decrease.<br>
