@@ -5,9 +5,6 @@ sidenav: false
 # **Overview**
 
 ### **Why did we develop this dashboard?**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JhVokLRHaRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The dashboard seeks to support:
 
 * **Transparency.** Ensuring that the DA’s Office is communicating what it is doing and the outcomes of its work.
