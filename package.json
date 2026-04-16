@@ -22,7 +22,7 @@
     "gatsby-awesome-pagination": "^0.3.8",
     "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-manifest": "^5.16.0",
-    "gatsby-plugin-netlify": "^5.16.0",
+    "gatsby-plugin-netlify": "^5.1.1",
     "gatsby-plugin-offline": "^6.16.0",
     "gatsby-plugin-react-helmet": "^6.16.0",
     "gatsby-plugin-robots-txt": "^1.8.0",
