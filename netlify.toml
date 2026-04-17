@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/18th/*"
-  to = "/:splat"
+  to = "/18th/:splat"
 
 
   
