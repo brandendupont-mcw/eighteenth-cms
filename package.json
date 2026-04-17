@@ -17,10 +17,8 @@
   },
   "dependencies": {
     "cross-env": "^7.0.3",
-    "decap-cms-app": "3.11.0",
     "gatsby": "^5.16.0",
     "gatsby-awesome-pagination": "^0.3.8",
-    "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-manifest": "^5.16.0",
     "gatsby-plugin-netlify": "^5.1.1",
     "gatsby-plugin-offline": "^6.16.0",
