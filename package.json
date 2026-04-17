@@ -36,6 +36,8 @@
     "uswds": "^2.13.2"
   },
   "devDependencies": {
+    "ajv": "^8.18.0",
+    "ajv-keywords": "^5.1.0",
     "eslint-config-react-app": "^7.0.0",
     "prettier": "^2.5.1",
     "rimraf": "^3.0.2"
@@ -43,4 +45,4 @@
   "engines": {
     "node": "18.x"
   }
-} 
+}
